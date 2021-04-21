@@ -1,0 +1,4206 @@
+author_id	submission_id	first_name	middle_name	last_name	country	url	primary_contact	seq	user_group_id	suffix
+2	2	Primož		Lukšič			1	1	NULL	NULL
+9	9	Boris		Horvat	SI		1	1	NULL	NULL
+19	17	Leah	Wrenn	Berman	US	http://webpages.ursinus.edu/lberman/	1	1	NULL	NULL
+93	71	Yanquan		Feng	CN		1	1	NULL	NULL
+92	70	Edward		Dobson	US		1	1	NULL	NULL
+10	9	Tomaž		Pisanski	SI		0	2	NULL	NULL
+11	10	Michael	O.	Albertson	US		1	1	NULL	NULL
+12	11	Zoran		Stanić		http://poincare.matf.bg.ac.rs/~zstanic/	1	1	NULL	NULL
+13	12	Richard		Hammack	US	http://www.people.vcu.edu/~rhammack/	1	1	NULL	NULL
+14	13	Steve		Wilson	US		1	1	NULL	NULL
+15	14	Tomislav		Došlić	HR		1	1	NULL	NULL
+16	15	Tomislav		Došlić			1	1	NULL	NULL
+17	16	Barry		Monson	CA	http://www.math.unb.ca/~barry/	0	1	NULL	NULL
+18	16	Egon		Schulte	US	http://www.math.neu.edu/~schulte/mathindex.html	1	2	NULL	NULL
+20	18	Gareth	Aneurin	Jones	GB		1	1	NULL	NULL
+21	18	Daniel		Pinto	GB		0	2	NULL	NULL
+22	19	Gordon	Ian	Williams	US	http://webpages.ursinus.edu/gwilliams/index.shtml	1	1	NULL	NULL
+23	19	Michael	I.	Hartley	AU		0	2	NULL	NULL
+24	20	Irene		Sciriha		http://staff.um.edu.mt/isci1/	1	1	NULL	NULL
+25	21	Bojan		Mohar	CA		1	1	NULL	NULL
+1318	751	Rafał		Kalinowski	PL		1	1	NULL	NULL
+27	23	Primož		Lukšič	SI		1	1	NULL	NULL
+28	23	Tomaž		Pisanski			0	2	NULL	NULL
+30	24	Gareth	Aneurin	Jones	GB		1	1	NULL	NULL
+31	25	Moshe		Rosenfeld	US		1	1	NULL	NULL
+32	26	Michel	Marie	Deza	FR	http://www.liga.ens.fr/~deza	0	1	NULL	NULL
+33	26	Mathieu		Dutour Sikirić	HR	http://www.liga.ens.fr/~dutour	1	2	NULL	NULL
+34	26	Sergey		Shpectorov	GB	http://web.mat.bham.ac.uk/S.Shpectorov/	0	3	NULL	NULL
+35	27	Marcin	Emil	Kuczma	PL		1	1	NULL	NULL
+75	60	Janez		Žerovnik	SI		1	1	NULL	NULL
+37	29	Iztok		Banič	SI		1	1	NULL	NULL
+38	29	Janez		Žerovnik	SI		0	2	NULL	NULL
+39	30	Francesco		Belardo	IT		1	1	NULL	NULL
+40	30	Enzo	M.	Li Marzi	IT		0	2	NULL	NULL
+41	30	Slobodan	K.	Simić	CS	http://matematika.etf.bg.ac.yu/ljudi/s_simic.htm	0	3	NULL	NULL
+42	31	Debra	L.	Boutin	US		1	1	NULL	NULL
+43	32	Yoomi		Rho	KR		1	1	NULL	NULL
+44	33	Daniel		Fleischer	DE	http://www.inf.uni-konstanz.de/~fleische	1	2	NULL	NULL
+45	33	Ulrik		Brandes	DE	http://www.inf.uni-konstanz.de/~brandes	0	1	NULL	NULL
+46	34	irene		Sciriha	MT	http://staff.um.edu.mt/isci1/	1	1	NULL	NULL
+47	35	Tetsuji		Taniguchi			1	1	NULL	NULL
+50	38	Marko		Razpet	SI		1	1	NULL	NULL
+51	39	Yoomi		Rho			1	1	NULL	NULL
+49	37	Gábor		Salamon	HU	http://www.sala.hu	1	1	NULL	NULL
+52	40	Antonio	Breda	d'Azevedo	PT		1	1	NULL	NULL
+53	41	Daniel		Pellicer	MX		1	1	NULL	NULL
+54	42	Zvi		Arad	IL		1	1	NULL	NULL
+55	43	László		Székely	US		1	1	NULL	NULL
+56	44	Izumi		Miyamoto		http://shingen.ccn.yamanashi.ac.jp/~imiyamoto	1	1	NULL	NULL
+57	45	Akihiro		Munemasa			1	2	NULL	NULL
+58	45	Aleksandar		Jurisic	SI		0	1	NULL	NULL
+59	45	Yuki		Tagami	JP		0	3	NULL	NULL
+60	46	Miklós		Krész	HU	http://www.jgytf.u-szeged.hu/~kresz/	1	2	NULL	NULL
+61	47	Jack	Edward	Graver	US	math.syr.edu/Bios/Graver.htm	1	1	NULL	NULL
+62	48	Mark		Korenblit			0	1	NULL	NULL
+63	48	Vadim		Levit			1	2	NULL	NULL
+64	49	Andrej		Vodopivec	SI		1	3	NULL	NULL
+65	50	Jozef		Širáň	GB		1	2	NULL	NULL
+66	51	Pablo		Spiga	IT		1	1	NULL	NULL
+67	52	Tomaž		Pisanski	SI		1	1	NULL	NULL
+68	53	Joohyung		Kim	US		1	1	NULL	NULL
+69	54	Tomáš		Madaras	CZ		1	1	NULL	NULL
+70	55	Mehdi		Alaeiyan	IR		1	1	NULL	NULL
+71	56	Yanquan		Feng	CN		1	1	NULL	NULL
+85	67	Mirko		Horňák	SK		1	1	NULL	NULL
+73	58	Tetsuji		Taniguchi			1	1	NULL	NULL
+74	59	Changqun		Wang	CN		1	1	NULL	NULL
+76	60	Petra		Šparl	SI		0	2	NULL	NULL
+77	61	Marko		Boben			1	1	NULL	NULL
+78	62	Alen		Orbani?	SI		1	1	NULL	NULL
+79	63	Shaofei		Du	CN		1	1	NULL	NULL
+168	102	Egon		Schulte	US	http://www.math.neu.edu/~schulte/	1	2	NULL	NULL
+81	65	Tomaž		Pisanski	SI		1	1	NULL	NULL
+82	65	Dragan		Marušič			0	2	NULL	NULL
+83	66	Tomaž		Pisanski	SI		1	1	NULL	NULL
+84	66	Dragan		Marušič			0	2	NULL	NULL
+86	67	Roman		Soták	SK		0	2	NULL	NULL
+87	68	Tomaž		Pisanski	SI		1	1	NULL	NULL
+88	68	Janez		Žerovnik	SI		0	2	NULL	NULL
+89	69	Leah	Wrenn	Berman	US	http://webpages.ursinus.edu/lberman/	1	1	NULL	NULL
+90	69	Branko		Grünbaum	US	http://www.math.washington.edu/~grunbaum/	0	2	NULL	NULL
+91	69	Jonathan		Lenchner	US	http://www.research.ibm.com/people/l/lenchner/	0	3	NULL	NULL
+94	72	Sandi		Klavžar	SI		1	3	NULL	NULL
+95	73	Damir		Vukičević	HR		1	1	NULL	NULL
+96	73	Tomaž		Pisanski			0	2	NULL	NULL
+97	74	Edward	Cameron	Kirby			1	1	NULL	NULL
+98	74	Roger	B	Mallion	GB		0	2	NULL	NULL
+99	74	Paul		Pollak			0	6	NULL	NULL
+100	74	Roger	B	Mallion	GB		0	4	NULL	NULL
+101	74	Paul		Pollak			0	7	NULL	NULL
+102	74	Roger	B	Mallion	GB		0	3	NULL	NULL
+103	74	Paul		Pollak			0	5	NULL	NULL
+104	75	Štefko		Miklavič	SI		1	4	NULL	NULL
+105	75	Dragan		Marušič	SI		0	3	NULL	NULL
+106	75	Aleksander		Malnič	SI		0	2	NULL	NULL
+107	75	Klavdija		Kutnar	SI		0	1	NULL	NULL
+108	76	Marko		Lovrečič Saražin	SI		1	1	NULL	NULL
+109	76	Dragan		Marušič	SI		0	2	NULL	NULL
+110	72	Boštjan		Brešar			0	1	NULL	NULL
+111	72	Manoj		Changat	IN		0	2	NULL	NULL
+112	72	Joseph		Mathews	IN		0	4	NULL	NULL
+113	72	Antony		Mathews	IN		0	5	NULL	NULL
+114	72	Narasimha-Shenoi		Prasanth	IN		0	6	NULL	NULL
+115	77	Richard	H.	Hammack	US	http://www.people.vcu.edu/~rhammack/	1	2	NULL	NULL
+116	77	Zachary		Bradshaw	US		0	1	NULL	NULL
+117	78	Damir		Vukičević	HR		1	1	NULL	NULL
+118	78	Tomaž		Pisanski	SI		0	2	NULL	NULL
+119	78	Ante		Graovac			0	3	NULL	NULL
+120	79	Barry		Monson	CA		1	1	NULL	NULL
+121	79	Asia		Ivić Weiss	CA		0	2	NULL	NULL
+122	80	Primož		Potočnik	SI		1	1	NULL	NULL
+123	80	Mateja		Šajna	CA		0	2	NULL	NULL
+124	81	Dragan		Marušič			1	2	NULL	NULL
+125	81	Klavdija		Kutnar	SI		0	1	NULL	NULL
+126	82	Dragan		Marusic			1	2	NULL	NULL
+127	82	Xuesong		Ma	CN		0	1	NULL	NULL
+128	83	Dragan		Marušič	SI		1	1	NULL	NULL
+129	83	Tomaž		Pisanski	SI		0	2	NULL	NULL
+130	84	A. P. Santha		kumaran	IN		1	1	NULL	NULL
+131	84	S		Athisayanathan	IN		0	2	NULL	NULL
+133	86	Damir		Vukičević	HR		1	1	NULL	NULL
+134	86	Ante		Graovac	HR		0	2	NULL	NULL
+135	87	Sandi		Klavzar	SI		1	1	NULL	NULL
+136	87	Janja		Jerebic			0	2	NULL	NULL
+137	88	Branko		Grünbaum	US		1	1	NULL	NULL
+138	89	Primož		Šparl	SI		1	1	NULL	NULL
+139	90	Istvan		Kovács	SI		1	1	NULL	NULL
+140	90	Klavdija		Kutnar	SI		0	2	NULL	NULL
+141	90	Janos		Ruff	HU		0	3	NULL	NULL
+144	91	Jürgen		Wolfart	DE	http://math.uni-frankfurt.de/~wolfart/	1	2	NULL	NULL
+143	91	David		Singerman	GB		0	1	NULL	NULL
+145	92	Yasuhiro		Nakashima	JP		1	1	NULL	NULL
+146	93	Dragan		Stevanović	SI		1	1	NULL	NULL
+147	49	Bojan		Mohar	CA		0	1	NULL	NULL
+148	49	Eckhard		Steffen	DE		0	2	NULL	NULL
+149	94	Bogdana		Oliynyk	UA		1	1	NULL	NULL
+150	50	Martin		Mačaj	SK		0	1	NULL	NULL
+151	50	Mária		Ipolyiová	SK		0	3	NULL	NULL
+152	95	Tomaž		Pisanski	SI		1	3	NULL	NULL
+153	95	Alen		Orbanić			0	1	NULL	NULL
+154	95	Marko		Petkovšek			0	2	NULL	NULL
+155	95	Primož		Potočnik			0	4	NULL	NULL
+156	96	Tomaž		Pisanski	SI		1	2	NULL	NULL
+157	96	Dragan		Marušič			0	1	NULL	NULL
+158	97	Guantao		Chen	US		1	1	NULL	NULL
+159	97	Zhiquan		Hu	CN		0	2	NULL	NULL
+160	97	Hao		Li			0	3	NULL	NULL
+161	98	Alexander	D.	Mednykh	RU		1	2	NULL	NULL
+162	98	Valery	A.	Liskovets	BY		0	1	NULL	NULL
+164	100	Torsten		Sander	DE		1	1	NULL	NULL
+165	101	Brian		Alspach	CA		1	1	NULL	NULL
+166	101	C. C.		Chen	SG		0	2	NULL	NULL
+167	101	Matthew		Dean	AU		0	3	NULL	NULL
+169	102	Dimitri		Leemans	BE	http://cso.ulb.ac.be/~dleemans/	0	1	NULL	NULL
+170	103	Indulal		Gopalapillai			1	1	NULL	NULL
+210	104	Marc		Hellmuth	DE		0	2	NULL	NULL
+172	105	Thomas	W.	Tucker	US		1	1	NULL	NULL
+173	106	Indulal		Gopalapillai			1	1	NULL	NULL
+174	63	Jinho		Kwak	KR		0	2	NULL	NULL
+175	107	Dimitri		Leemans			1	2	NULL	NULL
+176	107	Julie		De Saedeleer			0	1	NULL	NULL
+177	108	Brigitte		Servatius	US		1	1	NULL	NULL
+178	109	Joy		Morris	CA		1	1	NULL	NULL
+179	110	Jonathan	L.	Gross	US		1	3	NULL	NULL
+180	110	Mehvish	I.	Poshni	US		0	1	NULL	NULL
+181	110	Imran	F.	Khan	US		0	2	NULL	NULL
+182	111	Jonathan	L.	Gross	US		1	3	NULL	NULL
+183	111	Imran	F.	Khan	US		0	1	NULL	NULL
+184	111	Mehvish	I.	Poshni	US		0	2	NULL	NULL
+185	112	Bojan		Mohar	CA		1	3	NULL	NULL
+186	46	Miklós		Bartha	CA		0	1	NULL	NULL
+187	113	Marko		Petkovšek	SI		1	1	NULL	NULL
+188	114	Richard	H.	Hammack	US	http://www.people.vcu.edu/~rhammack/	1	1	NULL	NULL
+189	114	Wilfried		Imrich	AT		0	2	NULL	NULL
+190	115	Irene		Sciriha			1	1	NULL	NULL
+191	109	Cheryl	E.	Praeger	AU		0	2	NULL	NULL
+192	109	Pablo		Spiga	IT		0	3	NULL	NULL
+193	116	Štefko		Miklavič	SI		1	1	NULL	NULL
+194	117	Marko		Boben	SI		1	1	NULL	NULL
+195	118	Bojan		Mohar	CA		1	1	NULL	NULL
+196	119	Andrew		Woldar	US		1	4	NULL	NULL
+197	119	Mikhail		Klin	IL		0	1	NULL	NULL
+198	119	Christian		Pech	DE		0	2	NULL	NULL
+199	119	Sven		Reichard	IT		0	3	NULL	NULL
+200	119	Matan		Ziv-Av	IL		0	5	NULL	NULL
+201	120	Edward		Dobson	US		1	1	NULL	NULL
+202	121	Mikhail		Muzychuk	IL		1	1	NULL	NULL
+203	121	Ilia		Ponomarenko	RU		0	2	NULL	NULL
+209	104	Philipp-Jens		Ostermeier	DE		0	1	NULL	NULL
+205	104	Konstantin		Klemm	DE		1	4	NULL	NULL
+206	104	Josef		Leydold	AT		0	3	NULL	NULL
+207	104	Peter F.		Stadler	DE		0	5	NULL	NULL
+208	122	Cristina		Sarti	DE		1	1	NULL	NULL
+211	123	Ítalo José		Déjter	PR		1	1	NULL	NULL
+212	124	Robert		Jajcay	US		1	1	NULL	NULL
+213	125	Yan-Quan		Feng	CN		1	2	NULL	NULL
+214	126	Leah	Wrenn	Berman	US		1	1	NULL	NULL
+215	127	Marston	D. E.	Conder	NZ	http://www.math.auckland.ac.nz/~conder	1	1	NULL	NULL
+216	128	Štefan		Gyürki			1	1	NULL	NULL
+217	129	Stanislav		Jendroľ	SK		1	2	NULL	NULL
+218	130	Gareth	A.	Jones	GB		1	1	NULL	NULL
+219	131	Tomáš		Madaras	SK		1	2	NULL	NULL
+220	132	Alexander		Mednykh	RU		1	1	NULL	NULL
+221	133	Ondrej		Šuch	SK		1	1	NULL	NULL
+222	134	Ute		Wolf	DE		1	1	NULL	NULL
+223	135	Jack	E.	Graver	US	http://thecollege.syr.edu/people/faculty/pages/math/graver-jack.html	1	1	NULL	NULL
+224	135	Christina	M.	Graves	US		0	2	NULL	NULL
+225	113	Helena		Zakrajšek	SI		0	2	NULL	NULL
+226	136	Tomaž		Pisanski	SI		1	1	NULL	NULL
+227	136	Dragan		Marušič	SI		0	2	NULL	NULL
+228	137	Advertisement		1	SI		1	1	NULL	NULL
+229	138	Advertisement		2	SI		1	1	NULL	NULL
+230	139	Advertisement		3	SI		1	1	NULL	NULL
+231	140	Advertisement		4	SI		1	1	NULL	NULL
+232	141	Martin	Josef	Funk	IT		1	2	NULL	NULL
+233	141	Marien		Abreu			0	1	NULL	NULL
+234	141	Domenico		Labbate			0	3	NULL	NULL
+235	141	Vito		Napolitano			0	4	NULL	NULL
+236	108	Herman		Servatius	US		0	2	NULL	NULL
+237	142	Ameenal Bibi		Bibi	IN		1	1	NULL	NULL
+238	143	Akbar		Ali	IN		1	1	NULL	NULL
+239	144	Vernold		Vivin	IN		1	1	NULL	NULL
+240	145	Roman		Nedela	SK		1	2	NULL	NULL
+241	145	Michael		Drmota	AT		0	1	NULL	NULL
+242	146	Matjaž		Omladič	SI		1	1	NULL	NULL
+243	146	Heydar		Radjavi	CA		0	2	NULL	NULL
+244	147	Vecdi		AYTAÇ	TR		1	1	NULL	NULL
+245	148	Michael		Giudici	AU		1	1	NULL	NULL
+246	149	katija		lonza	HR		1	1	NULL	NULL
+247	150	Xuding		Zhu			1	1	NULL	NULL
+249	152	Santha		kumaran	IN		1	1	NULL	NULL
+250	152	Ullas		Chandran	IN		0	2	NULL	NULL
+251	153	Santha		kumaran	IN		1	1	NULL	NULL
+252	154	Mikhail		Klin			1	1	NULL	NULL
+254	156	Richard		Hammack	US	http://www.people.vcu.edu/~rhammack/	1	1	NULL	NULL
+255	156	Neal		Livesay	US		0	2	NULL	NULL
+256	157	István		Kovács	SI		1	1	NULL	NULL
+257	158	Dragan		Marušič	SI		1	1	NULL	NULL
+258	158	Tomaž		Pisanski			0	2	NULL	NULL
+259	159	Alan		Shuchat	US		1	1	NULL	NULL
+260	159	Randy		Shull	US		0	2	NULL	NULL
+261	159	Ann	N.	Trenk	US		0	3	NULL	NULL
+262	160	Sennimalai		Kalimuthu	IN		1	1	NULL	NULL
+264	162	Svjetlan		Feretić	HR	http://www.gradri.uniri.hr/?rijeka=staff,43	1	1	NULL	NULL
+265	163	Advertisement		1	SI		1	1	NULL	NULL
+266	164	Advertisement		2	SI		1	1	NULL	NULL
+267	165	Craig	Eric	Larson	US	http://www.people.vcu.edu/~clarson/	1	2	NULL	NULL
+268	166	Jonathan	L.	Gross	US		1	3	NULL	NULL
+269	166	Mehvish	I.	Poshni	US		0	1	NULL	NULL
+270	166	Imran	F.	Khan	US		0	2	NULL	NULL
+271	167	Gary		MacGillivray	CA		1	1	NULL	NULL
+272	168	Ruth		Haas	US	http://www.math.smith.edu/~rhaas	1	1	NULL	NULL
+273	169	v		lokesha	IN		1	1	NULL	NULL
+274	170	Patrick	W.	Fowler	GB		1	7	NULL	NULL
+275	170	Sean		Debroni	CA		0	1	NULL	NULL
+276	170	Erin		Delisle	CA		0	2	NULL	NULL
+277	170	Wendy		Myrvold	CA		0	3	NULL	NULL
+278	170	Amit		Sethi	CA		0	4	NULL	NULL
+279	170	Joseph		Whitney	CA		0	5	NULL	NULL
+280	170	Jennifer		Woodcock	CA		0	6	NULL	NULL
+281	170	Benoit		de La Vaissiere	CA		0	8	NULL	NULL
+282	170	Michel		Deza	FR		0	9	NULL	NULL
+283	171	Joan	P.	Hutchinson	US		1	1	NULL	NULL
+284	172	Marc		Hellmuth	DE	https://www.bioinf.uni-leipzig.de/~marc/	1	1	NULL	NULL
+285	172	Philipp-Jens		Ostermeier	DE		0	2	NULL	NULL
+286	172	Peter F.		Stadler	DE	https://www.bioinf.uni-leipzig.de/~studla/	0	3	NULL	NULL
+287	173	Vesna		Andova	MK		1	1	NULL	NULL
+288	173	Nathann		Cohen	FR		0	2	NULL	NULL
+289	173	Riste		Škrekovski	SI		0	3	NULL	NULL
+290	174	Michael	O.	Albertson	US		0	1	NULL	NULL
+291	174	Janos		Pach	US		0	2	NULL	NULL
+292	174	Michael	E.	Young	US		1	3	NULL	NULL
+293	175	Michael	O.	Albertson	US		0	1	NULL	NULL
+294	175	Debra	L.	Boutin	US		1	2	NULL	NULL
+295	175	Ellen		Gethner	US		0	3	NULL	NULL
+296	176	Xuding		Zhu	CN		1	1	NULL	NULL
+297	177	Dave	Witte	Morris	CA		1	3	NULL	NULL
+298	177	Klavdija		Kutnar	SI		0	1	NULL	NULL
+299	177	Dragan		Marušič	SI		0	2	NULL	NULL
+300	177	Joy		Morris	CA		0	4	NULL	NULL
+301	177	Primož		Šparl	SI		0	5	NULL	NULL
+302	112	Matt		DeVoss	CA		0	1	NULL	NULL
+303	112	Ken-ichi		Kawarabayashi	JP		0	2	NULL	NULL
+304	112	Haruko		Okamura	JP		0	4	NULL	NULL
+305	148	Murray	R.	Smith	AU		0	2	NULL	NULL
+306	125	Xiuyun		Wang	CN		0	1	NULL	NULL
+307	126	Nadine	Alise	Burtt	US		0	2	NULL	NULL
+308	178	Vittorio		Addona	US		1	1	NULL	NULL
+309	178	Stan		Wagon	US		0	2	NULL	NULL
+310	178	Herb		Wilf	US		0	3	NULL	NULL
+311	179	Joan	P.	Hutchinson	US		1	1	NULL	NULL
+312	180	Gašper		Jaklič	SI		1	1	NULL	NULL
+313	181	Julie		De Saedeleer	BE		0	2	NULL	NULL
+314	181	Dimitri		Leemans	BE		1	3	NULL	NULL
+774	181	Francis		Buekenhout	BE		0	1	NULL	NULL
+316	182	Tetsuji		Taniguchi	JP	http://researchmap.jp/tetsuzit-14/?lang=english	1	1	NULL	NULL
+317	183	Daniel		Pellicer	MX		1	1	NULL	NULL
+318	184	Advertisement		1	SI		1	1	NULL	NULL
+319	185	Dragan		Marušič	SI		1	1	NULL	NULL
+320	185	Tomaž		Pisanski	SI		0	2	NULL	NULL
+321	186	Nader		Jafari Rad			1	1	NULL	NULL
+322	187	hossien		mohebbi			1	1	NULL	NULL
+323	188	Indulal		Gopalapillai			1	1	NULL	NULL
+324	189	Barry		Monson	CA		1	1	NULL	NULL
+325	189	Daniel		Pellicer	MX		0	2	NULL	NULL
+326	189	Gordon		Williams	US		0	3	NULL	NULL
+327	190	Alain		Giorgetti	FR		1	2	NULL	NULL
+328	190	Timothy	R. S.	Walsh	CA		0	1	NULL	NULL
+329	191	Mikhail		Klin	IL		1	1	NULL	NULL
+330	191	Christian		Pech	DE		0	2	NULL	NULL
+331	192	Marston		Conder	NZ		1	1	NULL	NULL
+332	192	Thomas		Tucker	US		0	2	NULL	NULL
+333	193	Mu-Tsun		Tsai	US		1	1	NULL	NULL
+334	193	Douglas	B.	West	US		0	2	NULL	NULL
+335	194	André		Kündgen	US		1	1	NULL	NULL
+336	194	R.	Bruce	Richter	CA		0	2	NULL	NULL
+337	195	M.	N.	Ellingham	US		1	1	NULL	NULL
+338	195	Justin	Z.	Schroeder	US		0	2	NULL	NULL
+339	196	Kelly		Choo	CA		1	1	NULL	NULL
+340	196	Gary		MacGillivray	CA		0	2	NULL	NULL
+341	197	Ileana		Streinu	US		1	1	NULL	NULL
+342	197	Louis		Theran	US		0	2	NULL	NULL
+343	198	Alexandr	V.	Kostochka	US		1	1	NULL	NULL
+344	198	Christopher	J.	Stocker	US		0	2	NULL	NULL
+345	199	Gašper		Fijavž	SI		1	1	NULL	NULL
+346	199	Seiya		Negami	JP		0	2	NULL	NULL
+347	199	Terukazu		Sano	JP		0	3	NULL	NULL
+348	200	Hong		Liu	US		1	1	NULL	NULL
+349	200	Michael	J.	Pelsmajer	US		0	2	NULL	NULL
+350	201	Vadim	E.	Levit	IL		1	1	NULL	NULL
+351	201	Eugen		Mandrescu	IL		0	2	NULL	NULL
+352	202	Christiaan	E.	van de Woestijne	AT	http://www.opt.math.tugraz.at/~cvdwoest	1	1	NULL	NULL
+353	203	Deborah		Oliveros	MX		1	3	NULL	NULL
+354	203	Isabel		Hubard	MX		0	2	NULL	NULL
+355	203	Egon		Schulte	US		0	4	NULL	NULL
+356	204	Dimitri		Leemans	BE		1	3	NULL	NULL
+357	204	Michael	Ian	Hartley	AU		0	1	NULL	NULL
+358	204	Isabel		Hubard	MX		0	2	NULL	NULL
+361	131	Dávid		Hudák	SK		0	1	NULL	NULL
+362	129	Július		Czap	SK		0	1	NULL	NULL
+363	129	František		Kardoš	SK		0	3	NULL	NULL
+364	206	Daniel		Pinto	PT		1	1	NULL	NULL
+365	207	Dave	Witte	Morris	CA		1	2	NULL	NULL
+366	208	Saeid		Alikhani			1	1	NULL	NULL
+367	208	Yee	hock	Peng			0	2	NULL	NULL
+368	209	Shonda		Gosselin	CA	http://ion.uwinnipeg.ca/~sgosseli/	1	2	NULL	NULL
+369	209	Grant		Andruchuk	CA		0	1	NULL	NULL
+370	210	Susheel		Kumar	IN		1	1	NULL	NULL
+371	211	Firdous	Ahmad	Shah	IN		1	1	NULL	NULL
+372	212	Debra	L.	Boutin			1	1	NULL	NULL
+373	213	Mark	E.	Watkins	US	http://mewatkin.mysite.syr.edu/	1	2	NULL	NULL
+374	213	Jozef		Širáň	SK	http://www-kmadg.svf.stuba.sk/siran/	0	1	NULL	NULL
+375	214	Elena		Konstantinova	RU		1	1	NULL	NULL
+376	214	Alexey		Medvedev	RU		0	2	NULL	NULL
+377	215	Rodolfo		San Agustin Chi	MX		1	1	NULL	NULL
+378	216	Rodolfo		San Agustín Chi	MX		1	2	NULL	NULL
+379	216	Octavio		Páez Osuna	MX		0	1	NULL	NULL
+380	217	Jonathan	L.	Gross	US		1	1	NULL	NULL
+381	218	Karunesh	Kumar	Singh	IN		0	1	NULL	NULL
+382	218	Purshottam	Narain	Agrawal	IN		1	2	NULL	NULL
+383	219	Gábor		Gévay	HU		1	1	NULL	NULL
+384	219	Jörg	M.	Wills	DE		0	2	NULL	NULL
+385	220	Nacho		López	ES	http://www.matematica.udl.es/nacho	1	2	NULL	NULL
+386	220	Ljiljana		Brankovic	AU		0	1	NULL	NULL
+387	220	Mirka		Miller	AU		0	3	NULL	NULL
+388	220	Francesc		Sebé	ES		0	4	NULL	NULL
+389	127	Thomas	W.	Tucker	US		0	2	NULL	NULL
+390	157	Roman		Nedela	SK		0	2	NULL	NULL
+391	221	Ítalo José		Déjter	PR	http://home.coqui.net/dejterij	1	1	NULL	NULL
+392	222	Matjaž		Omladič			1	1	NULL	NULL
+393	222	Bojan		Kuzma			0	2	NULL	NULL
+398	226	Josef		Leydold	AT		1	2	NULL	NULL
+397	132	Alain		Giorgetti	FR		0	2	NULL	NULL
+399	226	Marc		Hellmuth	DE		0	1	NULL	NULL
+400	226	Peter F.		Stadler	DE		0	3	NULL	NULL
+401	227	Bijan		Davvaz	IR		1	1	NULL	NULL
+402	228	Július		Czap	SK		1	1	NULL	NULL
+403	124	Jozef		Širáň	SK		0	2	NULL	NULL
+404	229	Martin		Trinks	DE		1	1	NULL	NULL
+405	230	Hüseyin		BOR	TR		1	1	NULL	NULL
+406	231	Christina	M.	Graves	US		1	1	NULL	NULL
+407	231	Jennifer		McLoud-Mann	US		0	2	NULL	NULL
+408	232	Saeid		Alikhani	IR	http://math.yazduni.ac.ir/alikhani	1	1	NULL	NULL
+409	233	Yilun		Shang	US		1	1	NULL	NULL
+434	247	Jelena		Sedlar	HR		1	1	NULL	NULL
+411	235	Ítalo	José	Dejter	PR	http://home.coqui.net/dejterij	1	1	NULL	NULL
+412	236	Mingjin		Wang	CN		1	1	NULL	NULL
+413	237	Kinkar	Ch.	Das	KR		1	1	NULL	NULL
+414	237	Dae-Won		Lee	KR		0	2	NULL	NULL
+415	237	Ante		Graovac	HR		0	3	NULL	NULL
+416	238	mohamed elamine		talbi			1	1	NULL	NULL
+417	239	Hua		Mao			1	1	NULL	NULL
+418	239	Sanyang		Liu			0	2	NULL	NULL
+419	240	Mathieu		Dutour Sikirić	HR	http://www.liga.ens.fr/~dutour	1	1	NULL	NULL
+420	241	Jürgen		Bokowski	DE		1	1	NULL	NULL
+421	180	Tomaž		Pisanski	SI		0	3	NULL	NULL
+422	180	Patrick	W.	Fowler	GB		0	2	NULL	NULL
+423	242	Yoomi		Rho	KR		1	1	NULL	NULL
+424	242	Byeong	Moon	Kim	KR		0	2	NULL	NULL
+425	242	Byung	Chul	Song	KR		0	3	NULL	NULL
+426	243	Daniel		Kalmanovich	IL		1	1	NULL	NULL
+427	244	Manoj		Changat	IN		0	2	NULL	NULL
+428	244	Kannan		Balakrishnan	IN		1	1	NULL	NULL
+429	244	Henry	Martyn	Mulder	NL		0	3	NULL	NULL
+430	244	Ajitha	R.	Subhamathi	IN		0	4	NULL	NULL
+431	245	Michael	J.	Fisher	US		1	1	NULL	NULL
+432	245	Garth		Isaak	US		0	2	NULL	NULL
+433	246	Ingo		Schiermeyer	DE		1	1	NULL	NULL
+435	247	Damir		Vukičević	HR		0	2	NULL	NULL
+436	247	Franco		Cataldo	IT		0	3	NULL	NULL
+437	247	Ottorino		Ori	IT		0	4	NULL	NULL
+438	247	Ante		Graovac	HR		0	5	NULL	NULL
+439	248	Wei		Jin	AU		1	2	NULL	NULL
+440	248	Cheryl	E.	Praeger	AU		0	4	NULL	NULL
+441	248	Alice		Devillers	AU		0	1	NULL	NULL
+442	248	Cai	Heng	Li	AU		0	3	NULL	NULL
+443	249	Alen		Orbanić	SI		1	1	NULL	NULL
+444	249	Daniel		Pellicer	MX		0	2	NULL	NULL
+445	249	Tomaž		Pisanski	SI		0	3	NULL	NULL
+446	249	Thomas	W.	Tucker	US		0	4	NULL	NULL
+450	251	Jozef		Širáň	GB		1	3	NULL	NULL
+448	250	Primož		Potočnik	SI		1	2	NULL	NULL
+449	250	Riste		Škrekovski	SI		0	3	NULL	NULL
+451	251	Martin		Mačaj	SK		0	2	NULL	NULL
+452	251	Gareth	A.	Jones	GB		0	1	NULL	NULL
+453	252	Jan	Jerzy	Florek	PL		1	1	NULL	NULL
+454	253	Jan		Florek	PL		1	1	NULL	NULL
+455	254	Roman		Nedela	SK		1	1	NULL	NULL
+456	254	Martin		Škoviera	SK		0	2	NULL	NULL
+457	255	Aleksander		Vesel			1	2	NULL	NULL
+458	255	Danilo		Korže			0	1	NULL	NULL
+459	256	Ademir		Hujdurović			1	1	NULL	NULL
+465	262	Tetsuji		Taniguchi	JP		1	4	NULL	NULL
+461	258	Marcin		Anholcer	PL	http://kbo.ue.poznan.pl/anholcer	1	1	NULL	NULL
+462	259	Sophie		Decelle	GB		1	1	NULL	NULL
+471	263	Yulia		Kempner	IL		1	1	NULL	NULL
+464	261	Mahdieh		Azari			1	1	NULL	NULL
+466	261	Ali		Iranmanesh			0	2	NULL	NULL
+467	261	Abolfazl		Tehranian			0	3	NULL	NULL
+468	262	Hye Jin		Jang			0	1	NULL	NULL
+469	262	Akihiro		Munemasa			0	3	NULL	NULL
+470	262	Jack		Koolen			0	2	NULL	NULL
+472	263	Vadim	E.	Levit	IL		0	2	NULL	NULL
+473	264	Damir		Vukičević	HR		1	1	NULL	NULL
+476	267	Gábor		Gévay			1	1	NULL	NULL
+477	268	Gábor		Gévay			1	1	NULL	NULL
+478	269	Ali	Reza	Ashrafi	IR		1	2	NULL	NULL
+479	269	Morteza		Faghani	IR		0	1	NULL	NULL
+480	270	Gábor		Gévay	HU		1	1	NULL	NULL
+481	271	Milica		Anđelić	PT		1	1	NULL	NULL
+482	271	C. M.		da Fonseca	PT		0	2	NULL	NULL
+483	271	Tamara		Koledin			0	3	NULL	NULL
+484	271	Zoran		Stanić			0	4	NULL	NULL
+485	272	Changqun		Wu	CN		1	1	NULL	NULL
+486	273	Michael	W.	Raney	US		1	1	NULL	NULL
+532	304	Gary		MacGillivray	CA		1	3	NULL	NULL
+488	275	Irene		Sciriha	MT	http://staff.um.edu.mt/isci1/	1	1	NULL	NULL
+489	275	Mark		Debono	MT		0	2	NULL	NULL
+490	276	Shaofei		Du	CN		1	2	NULL	NULL
+491	277	Advertisement		1	SI		1	1	NULL	NULL
+492	278	Advertisement		2	SI		1	1	NULL	NULL
+493	279	Muhammad	Ali	Khan	SA		1	1	NULL	NULL
+494	280	Dave	Witte	Morris	CA	http://people.uleth.ca/~dave.morris/	1	2	NULL	NULL
+495	280	Ebrahim		Ghaderpour	CA		0	1	NULL	NULL
+496	281	Carlos	M.	da Fonseca	PT		1	1	NULL	NULL
+497	282	Martin		Milanič	SI	http://osebje.famnit.upr.si/~martin.milanic/	1	1	NULL	NULL
+498	283	Eunjeong		Yi	US		1	1	NULL	NULL
+504	287	Akihiro		Munemasa	JP		0	1	NULL	NULL
+503	287	Tetsuji		Taniguchi	JP		1	3	NULL	NULL
+501	286	Alexandru	I.	Tomescu	IT		1	2	NULL	NULL
+502	286	Alberto		Policriti	IT		0	1	NULL	NULL
+505	287	Yoshio		Sano	JP		0	2	NULL	NULL
+506	288	Eckhard		Steffen	DE		1	2	NULL	NULL
+507	289	Barbara		Baumeister	DE		1	1	NULL	NULL
+508	290	Gems		2009	SI		1	1	NULL	NULL
+509	291	Brian		Alspach	AU		1	1	NULL	NULL
+510	292	WENCHANG		CHU	IT		1	1	NULL	NULL
+511	292	ROBERTA	R	ZHOU	CN		0	2	NULL	NULL
+512	293	M.		Mursaleen	IN		1	1	NULL	NULL
+513	293	S.	A.	Mohiuddine	US		0	2	NULL	NULL
+514	294	Štefko		Miklavič	SI		1	1	NULL	NULL
+515	295	Gareth		Jones	GB		1	2	NULL	NULL
+516	295	Shaofei		Du	CN		0	1	NULL	NULL
+517	295	Jin	Ho	Kwak	KR		0	3	NULL	NULL
+518	295	Roman		Nedela	SK		0	4	NULL	NULL
+519	295	Martin		Škoviera	SK		0	5	NULL	NULL
+520	296	Emrah		Kilic	TR		1	1	NULL	NULL
+521	297	Xin		Zhang	CN		1	1	NULL	NULL
+522	297	Guizhen		Liu	CN		0	2	NULL	NULL
+523	298	Hongyu		Liang	CN	http://itcs.tsinghua.edu.cn/hongyuliang	1	1	NULL	NULL
+524	299	Oleg		Karpenkov	AT		1	1	NULL	NULL
+525	299	Jan		Schepers	BE		0	2	NULL	NULL
+526	299	Brigitte		Servatius	US		0	3	NULL	NULL
+527	300	Sizhong		Zhou	CN		1	1	NULL	NULL
+528	301	Bijan		Davvaz	IR		1	1	NULL	NULL
+529	302	István		Kovács	SI		1	2	NULL	NULL
+530	302	Hiroki		Koike	SI		0	1	NULL	NULL
+533	304	Nancy	E.	Clarke	CA		0	1	NULL	NULL
+534	304	Stephen		Finbow	CA		0	2	NULL	NULL
+535	305	Hacène		AIT HADDADENE	DZ		1	1	NULL	NULL
+536	306	Carlos	M.	da Fonseca	PT		1	2	NULL	NULL
+537	306	Aleksandra		Erić			0	1	NULL	NULL
+539	308	Sizhong		Zhou	CN		1	1	NULL	NULL
+540	309	Torsten		Sander	DE		1	2	NULL	NULL
+541	310	Edward		Dobson	US		0	1	NULL	NULL
+542	310	Pablo		Spiga	IT		1	2	NULL	NULL
+543	311	Primož		Potočnik	SI		1	1	NULL	NULL
+544	311	Stephen	E.	Wilson	US		0	2	NULL	NULL
+545	312	Baoyindureng		Wu	CN		1	1	NULL	NULL
+546	313	Jelena		Govorčin	SI		1	1	NULL	NULL
+547	314	Risto		Atanasov	US		1	1	NULL	NULL
+548	314	Mark		Budden	US		0	2	NULL	NULL
+549	314	Joshua		Lambert	US		0	3	NULL	NULL
+550	315	Ted		Dobson	US		1	2	NULL	NULL
+551	315	Joy		Morris	CA		0	3	NULL	NULL
+552	315	Soumya		Bhoumik	US		0	1	NULL	NULL
+553	207	Joy		Morris	US		0	3	NULL	NULL
+554	207	Stephen	J.	Curran	US		0	1	NULL	NULL
+555	316	ibrahim		günaltılı	TR		1	1	NULL	NULL
+556	317	Fusun		Ozen Zengin	TR		1	1	NULL	NULL
+557	318	Ítalo	José	Déjter	PR	http://home.coqui.net/dejterij	1	1	NULL	NULL
+558	212	Andrei	M.	Margea			0	4	NULL	NULL
+559	212	Sally		Cockburn	US		0	2	NULL	NULL
+560	212	Alice	M.	Dean	US		0	3	NULL	NULL
+561	319	Ali		Iranmanesh	IR		1	1	NULL	NULL
+562	319	Yaser		Alizadeh	IR		0	2	NULL	NULL
+563	319	Tomislav		Doslic	HR		0	3	NULL	NULL
+564	320	Wilfried		Imrich	AT		1	2	NULL	NULL
+565	320	Richard	H.	Hammack			0	1	NULL	NULL
+567	322	Emrah		Kilic			1	1	NULL	NULL
+568	250	Martin		Knor	SK		0	1	NULL	NULL
+569	323	Announcement		4	SI		1	1	NULL	NULL
+570	324	Announcement		2	SI		1	1	NULL	NULL
+571	325	Announcement		3	SI		1	1	NULL	NULL
+572	326	Announcement		1	SI		1	1	NULL	NULL
+582	334	Wilfried		Imrich	AT		1	2	NULL	NULL
+573	327	Dragan		Marušič	SI		1	1	NULL	NULL
+574	327	Tomaž		Pisanski	SI		0	2	NULL	NULL
+575	328	Rubén	A.	Hidalgo	CL		1	1	NULL	NULL
+576	329	Joseph	D.	Fehribach	US	http://www.wpi.edu/~bach	1	1	NULL	NULL
+577	330	Dave	Witte	Morris	CA	http://people.uleth.ca/~dave.morris/	1	1	NULL	NULL
+578	331	Hosam		Abdo	DE	http://www.inf.fu-berlin.de/inst/ag-ti/index.php?id=32&tx_timembers_pi1%5BshowUid%5D=4&L=0	1	1	NULL	NULL
+579	332	Mohsen		Ghasemi	IR		1	1	NULL	NULL
+580	332	Pablo		Spiga	IT		0	2	NULL	NULL
+581	333	CoNE		2010	SI		1	1	NULL	NULL
+583	334	Johannes		Cuno	AT		0	1	NULL	NULL
+584	334	Florian		Lehner	AT		0	3	NULL	NULL
+585	335	Peter	F.	Stadler	DE		1	4	NULL	NULL
+586	335	Jan		Hubička	CZ		0	1	NULL	NULL
+587	335	Jürgen		Jost	DE		0	2	NULL	NULL
+588	335	Yangjing		Long	DE		0	3	NULL	NULL
+589	335	Ling		Yang	CN		0	5	NULL	NULL
+590	336	Deepa		Sinha	IN		1	1	NULL	NULL
+591	336	Pravin		Garg			0	2	NULL	NULL
+592	337	Edris		Hendukolaie	IR		1	1	NULL	NULL
+593	338	Siddika		Ozkaldi Karakus			1	1	NULL	NULL
+594	338	Ayse		Guzutok			0	2	NULL	NULL
+595	338	Halit		Gundogun			0	3	NULL	NULL
+596	339	Bijan		Davvaz	IR		1	1	NULL	NULL
+597	340	kinkar	Ch.	das	KR		1	1	NULL	NULL
+598	340	Kexiang		Xu	CN		0	2	NULL	NULL
+599	340	Ante		Graovac	HR		0	3	NULL	NULL
+600	341	Darko		Dimitrov			1	1	NULL	NULL
+601	341	Riste		Škrekovski			0	2	NULL	NULL
+602	342	Announcement		1	SI		1	1	NULL	NULL
+603	203	María		Del Río Francos	SI		0	1	NULL	NULL
+604	343	Borut		Lužar			1	1	NULL	NULL
+605	343	Riste		Škrekovski			0	2	NULL	NULL
+606	344	Eunjeong		Yi	US		1	1	NULL	NULL
+607	345	Announcement		2	SI		1	1	NULL	NULL
+608	346	Leah	Wrenn	Berman	US		1	2	NULL	NULL
+609	346	Angela		Berardinelli	US		0	1	NULL	NULL
+610	347	Elsayed	M.	Elsayed	SA		1	1	NULL	NULL
+611	348	zahid		raza	PK		1	1	NULL	NULL
+612	348	Ali		Nawaz			0	2	NULL	NULL
+613	349	Ahmet		TEKCAN	TR		1	1	NULL	NULL
+614	350	Daniel	Abraham	Romano	BA		1	1	NULL	NULL
+615	351	M		Javaid	PK		1	1	NULL	NULL
+616	352	Jin-Xin		Zhou	CN		1	1	NULL	NULL
+651	374	Muhammad	Muhamad	Imran	PK		1	1	NULL	NULL
+650	165	Ermelinda		DeLaViña	US		0	1	NULL	NULL
+619	354	chj		zhao	CN		1	1	NULL	NULL
+620	354	ws		cheung			0	2	NULL	NULL
+621	355	Tariq		Rahim	PK		1	1	NULL	NULL
+622	356	Martin		Škoviera	SK		1	4	NULL	NULL
+623	356	Dan		Archdeacon	US		0	1	NULL	NULL
+624	356	Roman		Nedela	SK		0	3	NULL	NULL
+625	356	Michal		Kotrbčík	SK		0	2	NULL	NULL
+626	357	Gabe		Cunningham			1	1	NULL	NULL
+627	358	Sizhong		Zhou	CN		1	1	NULL	NULL
+628	359	Gábor		Gévay	HU		1	1	NULL	NULL
+629	359	Tomaž		Pisanski	SI		0	2	NULL	NULL
+630	360	Dragan		Marušič	SI		1	1	NULL	NULL
+631	360	Tomaž		Pisanski	SI		0	2	NULL	NULL
+632	361	Mohammad	Reza	Farahani	IR		1	1	NULL	NULL
+633	362	Ted		Dobson	US		1	1	NULL	NULL
+634	362	István		Kovács	SI		0	2	NULL	NULL
+635	362	Štefko		Miklavič	SI		0	3	NULL	NULL
+636	363	SIGMAP		2010	SI		1	1	NULL	NULL
+637	364	Kannan		Pattabiraman	IN		1	1	NULL	NULL
+638	365	Mohammad	Reza	Farahani	IR		1	1	NULL	NULL
+639	366	Jonathan	L.	Gross	US		1	1	NULL	NULL
+640	367	Mohammad	Reza	Farahani	IR		1	1	NULL	NULL
+641	368	Borut		Lužar			1	1	NULL	NULL
+642	368	Riste		Skrekovski			0	2	NULL	NULL
+643	369	Hüseyin		BOR	TR		1	1	NULL	NULL
+644	370	P.		Titus	IN		1	1	NULL	NULL
+645	370	P.		Balakrishnan	IN		0	2	NULL	NULL
+646	370	K.		Ganesamoorthy			0	3	NULL	NULL
+652	375	Hacène		Belbachir	DZ		1	2	NULL	NULL
+648	372	Tariq		Rahim	PK		1	1	NULL	NULL
+649	373	Rok		Požar	SI		1	1	NULL	NULL
+653	375	Moussa		Ahmia	DZ		0	1	NULL	NULL
+654	376	Mohammad	Reza	Farahani	IR		1	1	NULL	NULL
+655	377	Jonathan		Lenchner	US	http://www.research.ibm.com/people/l/lenchner/	1	1	NULL	NULL
+656	378	Kostaq		Hila	AL		1	1	NULL	NULL
+657	379	Hanyuan		Deng			1	1	NULL	NULL
+658	380	Marko		Boben	SI		1	1	NULL	NULL
+659	381	Mehvish	I.	Poshni	PK		1	1	NULL	NULL
+660	381	Imran	F.	Khan	PK		0	2	NULL	NULL
+661	381	Jonathan	L.	Gross	US		0	3	NULL	NULL
+662	382	Pankaj	Kumar	Sharma	IN		1	1	NULL	NULL
+663	383	Temitope	Gbolahan	Jaiyeola	NG	http://www.oauife.edu.ng	1	1	NULL	NULL
+664	384	Wei		Wang	CN		1	2	NULL	NULL
+665	384	Zhidan		Yan	CN		0	1	NULL	NULL
+666	385	Imran		Javaid	PK		1	1	NULL	NULL
+667	385	Muhammad	Naeem	Azhar	PK		0	2	NULL	NULL
+668	385	Muhammad		Salman	PK		0	3	NULL	NULL
+669	385	Muhammad		Imran	PK		0	4	NULL	NULL
+670	386	Polona		Oblak	SI		1	4	NULL	NULL
+671	386	Gregor		Dolinar			0	1	NULL	NULL
+672	386	Alexander		Guterman			0	2	NULL	NULL
+673	386	Bojan		Kuzma			0	3	NULL	NULL
+676	388	SA		Edalatpanah	IR		1	1	NULL	NULL
+675	387	zahid		raza	PK		1	1	NULL	NULL
+677	388	Hashem		Saberi Najafi	IR		0	2	NULL	NULL
+678	389	William		Klostermeyer	US		1	1	NULL	NULL
+679	390	Rija		Erveš			1	1	NULL	NULL
+680	390	Janez		Žerovnik			0	2	NULL	NULL
+681	391	Christina	M.	Graves	US		1	2	NULL	NULL
+682	391	Jack	E.	Graver	US		0	1	NULL	NULL
+683	391	Stephen	J.	Graves	US		0	3	NULL	NULL
+684	392	Primož		Moravec	SI		1	1	NULL	NULL
+685	393	Syed	Ahtsham Ul haq	Bokhary	PK		1	1	NULL	NULL
+686	394	Syed	Ahtsham Ul haq	Bokhary	PK		1	1	NULL	NULL
+687	395	Imran		Javaid	PK		1	1	NULL	NULL
+688	395	Muhammad		Salman	PK		0	2	NULL	NULL
+689	395	Muhammad	Anwar	Chaudhry			0	3	NULL	NULL
+690	396	Hacène		Belbachir	DZ		1	1	NULL	NULL
+691	394	Mutahira		Batool	PK		0	3	NULL	NULL
+692	394	Usman		Ali	PK		0	2	NULL	NULL
+693	397	Ítalo	José	Déjter	PR	http://home.coqui.net/dejterij	1	1	NULL	NULL
+694	398	Klavdija		Kutnar	SI		1	1	NULL	NULL
+695	398	Primož		Šparl	SI		0	2	NULL	NULL
+696	399	Ali		Iranmanesh	IR		1	3	NULL	NULL
+697	399	Asma		Hamzeh	IR		0	1	NULL	NULL
+698	399	Samaneh		Hossein-Zadeh	IR		0	2	NULL	NULL
+699	400	Bahadir	Ozgur	Guler	TR		1	1	NULL	NULL
+700	401	Mohammad	H.M	Rashid	JO		1	1	NULL	NULL
+701	275	Barry	T.	Pickup	GB		0	5	NULL	NULL
+702	275	Martha		Borg	MT		0	3	NULL	NULL
+703	275	Patrick	W.	Fowler	GB		0	4	NULL	NULL
+704	402	Bled		2011	SI		1	1	NULL	NULL
+705	309	Walter		Klotz			0	1	NULL	NULL
+706	403	Chang-Jian		Zhao			1	1	NULL	NULL
+707	403	Xiao-Yan		Li			0	2	NULL	NULL
+708	404	Hakki	Ismail	ERDOGAN	TR		1	1	NULL	NULL
+709	405	Faisal		Ali	PK		1	1	NULL	NULL
+710	406	Mark		Mixer	US		1	2	NULL	NULL
+711	406	Kostiantyn		Drach	UA		0	1	NULL	NULL
+712	407	Ling		Zhang	CN		1	1	NULL	NULL
+715	410	Ji Eun		Kim			1	1	NULL	NULL
+714	409	Lutz		Volkmann	DE		1	1	NULL	NULL
+718	412	Ahmet		TEKCAN	TR		1	1	NULL	NULL
+717	411	K		Pattabiraman			1	1	NULL	NULL
+719	412	Arzu		Ozkoc	TR		0	2	NULL	NULL
+720	412	Gül	Karadeniz	Gozeri	TR		0	3	NULL	NULL
+721	413	VERNOLD		VIVIN	IN		1	1	NULL	NULL
+722	414	Saeed		Shabani	IR		1	1	NULL	NULL
+723	415	Thomas	A.	McCourt	GB		1	4	NULL	NULL
+724	415	Diane	M.	Donovan	AU		0	1	NULL	NULL
+725	415	Terry	S.	Griggs	GB		0	2	NULL	NULL
+726	415	James	G.	Lefevre	AU		0	3	NULL	NULL
+747	426	Zongtian		Wei	CN		1	1	NULL	NULL
+746	425	Abdorreza		Panahi	IR		0	2	NULL	NULL
+745	425	Mohammadreza		Gholami	IR		1	1	NULL	NULL
+730	417	Mohammadreza		Gholami			1	1	NULL	NULL
+731	417	yousef		Ganjdanesh			0	2	NULL	NULL
+732	418	Hanna		Furmanczyk	PL		1	1	NULL	NULL
+733	418	Marek		Kubale	PL		0	2	NULL	NULL
+734	418	Vahan V.		Mkrtchyan	AM		0	3	NULL	NULL
+735	419	Ismael		González Yero	ES		1	1	NULL	NULL
+736	420	Stan		Wagon	US	http://stanwagon.com	1	2	NULL	NULL
+741	423	Murat Kemal		Karacan	TR		1	1	NULL	NULL
+738	422	Kourosh		Nourouzi	IR		1	3	NULL	NULL
+739	422	Aris		Aghanians	IR		0	1	NULL	NULL
+740	422	Kamal		Fallahi	IR		0	2	NULL	NULL
+742	424	Bernardo		Llano	MX		1	2	NULL	NULL
+743	424	Hortensia		Galeana-Sánchez	MX		0	1	NULL	NULL
+744	424	Juan José		Montellano-Ballesteros	MX		0	3	NULL	NULL
+748	426	Nannan		Qi	CN		0	2	NULL	NULL
+749	426	Shenggui		Zhang	CN		0	3	NULL	NULL
+750	427	waheed	Ahmad	Khan	OM		1	1	NULL	NULL
+751	428	Michael		Goff	US		1	1	NULL	NULL
+752	289	Andreas		Paffenholz	DE		0	4	NULL	NULL
+753	289	Christian		Haase	DE		0	2	NULL	NULL
+754	289	Benjamin		Nill	US		0	3	NULL	NULL
+755	429	Muthu		Lakshmi			1	1	NULL	NULL
+756	430	Aleš		Vavpetič			1	1	NULL	NULL
+757	429	Manickam		Subramanian	IN		0	2	NULL	NULL
+758	276	Xuewen		Li			0	3	NULL	NULL
+759	276	Li		Wang	CN		0	1	NULL	NULL
+765	433	Juan		Liu	CN		1	1	NULL	NULL
+761	432	Cichacz		Sylwia	PL		1	2	NULL	NULL
+762	432	Marcin		Anholcer			0	1	NULL	NULL
+763	432	Iztok		Peterin			0	3	NULL	NULL
+764	432	Aleksandra		Tepeh			0	4	NULL	NULL
+766	433	Xindong		Zhang	CN		0	2	NULL	NULL
+767	434	Xindong		Zhang	CN		1	1	NULL	NULL
+768	434	Juan		Liu	CN		0	2	NULL	NULL
+769	434	Leilei		Wei	CN		0	3	NULL	NULL
+770	435	Deepa		Sinha	IN		1	1	NULL	NULL
+771	436	Nicolas		Gastineau	FR		1	1	NULL	NULL
+772	436	Hamamache		Kheddouci	FR		0	2	NULL	NULL
+773	436	Olivier		Togni	FR		0	3	NULL	NULL
+775	437	Maged	Z	Youssef	EG		1	1	NULL	NULL
+776	437	Adel		George	EG		0	2	NULL	NULL
+777	438	Miguel		Raggi	MX	http://www.matmor.unam.mx/~mraggi	1	1	NULL	NULL
+778	439	Yunshu		Gao			1	1	NULL	NULL
+779	439	Naidan		Ji			0	2	NULL	NULL
+780	440	Guido		Mislin	US		1	1	NULL	NULL
+782	442	Mustafa	Kemal	Ozdemir	TR	http://iys.inonu.edu.tr/index.php?web=kozdemir	1	1	NULL	NULL
+783	443	Er-fang		Shan	CN		1	1	NULL	NULL
+784	444	Er-fang		Shan	CN		1	1	NULL	NULL
+862	498	Kannan		Pattabiraman	IN		1	1	NULL	NULL
+860	496	Ruben	A.	Hidalgo	CL		1	1	NULL	NULL
+786	445	Hongying		Lin	CN		0	1	NULL	NULL
+787	445	Bo		Zhou	CN		1	2	NULL	NULL
+861	497	shanli		ye	CN		1	1	NULL	NULL
+790	447	Jothilakshmi		Ramakrishnan			1	1	NULL	NULL
+793	450	Paul	C.	Kainen	US	http://www9.georgetown.edu/faculty/kainen/	1	1	NULL	NULL
+794	451	Grant		Cairns	AU	http://grantcairns.ltumathstats.com	1	1	NULL	NULL
+795	451	Stacey		Mendan	AU		0	2	NULL	NULL
+796	452	Announcement		3	SI		1	1	NULL	NULL
+797	453	Announcement		2	SI		1	1	NULL	NULL
+798	454	Announcement		1	SI		1	1	NULL	NULL
+799	455	Dimitri		Leemans	NZ		1	2	NULL	NULL
+800	455	Thomas		Connor	BE		0	1	NULL	NULL
+801	456	Branko		Grünbaum	US		1	1	NULL	NULL
+802	457	Ali		Ahmad	SA		1	1	NULL	NULL
+803	458	Hanyuan		Deng			1	3	NULL	NULL
+804	459	Gunnar		Brinkmann			1	1	NULL	NULL
+805	460	Daniel		Ilaria			1	1	NULL	NULL
+806	461	Chunwei		Song			1	3	NULL	NULL
+807	461	Zhao		Dong			0	1	NULL	NULL
+808	461	Wenbo	V.	Li			0	2	NULL	NULL
+809	462	khaldoun	falah	al-zoubi	JO	http://www.just.edu.jo/Pages/Default.aspx	1	1	NULL	NULL
+810	463	JAMEL		DAMMAK	TN		1	1	NULL	NULL
+811	464	JAMEL		DAMMAK	TN		1	1	NULL	NULL
+812	464	Rahma		SALEM	TN		0	2	NULL	NULL
+813	465	csgowri	-	csgowri		http://www.annauniv.ac.in	1	1	NULL	NULL
+815	467	Jolanda		Modic	SI		1	2	NULL	NULL
+816	467	Gašper		Jaklič	SI		0	1	NULL	NULL
+818	288	Jonas		Hägglund	SE		0	1	NULL	NULL
+825	474	Abdullah		Aljouiee	SA		1	1	NULL	NULL
+824	473	Abdullah		Aljouiee	SA		1	1	NULL	NULL
+823	472	Saravanakumar		Dhanabal	IN		1	1	NULL	NULL
+826	475	Mathieu		Dutour Sikiric	HR	http://drobilica.irb.hr/~mathieu/	1	1	NULL	NULL
+827	476	Jurij		Kovič	SI		1	1	NULL	NULL
+828	477	Dijana		Mosic	CS		1	1	NULL	NULL
+829	477	Dragan	S.	Djordjevic	CS		0	2	NULL	NULL
+830	478	William	H.	Mitchell	US		1	2	NULL	NULL
+831	313	Riste		Škrekovski	SI		0	2	NULL	NULL
+832	479	Mohammad		Nikmehr			1	1	NULL	NULL
+833	479	Leila		Heidarzadeh			0	2	NULL	NULL
+834	479	Bahareh		Bashiri			0	3	NULL	NULL
+835	480	Paritosh		Bhattacharya	IN		1	1	NULL	NULL
+836	481	Marko		Petkovšek	SI		1	1	NULL	NULL
+838	483	Harishchandra		Ramane	IN		1	1	NULL	NULL
+839	483	Asha		Ganagi	IN		0	2	NULL	NULL
+840	484	Saeid		Alikhani	IR		1	1	NULL	NULL
+841	484	Saeed		Mirvakili	IR		0	2	NULL	NULL
+842	485	Yan		Zhu	CN		1	1	NULL	NULL
+843	486	Christina	M.	Graves	US		1	1	NULL	NULL
+844	486	Jennifer		McLoud-Mann	US		0	2	NULL	NULL
+845	486	Kristen		Stagg Rovira	US		0	3	NULL	NULL
+846	487	Hacène		Belbachir	DZ		1	1	NULL	NULL
+847	487	Iad Eddine		Bousbaa			0	2	NULL	NULL
+852	491	Patric	R. J.	Östergård	FI		1	1	NULL	NULL
+850	490	Maurizio		Imbesi	IT		1	1	NULL	NULL
+851	490	Monica		La Barbiera	IT		0	2	NULL	NULL
+853	491	Zehui		Shao	CN		0	2	NULL	NULL
+854	491	Xiaodong		Xu	CN		0	3	NULL	NULL
+855	492	Gabriel		Verret	AU		1	1	NULL	NULL
+856	493	Vernold		Vivin	IN		1	1	NULL	NULL
+857	494	Stephen		Huggett			1	1	NULL	NULL
+858	494	Israa		Tawfik			0	2	NULL	NULL
+863	498	M		Vijayaragavan			0	2	NULL	NULL
+864	499	Dragan		Stevanović	SI	http://draganstevanovic.wordpress.com	1	1	NULL	NULL
+865	499	Ivan		Gutman	RS		0	2	NULL	NULL
+866	499	Masood	Ur	Rehman	PK		0	3	NULL	NULL
+867	500	Yehua		Wang			0	1	NULL	NULL
+868	500	Juan		liu			1	2	NULL	NULL
+869	501	hamidreza		maimani			1	0	NULL	NULL
+870	502	Marsha		Minchenko			1	1	NULL	NULL
+871	502	Ian	M.	Wanless			0	2	NULL	NULL
+872	503	Elke		Wolf			1	1	NULL	NULL
+873	504	Rabha		Ibrahim	MY		1	1	NULL	NULL
+874	505	Ashish	K	Upadhyay	IN		1	2	NULL	NULL
+875	505	Dipendu		Maity	IN		0	1	NULL	NULL
+876	506	muhammad	kamran	siddiqui	PK		1	1	NULL	NULL
+877	506	muhammad		numan	PK		0	2	NULL	NULL
+878	507	Doost Ali		Mojdeh			1	1	NULL	NULL
+879	508	Paul	M.	Terwilliger	US		1	1	NULL	NULL
+880	509	Brian		Alspach	AU		1	1	NULL	NULL
+884	513	Tomaž		Pisanski	SI		1	2	NULL	NULL
+883	512	Yan		Zhu	CN		1	1	NULL	NULL
+885	513	Aleksander		Malnič			0	1	NULL	NULL
+886	513	Arjana		Žitnik			0	3	NULL	NULL
+887	514	v siva rama raju		sagiraju	IN		1	1	NULL	NULL
+888	514	h nagaraja rao		Indrakanti	IN		0	2	NULL	NULL
+889	515	Bekir		Tanay			1	1	NULL	NULL
+890	516	Riste		Škrekovski	SI		1	2	NULL	NULL
+898	519	Abdullah		Aljouie			0	2	NULL	NULL
+897	519	Maged	Z	Youssef	EG		1	1	NULL	NULL
+894	518	Kristijan		Cafuta	SI		1	1	NULL	NULL
+895	518	Igor		Klep			0	2	NULL	NULL
+896	518	Janez		Povh			0	3	NULL	NULL
+899	520	Marc		Hellmuth	DE		1	1	NULL	NULL
+900	520	Wilfried		Imrich			0	2	NULL	NULL
+901	520	Tomas		Kupka			0	3	NULL	NULL
+902	521	Norbert		Seifter	AT		1	3	NULL	NULL
+903	521	Aleksander		Malnič	SI		0	1	NULL	NULL
+904	521	Primož		Potočnik	SI		0	2	NULL	NULL
+905	521	Primož		Šparl	SI		0	4	NULL	NULL
+906	522	mansoureh		deldar			1	1	NULL	NULL
+907	523	Sennimalai		Kalimuthu	IN		1	1	NULL	NULL
+908	524	Gholam Hassan		Shirdel	IR		1	1	NULL	NULL
+909	524	Maryam		Sarabadan	IR		0	2	NULL	NULL
+910	525	Kannan		Pattabiraman	IN		1	1	NULL	NULL
+911	526	Nader		Jafari Rad			1	1	NULL	NULL
+912	527	Jozef		Širáň	GB		1	2	NULL	NULL
+913	527	Martin		Bachratý	SK		0	1	NULL	NULL
+914	528	Petra		Šparl	SI		1	1	NULL	NULL
+915	528	Rafał		Witkowski	PL		0	2	NULL	NULL
+916	528	Janez		Žerovnik	SI		0	3	NULL	NULL
+917	529	Kexiang		Xu	CN		1	1	NULL	NULL
+918	529	Kechao		Tang	CN		0	2	NULL	NULL
+919	529	Jinlan		Wang			0	3	NULL	NULL
+920	529	Hongshuang		Liu			0	4	NULL	NULL
+921	530	Abdul Rauf		Nizami	PK		1	1	NULL	NULL
+922	531	rajamanickam		parimelazhagan	IN		1	1	NULL	NULL
+927	534	Raffaele		Scapellato	IT		1	3	NULL	NULL
+924	532	Hongbo		Hua	CN		1	1	NULL	NULL
+925	532	Kinkar	Ch.	Das	KR		0	2	NULL	NULL
+928	534	Josef		Lauri	MT		0	1	NULL	NULL
+929	534	Russell		Mizzi	MT		0	2	NULL	NULL
+1013	582	Yongtang		Shi	CN		1	3	NULL	NULL
+931	536	Juan	Alberto	Rodriguez-Velazquez	ES	http://deim.urv.cat/~jarodriguez/	1	1	NULL	NULL
+932	508	Chalermpong		Worawannotai	US		0	2	NULL	NULL
+933	537	György		Kiss	HU		1	1	NULL	NULL
+934	537	Christian		Rubio-Montiel			0	2	NULL	NULL
+939	539	Ayan		Mahalanobis	IN	http://www.iiserpune.ac.in/~ayan	1	1	NULL	NULL
+936	538	Toufik		Mansour	IL		1	2	NULL	NULL
+937	538	Thomas	W.	Tucker	US		0	3	NULL	NULL
+938	538	David	G. L.	Wang	CN		0	4	NULL	NULL
+940	540	Luis		Martínez Fernández	ES		1	1	NULL	NULL
+941	541	María		del Río Francos	SI		1	1	NULL	NULL
+942	542	Marcin		Anholcer	PL	http://kbo.ue.poznan.pl/anholcer	1	1	NULL	NULL
+943	542	Sylwia		Cichacz	PL	http://home.agh.edu.pl/~cichacz/	0	2	NULL	NULL
+944	543	Ali		Iranmanesh	IR		1	2	NULL	NULL
+945	543	Mahdieh		Azari	IR		0	1	NULL	NULL
+1654	940	Tamás		Lengyel			1	1	NULL	NULL
+947	544	Thomas		Connor	BE		0	1	NULL	NULL
+948	545	Gareth		Jones	GB		1	1	NULL	NULL
+949	546	Rabah		Kellil	SA		1	1	NULL	NULL
+950	547	Mevlüt		Tunç	TR		1	1	NULL	NULL
+951	548	Zehui		Shao	CN		1	1	NULL	NULL
+952	548	Enqiang		Zhu	CN		0	2	NULL	NULL
+953	548	Zepeng		Li			0	3	NULL	NULL
+954	548	Fei		Deng			0	4	NULL	NULL
+955	549	Naveed		Riaz	SA		1	1	NULL	NULL
+956	550	Alexander		Mednykh	RU		1	1	NULL	NULL
+957	550	Ilya		Mednykh	RU		0	2	NULL	NULL
+958	551	maryam		Roozbayani	IR		1	1	NULL	NULL
+959	552	Yusuke		Suzuki	JP		1	1	NULL	NULL
+960	553	Hamid	Reza	Sahebi	IR		1	1	NULL	NULL
+961	554	Gabe		Cunningham	US	http://www.gabrielcunningham.com	1	2	NULL	NULL
+962	554	Marston		Conder	NZ	http://http://www.math.auckland.ac.nz/~conder/	0	1	NULL	NULL
+963	555	Dániel		Gerbner	HU		1	1	NULL	NULL
+964	555	Viola		Mészáros			0	2	NULL	NULL
+965	555	Dömötör		Pálvölgyi			0	3	NULL	NULL
+966	555	Alexey		Pokrovskiy			0	4	NULL	NULL
+967	555	Günter		Rote			0	5	NULL	NULL
+968	556	Sk.	Md. Abu	Nayeem	IN		1	2	NULL	NULL
+969	556	Nilanjan		De	IN		0	1	NULL	NULL
+970	556	Anita		Pal	IN		0	3	NULL	NULL
+971	557	Marston		Conder	NZ	http://www.math.auckland.ac.nz/~conder	1	1	NULL	NULL
+972	557	Primož		Potočnik	SI		0	2	NULL	NULL
+973	557	Primož		Šparl	SI		0	3	NULL	NULL
+974	558	Steven	B	Gillispie	US		1	1	NULL	NULL
+975	559	Primož		Potočnik	SI		1	1	NULL	NULL
+976	559	Gabriel		Verret	AU		0	3	NULL	NULL
+977	559	Pablo		Spiga	IT		0	2	NULL	NULL
+978	560	Shaofei		Du	CN		1	3	NULL	NULL
+979	560	Wenqin		Xu	CN		0	1	NULL	NULL
+980	561	Matjaž		Omladič	SI		1	2	NULL	NULL
+981	561	Boris		Cergol			0	1	NULL	NULL
+982	562	Rafel		Jaume		http://page.mi.fu-berlin.de/jaume/	1	0	NULL	NULL
+983	563	Hacène		Belbachir	DZ		1	2	NULL	NULL
+984	563	Mourad		Abchiche	DZ		0	1	NULL	NULL
+985	564	Tao		Wang	CN		1	1	NULL	NULL
+986	565	Marko		Boben	SI		1	1	NULL	NULL
+987	566	Amela		Muratović-Ribić	BA		1	1	NULL	NULL
+988	566	Qiang		Wang	CA		0	2	NULL	NULL
+989	567	Manju	K	Menon	IN		1	2	NULL	NULL
+990	567	Chithra	M	R	IN		0	1	NULL	NULL
+991	567	A		Vijayakumar	IN		0	3	NULL	NULL
+992	568	Simone		Ugolini	IT		1	1	NULL	NULL
+993	569	Jiang		Zhou			1	1	NULL	NULL
+994	570	Min		Yan	HK		1	1	NULL	NULL
+995	570	Ka Yue		Cheuk	HK		0	2	NULL	NULL
+996	570	Ho Man		Cheung			0	3	NULL	NULL
+997	571	salama	nagy	daoud	EG		1	1	NULL	NULL
+998	572	Jamshid		Moori	ZA		1	1	NULL	NULL
+999	572	Thekiso		Seretlo	ZA		0	2	NULL	NULL
+1000	573	Sizhong		Zhou	CN		1	1	NULL	NULL
+1001	574	Hung-Chih		Lee	TW		1	1	NULL	NULL
+1002	575	xiu		sun			1	0	NULL	NULL
+1003	576	Riste		Škrekovski			1	3	NULL	NULL
+1004	577	Ali		Iranmanesh	IR		1	2	NULL	NULL
+1005	577	Mahdieh		Azari	IR		0	1	NULL	NULL
+1006	577	Tomislov		Došlić	HR		0	3	NULL	NULL
+1007	578	Tomaž		Pisanski	SI		1	1	NULL	NULL
+1008	579	Tomaž		Pisanski	SI		1	2	NULL	NULL
+1009	579	Dragan		Marušič			0	1	NULL	NULL
+1010	580	fereshteh		momen	IR		1	1	NULL	NULL
+1011	581	Nico		Van Cleemput	CZ		1	2	NULL	NULL
+1012	581	Yohji		Akama	JP	http://www.math.tohoku.ac.jp/akama/stcq/	0	1	NULL	NULL
+1014	582	Ran		Gu	CN		0	1	NULL	NULL
+1015	582	Xueliang		Li	CN		0	2	NULL	NULL
+1016	583	Deepa		Sinha	IN		1	1	NULL	NULL
+1017	584	Nico		Van Cleemput	CZ		1	5	NULL	NULL
+1018	584	Ingo		Althöfer	DE		0	1	NULL	NULL
+1019	584	Jan Kristian		Haugland	NO		0	2	NULL	NULL
+1020	584	Karl		Scherer	NZ		0	3	NULL	NULL
+1021	584	Frank		Schneider	DE		0	4	NULL	NULL
+1025	588	Yumei		Hu	CN		1	1	NULL	NULL
+1024	587	Gareth	Aneurin	Jones	GB		1	1	NULL	NULL
+1026	588	Tingting		Liu	CN		0	2	NULL	NULL
+1027	589	Mehdi		Alaeiyan	IR		1	1	NULL	NULL
+1028	589	Amirabbas		Abedi			0	2	NULL	NULL
+1029	590	Dragan		Marušič	SI		1	1	NULL	NULL
+1030	590	Tomaž		Pisanski	SI		0	2	NULL	NULL
+1031	591	Ignacio	M.	Pelayo	ES	http://www.ma3.upc.edu/users/pelayo/	1	3	NULL	NULL
+1032	591	Carmen		Hernando	ES		0	1	NULL	NULL
+1033	591	Merce		Mora	ES		0	2	NULL	NULL
+1034	312	Wanping		Zhang	CN		0	2	NULL	NULL
+1035	592	Angel	Francisco	Tenorio	ES		1	3	NULL	NULL
+1036	592	Manuel		Ceballos	ES		0	1	NULL	NULL
+1037	592	Juan		Nunez	ES		0	2	NULL	NULL
+1038	593	Gábor		Somlai	HU		1	1	NULL	NULL
+1039	594	Tomaž		Pisanski	SI		1	2	NULL	NULL
+1040	594	Patrick	W.	Fowler	GB		0	1	NULL	NULL
+1041	595	Ayse	Dilek	Maden	TR		1	1	NULL	NULL
+1042	596	shude		long			1	1	NULL	NULL
+1043	596	Junliang		Cai			0	2	NULL	NULL
+1044	597	Yongtang		Shi	CN		1	1	NULL	NULL
+1045	597	Jing		Ma			0	2	NULL	NULL
+1046	597	Jun		Yue			0	3	NULL	NULL
+1047	598	Habib		Amiri	IR		1	1	NULL	NULL
+1048	599	Maysam		Yaghoobian	IR		0	2	NULL	NULL
+1049	599	Mohammad Reza		Darafsheh	IR		1	1	NULL	NULL
+1050	600	Charlotte		Brennan	ZA		1	2	NULL	NULL
+1051	601	Rami		El-Nabulsi	CN		1	0	NULL	NULL
+1052	602	Rami		El-Nabulsi	CN		1	1	NULL	NULL
+1053	603	Md. Ashek		Al-Aziz	BD	http://www.ashekalaziz.wordpress.com	1	1	NULL	NULL
+1073	615	Ismael		Gonzalez Yero	ES		1	2	NULL	NULL
+1055	605	Klavdija		Kutnar	SI		1	1	NULL	NULL
+1056	605	Primož		Šparl	SI		0	2	NULL	NULL
+1057	606	Patrick	W.	Fowler	GB		1	1	NULL	NULL
+1058	606	Tomaž		Pisanski	SI		0	2	NULL	NULL
+1059	607	Xueliang		Li	CN		1	1	NULL	NULL
+1060	607	Jing		Ma			0	2	NULL	NULL
+1061	607	Yongtang		Shi			0	3	NULL	NULL
+1062	607	Jun		Yue			0	4	NULL	NULL
+1063	608	Mojtaba		Ghasemi	IR		1	1	NULL	NULL
+1064	609	Július		Czap	SK		1	1	NULL	NULL
+1065	610	Hüseyin		BOR	TR		1	1	NULL	NULL
+1066	610	Ram N		Mohapatra			0	2	NULL	NULL
+1070	613	Saeid		Alikhani	IR		1	1	NULL	NULL
+1068	612	Reza		Nikandish			1	1	NULL	NULL
+1069	612	Farzad		Shaveisi			0	2	NULL	NULL
+1071	613	Somayeh		Jahari			0	2	NULL	NULL
+1072	614	Baoyindureng		Wu	CN		1	1	NULL	NULL
+1074	615	Dorota		Kuziak	ES		0	1	NULL	NULL
+1075	615	Juan Alberto		Rodriguez-Velazquez	ES		0	3	NULL	NULL
+1076	616	Xiangwen		Li	CN		1	1	NULL	NULL
+1077	616	Sanming		Zhou	AU		0	2	NULL	NULL
+1078	617	Klara		Stokes	SE		1	1	NULL	NULL
+1079	618	Announcement		1	SI		1	1	NULL	NULL
+1080	619	Announcement		2	SI		1	1	NULL	NULL
+1083	622	Martin		Baca	SK		1	3	NULL	NULL
+1082	621	Bing		He	CN		1	1	NULL	NULL
+1084	622	Ali		Ahmad	SA		0	1	NULL	NULL
+1085	622	Omar	Bin Saeed	Al-Mushayt	SA		0	2	NULL	NULL
+1086	623	Pankaj	Kumar	Sharma	IN		1	1	NULL	NULL
+1087	623	S.S.		Bhatia			0	2	NULL	NULL
+1088	623	V.		Kumar			0	3	NULL	NULL
+1089	624	DAE SAN		KIM	KR		1	2	NULL	NULL
+1090	624	TAEKYUN		KIM	KR		0	1	NULL	NULL
+1091	625	chj		zhao			1	1	NULL	NULL
+1092	625	Wing Sum		Cheung			0	2	NULL	NULL
+1093	626	Roman		Nedela	SK		1	2	NULL	NULL
+1094	627	Manouchehr		Zaker			1	1	NULL	NULL
+1095	627	Hossein		Soltani			0	2	NULL	NULL
+1096	628	Ambat		Vijayakumar	IN		1	1	NULL	NULL
+1097	628	CHITRA		M.R.	IN		0	2	NULL	NULL
+1099	630	Huey Voon		Chen	MY		1	2	NULL	NULL
+1100	630	Kiam Heong		Kwa	MY		0	1	NULL	NULL
+1101	631	Jicheng		Ma	CN		1	1	NULL	NULL
+1104	634	Ernesto		Martínez	ES		1	1	NULL	NULL
+1108	637	Suhadi Wido		Saputro	ID		1	1	NULL	NULL
+1106	636	Zhaoyang		Luo	CN		0	1	NULL	NULL
+1107	636	Jianliang		Wu	CN		1	2	NULL	NULL
+1109	638	Bijan		Taeri	IR	http://taeri.iut.ac.ir	1	2	NULL	NULL
+1110	638	Majid		Arezoomand	IR		0	1	NULL	NULL
+1111	639	Irene		Sciriha	MT		1	3	NULL	NULL
+1112	640	Hacène		Belbachir	DZ		1	1	NULL	NULL
+1113	640	Imad Eddine		Bousbaa			0	2	NULL	NULL
+1114	641	Gaiane		Panina	RU	http://math-cs.spbu.ru/en/people/panina-g-yu/	1	1	NULL	NULL
+1115	642	Vincent		Pilaud	FR	http://www.lix.polytechnique.fr/~pilaud/	1	2	NULL	NULL
+1116	642	Jürgen		Bokowski	DE	http://wwwopt.mathematik.tu-darmstadt.de/~bokowski/	0	1	NULL	NULL
+1118	644	Casey		Mann	US		1	1	NULL	NULL
+1129	653	Martin		Trinks			1	1	NULL	NULL
+1122	648	Alen		Orbanić	SI		1	1	NULL	NULL
+1123	649	D. John		Jabaraj	MY		1	1	NULL	NULL
+1124	650	Alexander		Mednykh	RU		1	1	NULL	NULL
+1125	650	Ilya		Mednykh	RU		0	2	NULL	NULL
+1126	651	chj		zhao			1	1	NULL	NULL
+1127	651	Wing-Sum		Cheung			0	2	NULL	NULL
+1128	652	D. John		Jabaraj			1	1	NULL	NULL
+1131	655	Samira		Hamani	DZ		1	1	NULL	NULL
+1135	658	Raju		M	IN		1	1	NULL	NULL
+1133	657	Antonio		Breda d'Azevedo	PT		1	1	NULL	NULL
+1134	657	Maria Elisa		Fernandes	PT		0	2	NULL	NULL
+1136	658	Selvaraj		B	IN		0	2	NULL	NULL
+1137	659	Shunyi		Liu	CN	http://id.sciencenet.cn/en/liushunyi	1	0	NULL	NULL
+1138	660	Shunyi		Liu	CN	http://id.sciencenet.cn/en/liushunyi	1	0	NULL	NULL
+1139	661	Dragan		Stevanović	RS		1	2	NULL	NULL
+1140	661	Vladimir		Baltić	RS		0	1	NULL	NULL
+1319	752	Ayhan		Esi	TR		1	1	NULL	NULL
+1143	664	Christina		Zarb	MT		1	3	NULL	NULL
+1144	664	Yair		Caro			0	1	NULL	NULL
+1145	664	Josef		Lauri			0	2	NULL	NULL
+1146	665	Edward		Dobson	US		1	2	NULL	NULL
+1147	665	Brian		Alspach	AU		0	1	NULL	NULL
+1148	666	Deepa		Sinha	IN		1	1	NULL	NULL
+1149	667	Boris		Zgrablić	SI		1	1	NULL	NULL
+1150	668	Eunice	Gogo	Mphako-Banda	ZA		1	1	NULL	NULL
+1151	669	Dean		Crnkovic	HR		1	1	NULL	NULL
+1152	669	Doris		Dumicic Danilovic	HR		0	2	NULL	NULL
+1153	669	Sanja		Rukavina	HR		0	3	NULL	NULL
+1154	670	Aleksander		Malnič	SI		1	1	NULL	NULL
+1155	670	Rok		Požar			0	2	NULL	NULL
+1156	671	M	A	Hafiz			1	1	NULL	NULL
+1157	671	Mohamed	S. M.	Bahgat			0	2	NULL	NULL
+1158	672	Yumei		Hu	CN		1	2	NULL	NULL
+1159	672	Yanhong		Zhang			0	1	NULL	NULL
+1747	995	Eunice	Gogo	Mphako-Banda	ZA		1	1	NULL	NULL
+1172	678	ABDUL		H.GANIE	IN		1	1	NULL	NULL
+1171	677	Bijan		Taeri	IR	http://taeri.iut.ac.ir	1	1	NULL	NULL
+1163	676	Fuyuan		Chen	CN		1	1	NULL	NULL
+1507	856	Gregory	D.	Smith	US		0	2	NULL	NULL
+1165	676	Bo		Ning	CN		0	2	NULL	NULL
+1503	600	Aubrey		Blecher			0	1	NULL	NULL
+1504	600	Arnold		Knopfmacher			0	3	NULL	NULL
+1657	942	Jicheng		Ma	CN		1	0	NULL	NULL
+1506	856	Richard	H.	Hammack	US	http://www.people.vcu.edu/~rhammack/	1	1	NULL	NULL
+1173	679	Angelina	Yan Mui	Chin	MY		1	2	NULL	NULL
+1174	679	Huey Voon		Chen			0	1	NULL	NULL
+1175	680	Karen		Seyffarth	CA		1	4	NULL	NULL
+1176	680	Marcel		Celaya			0	1	NULL	NULL
+1177	680	Kelly		Choo			0	2	NULL	NULL
+1178	680	Gary		MacGillivray			0	3	NULL	NULL
+1179	681	Zehra		Ekinci	TR		1	1	NULL	NULL
+1180	682	Irena	M.	Jovanović	RS		1	1	NULL	NULL
+1181	683	Announcement		3	SI		1	1	NULL	NULL
+1182	684	Boris		Zgrablić	SI		1	1	NULL	NULL
+1183	685	Doost Ali		Mojdeh			1	1	NULL	NULL
+1184	685	Xianyue		Li			0	2	NULL	NULL
+1185	685	Mehdi		Ramezani			0	3	NULL	NULL
+1186	685	Mojtaba		Ghanbari			0	4	NULL	NULL
+1187	686	Vadim		Levit	IL		1	1	NULL	NULL
+1188	686	Eugen		Mandrescu	IL		0	2	NULL	NULL
+1189	687	Hanna		Furmanczyk	PL		1	1	NULL	NULL
+1190	687	Marek		Kubale	PL		0	2	NULL	NULL
+1191	688	Martin		Knor			1	1	NULL	NULL
+1192	688	Jaromir		Sys			0	2	NULL	NULL
+1193	689	Christian		Rubio-Montiel	MX		1	2	NULL	NULL
+1194	689	Gabriela		Araujo-Pardo	MX		0	1	NULL	NULL
+1195	689	Adrián		Vázquez-Ávila			0	3	NULL	NULL
+1196	690	Nagarajan		subramanian	IN		1	1	NULL	NULL
+1197	241	Ricardo		Strausz	MX		0	2	NULL	NULL
+1198	691	mansoureh		deldar			1	1	NULL	NULL
+1199	692	Josef		Lauri	MT	http://staff.um.edu.mt/josef.lauri	1	1	NULL	NULL
+1200	693	Aslıhan		Sezgin Sezer			1	1	NULL	NULL
+1201	694	Ebrahim		vatandoost	IR		1	1	NULL	NULL
+1202	694	Hamid Reza		maimani	IR		0	2	NULL	NULL
+1203	694	Fatemeh		Ramezani	IR		0	3	NULL	NULL
+1204	695	Yuefang		Sun			1	1	NULL	NULL
+1205	696	sepideh		ebrahimi	IR		1	1	NULL	NULL
+1206	697	Osama		Sayed	EG		1	1	NULL	NULL
+1207	697	Muhammad		ABD-ALLAH			0	2	NULL	NULL
+1208	698	T		Tamizh Chelvam	IN		1	1	NULL	NULL
+1209	698	T		Asir	IN		0	2	NULL	NULL
+1210	699	Rok		Požar	SI		1	1	NULL	NULL
+1211	700	Jun		Yue	CN		1	1	NULL	NULL
+1212	700	Meiqin		Wei	CN		0	2	NULL	NULL
+1213	700	Yan		Zhao	CN		0	3	NULL	NULL
+1214	701	S.		Arockiaraj	IN		1	2	NULL	NULL
+1215	701	R.		Vasuki	IN		0	1	NULL	NULL
+1216	701	J.		Venkateswari	IN		0	3	NULL	NULL
+1217	702	Mohammadali		Iranmanesh			1	1	NULL	NULL
+1218	703	Catarina		Avelino	PT		1	1	NULL	NULL
+1219	703	Altino		Santos	PT		0	2	NULL	NULL
+1220	704	Benjian		Lv	CN		1	2	NULL	NULL
+1221	704	Li-Ping		Huang	CN		0	1	NULL	NULL
+1222	704	Kaishun		Wang	CN		0	3	NULL	NULL
+1223	705	David		Gajser	SI		1	1	NULL	NULL
+1224	706	Giovanni		Lo Faro	IT		1	2	NULL	NULL
+1225	707	qingsong		tang	CN		1	1	NULL	NULL
+1226	707	yuejian		peng	CN		0	2	NULL	NULL
+1227	707	xiangde		zhang			0	3	NULL	NULL
+1228	707	cheng		zhao	US		0	4	NULL	NULL
+1229	708	Alen		Orbanić	SI		1	1	NULL	NULL
+1230	709	Alen2		Orbanic2			1	1	NULL	NULL
+1231	710	Courtney		Taylor			1	1	NULL	NULL
+1232	711	Roslan		Hasni	MY		1	1	NULL	NULL
+1233	711	Almothana		Azaizeh	MY		0	2	NULL	NULL
+1234	711	Ali		Ahmad	SA		0	3	NULL	NULL
+1235	711	Ghee-Choon		Lau	MY		0	4	NULL	NULL
+1237	713	Mirko		Petrushevski			1	1	NULL	NULL
+1238	713	Borut		Luzar			0	2	NULL	NULL
+1239	713	Riste		Skrekovski			0	3	NULL	NULL
+1240	714	Zhendong		Shao			1	1	NULL	NULL
+1241	714	Roberto		Solis-Oba			0	2	NULL	NULL
+1242	714	Igor		Averbakh			0	3	NULL	NULL
+1243	420	Michael		Dupuis	US		0	1	NULL	NULL
+1244	715	Wilfried		Imrich	AT		1	3	NULL	NULL
+1245	715	Tetiana		Boiko	AT		0	1	NULL	NULL
+1246	715	Johannes		Cuno	AT		0	2	NULL	NULL
+1247	715	Florian		Lehner	AT		0	4	NULL	NULL
+1248	715	Christiaan	E.	van de Woestijne	AT		0	5	NULL	NULL
+1249	716	süleyman		ediz	TR		1	1	NULL	NULL
+1250	717	Şerife		Büyükköse	TR		1	1	NULL	NULL
+1251	717	Şehri Gülçiçek		Eski	TR		0	2	NULL	NULL
+1252	718	Ahmad		Abbasi	IR		1	1	NULL	NULL
+1253	719	Peteris		Daugulis	LV	//de.du.lv/mrc/pd.htm	1	1	NULL	NULL
+1260	722	Hidefumi		Ohsugi	JP		1	3	NULL	NULL
+1261	723	Thiti		Gaketem			1	1	NULL	NULL
+1256	721	Muhammad		Salman	PK		1	1	NULL	NULL
+1257	721	Mahr		Murtaza	PK		0	2	NULL	NULL
+1258	721	Farheen		Iftikhar	PK		0	3	NULL	NULL
+1259	721	Muhammad		Imran	PK		0	4	NULL	NULL
+1262	724	Igor		Milovanovic	RS		1	1	NULL	NULL
+1263	724	Emina		Milovanovic	RS		0	2	NULL	NULL
+1264	724	Edin		Glogic	RS		0	3	NULL	NULL
+1265	725	mohammad	reza	darafsheh	IR		0	1	NULL	NULL
+1266	725	maryam		ghorbani	IR		1	2	NULL	NULL
+1267	726	Kannan		Pattabiraman	IN		1	1	NULL	NULL
+1268	726	A		Arivalagan			0	2	NULL	NULL
+1269	726	V.S.A.		Subramanian			0	3	NULL	NULL
+1270	727	Bijan		Davvaz			1	1	NULL	NULL
+1271	728	Kannan		Pattabiraman	IN		1	1	NULL	NULL
+1272	728	A		Arivalagan			0	2	NULL	NULL
+1273	728	V.S.A.		Subramanian			0	3	NULL	NULL
+1274	729	Prasanta	Kumar	Ray			1	1	NULL	NULL
+1275	729	Juli		Sahu			0	2	NULL	NULL
+1276	626	Kan		Hu	SK		0	1	NULL	NULL
+1277	626	Martin		Škoviera	SK		0	3	NULL	NULL
+1278	626	Naer		Wang	SK		0	4	NULL	NULL
+1279	458	Guihua		Huang			0	1	NULL	NULL
+1280	458	Meijun		Kuang			0	2	NULL	NULL
+1281	459	Craig		Larson			0	2	NULL	NULL
+1282	459	Jasper		Souffriau			0	3	NULL	NULL
+1283	459	Nico		Van Cleemput			0	4	NULL	NULL
+1284	478	Leah	Wrenn	Berman			0	1	NULL	NULL
+1305	742	Branko	J.	Malesevic	RS		1	2	NULL	NULL
+1286	731	Li		Jianping			1	1	NULL	NULL
+1287	732	Mohammad Hassan		Anjom SHoa	IR		1	1	NULL	NULL
+1288	732	Mohammad Hossein		Hosseini	IR		0	2	NULL	NULL
+1289	733	Xiangwen		Li			1	1	NULL	NULL
+1290	733	Jianqing		Ma			0	2	NULL	NULL
+1291	734	Rafael		Del Valle Vega	PR		1	1	NULL	NULL
+1292	576	Borut		Lužar			0	1	NULL	NULL
+1293	576	Mirko		Petruševski			0	2	NULL	NULL
+1936	1095	chj		zhao			1	1	NULL	NULL
+1295	736	Feng		Qi	CN	http://qifeng618.wordpress.com	1	1	NULL	NULL
+1296	736	Bo-Yan		Xi	CN		0	2	NULL	NULL
+1297	737	Feng		Qi	CN	http://qifeng618.wordpress.com	1	1	NULL	NULL
+1298	738	Mereke		van Garderen			1	2	NULL	NULL
+1299	738	David		Eppstein			0	1	NULL	NULL
+1300	738	Bettina		Speckmann			0	3	NULL	NULL
+1301	738	Torsten		Ueckerdt			0	4	NULL	NULL
+1304	741	Zepeng		Li			1	1	NULL	NULL
+1306	742	Ivana	V.	Jovovic	RS		0	1	NULL	NULL
+1307	743	Babak		Samadi			1	1	NULL	NULL
+1308	744	Pablo		Spiga			1	0	NULL	NULL
+1309	745	mohammad	reza	darafsheh	IR		0	1	NULL	NULL
+1310	745	maisam		yaghoobian	IR		1	2	NULL	NULL
+1311	746	Špela		Jezernik Širca	SI		1	1	NULL	NULL
+1312	747	Primož		Potočnik	SI		1	1	NULL	NULL
+1313	747	Katja		Berčič	SI		0	2	NULL	NULL
+1314	748	Feng		Qi	CN	http://qifeng618.wordpress.com	1	1	NULL	NULL
+1315	749	Mohammad Reza		Oboudi	IR		1	1	NULL	NULL
+1316	750	FUGEN		TORUNBALCI AYDIN			1	1	NULL	NULL
+1317	750	salim		yüce			0	2	NULL	NULL
+1320	752	Subramanian		Nagarajan	IN		0	2	NULL	NULL
+1325	757	Karin		Cvetko-Vah	SI		1	1	NULL	NULL
+1324	756	Bing		He	CN		1	1	NULL	NULL
+1916	832	Bill		Allombert	FR		0	1	NULL	NULL
+1327	758	William	L.	Kocay	CA		1	1	NULL	NULL
+1329	760	Sunil	C	Mathew	IN		1	1	NULL	NULL
+1330	761	Arsham		Borumand Saeid			1	2	NULL	NULL
+1331	761	A		Soleimani Nasab			0	1	NULL	NULL
+1332	762	Olivia		Yao	CN		1	1	NULL	NULL
+1333	763	Yingbin		Ma			1	2	NULL	NULL
+1334	763	Zaiping		Lu			0	1	NULL	NULL
+1335	764	Takao		Komatsu	CN		1	1	NULL	NULL
+1336	765	Krzysztof		Petelczyc	PL		1	1	NULL	NULL
+1337	766	Syed	tahir raza	Rizvi	PK		1	1	NULL	NULL
+1338	766	Mirka		Miller			0	2	NULL	NULL
+1339	766	Kashif		Ali			0	3	NULL	NULL
+1340	767	Feng		Qi	CN	http://qifeng618.wordpress.com	1	1	NULL	NULL
+1341	768	Tomaž		Pisanski	SI		1	2	NULL	NULL
+1342	768	Dragan		Marušič			0	1	NULL	NULL
+1343	769	Reza		Sharafdini	IR	http://pgu.ac.ir/web/sharafdini	1	1	NULL	NULL
+1344	769	Mitsugu		Hirasaka	KR		0	2	NULL	NULL
+1345	770	Darryn		Bryant	AU		1	2	NULL	NULL
+1346	770	Brian		Alspach	AU		0	1	NULL	NULL
+1347	770	Daniel		Horsley	AU		0	3	NULL	NULL
+1348	770	Barbara		Maenhaut	AU		0	4	NULL	NULL
+1349	770	Victor		Scharaschkin	AU		0	5	NULL	NULL
+1350	771	Dave	Witte	Morris	CA	http://people.uleth.ca/~dave.morris/	1	3	NULL	NULL
+1351	771	Ademir		Hujdurović	SI		0	1	NULL	NULL
+1352	771	Klavdija		Kutnar	SI		0	2	NULL	NULL
+1353	771	Joy		Morris	CA		0	4	NULL	NULL
+1354	772	Mustafa		Bahşi	TR		1	1	NULL	NULL
+1355	639	Alexander		Farrugia			0	1	NULL	NULL
+1356	639	John Baptist		Gauci			0	2	NULL	NULL
+1357	773	Muhammad Irfan		Ali			1	1	NULL	NULL
+1359	773	Muhammad		Shabir			0	2	NULL	NULL
+1360	773	Feng		Feng			0	3	NULL	NULL
+1366	779	Renying		Chang	CN		1	1	NULL	NULL
+1365	778	Mohammad	Reza	Farahani	IR		1	1	NULL	NULL
+1363	777	kavithaa		subramaniyan	IN		1	2	NULL	NULL
+1364	777	KALADEVI		V	IN		0	1	NULL	NULL
+1367	779	Yan		Zhu			0	2	NULL	NULL
+1368	780	Benjian		Lv	CN		1	2	NULL	NULL
+1369	780	Li-Ping		Huang			0	1	NULL	NULL
+1370	780	Kaishun		Wang			0	3	NULL	NULL
+1371	781	Wei		Jin	CN		1	1	NULL	NULL
+1372	781	Li		Tan	CN		0	2	NULL	NULL
+1373	782	Qun		Liu	CN		1	1	NULL	NULL
+1374	783	Hanyuan		Deng			1	4	NULL	NULL
+1375	784	süleyman		ediz	TR		1	1	NULL	NULL
+1376	785	Alaa		Hassan	EG		1	3	NULL	NULL
+1377	785	Prof. Rabha		El-Ashwah			0	1	NULL	NULL
+1378	785	Prof. Rabha		El-Ashwah			0	2	NULL	NULL
+1379	786	Announcement		1	SI		1	1	NULL	NULL
+1380	787	Klara		Stokes			1	1	NULL	NULL
+1381	787	Milagros		Izquierdo			0	2	NULL	NULL
+1382	788	Balázs		Keszegh	HU		1	2	NULL	NULL
+1383	788	Dániel		Gerbner	HU		0	1	NULL	NULL
+1384	788	Dömötör		Pálvölgyi	GB		0	3	NULL	NULL
+1385	788	Günter		Rote	DE		0	4	NULL	NULL
+1386	788	Gábor		Wiener	HU		0	5	NULL	NULL
+1387	789	Hisham	B.	Mahdi	PS		1	1	NULL	NULL
+1388	789	S.	I.	Nads	EG		0	2	NULL	NULL
+1389	789	Riyad	M.	Muamar	PS		0	3	NULL	NULL
+1390	790	Maxim	P.	Limonov	RU		1	1	NULL	NULL
+1391	791	Arsham		Borumand Saeid			1	2	NULL	NULL
+1392	791	M		Hamidi			0	1	NULL	NULL
+1393	792	Monika		Pilśniak	PL		1	2	NULL	NULL
+1394	792	Izak		Broere	ZA		0	1	NULL	NULL
+1395	793	Young Soo		Kwon			1	2	NULL	NULL
+1396	793	Jin Ho		Kwak	KR		0	1	NULL	NULL
+1398	795	Riste		Škrekovski			1	2	NULL	NULL
+1399	796	Dr. Safia		Akram	PK		1	1	NULL	NULL
+1400	797	Alexander		Reich	DE		1	1	NULL	NULL
+1401	798	chikr elmezouar		zouaoui	DZ		1	1	NULL	NULL
+1402	798	Rahal		Ramdane			0	2	NULL	NULL
+1403	798	Gheriballah		Abdelkader			0	3	NULL	NULL
+1404	799	Klavdija		Kutnar			1	1	NULL	NULL
+1405	800	Mohammad Hassan		Anjom SHoa	IR		1	1	NULL	NULL
+1406	800	Mohammad Hossein		Hosseini	IR		0	2	NULL	NULL
+1407	801	Hossein		Shabani	IR		1	1	NULL	NULL
+1408	801	Ali Reza		Ashrafi	IR		0	2	NULL	NULL
+1409	802	chj		zhao			1	1	NULL	NULL
+1410	706	Curt	C.	Lindner			0	1	NULL	NULL
+1411	706	Antoinette		Tripodi			0	3	NULL	NULL
+1412	803	ANGSUMAN		DAS			1	1	NULL	NULL
+1413	804	Mourad		Rahmani	DZ		1	2	NULL	NULL
+1414	804	Miloud		Mihoubi	DZ		0	1	NULL	NULL
+1415	644	Joseph		DiNatale			0	2	NULL	NULL
+1416	644	Emily		Peirce			0	3	NULL	NULL
+1417	644	Ellen		Vitercik			0	4	NULL	NULL
+1418	805	Jurij		Kovič	SI		1	1	NULL	NULL
+1419	516	Borut		Lužar	SI		0	1	NULL	NULL
+1420	799	Štefko		Miklavič			0	2	NULL	NULL
+1421	799	Tomaž		Pisanski			0	3	NULL	NULL
+1422	799	Primož		Šparl			0	4	NULL	NULL
+1426	807	Mohammad		Farrokhi Derakhshandeh Ghouchan	JP		1	1	NULL	NULL
+1424	806	Ryo		Ohashi	US		1	2	NULL	NULL
+1425	806	John		Kalliongis	US		0	1	NULL	NULL
+1427	808	chikr elmezouar		zouaoui	DZ		1	1	NULL	NULL
+1428	808	Benzaire		Mebarek	DZ		0	2	NULL	NULL
+1429	808	Mazeri		Abdelhafide	DZ		0	3	NULL	NULL
+1430	808	elhendi		Hicham	DZ		0	4	NULL	NULL
+1431	809	Mark		Pankov	PL		1	1	NULL	NULL
+1432	810	Selena		Praprotnik			1	1	NULL	NULL
+1433	810	Vladimir		Batagelj			0	2	NULL	NULL
+1436	813	Juan	Alberto	Rodríguez-Velázquez	ES	http://deim.urv.cat/~jarodriguez/	1	2	NULL	NULL
+1435	812	Babak		Samadi	IR		1	1	NULL	NULL
+1437	813	Ehsan		Estaji	IR		0	1	NULL	NULL
+1438	814	Hayat		Issaadi	DZ		1	1	NULL	NULL
+1439	814	Hacene		Ait Haddadene	DZ		0	2	NULL	NULL
+1440	815	Matjaž		Krnc	SI		1	1	NULL	NULL
+1441	815	Riste		Škrekovski	SI		0	3	NULL	NULL
+1442	815	Jean-Sebastien		Sereni	FR		0	2	NULL	NULL
+1443	815	Zelealem		B. Yilma			0	4	NULL	NULL
+1444	816	Iwona		Wloch	PL		1	1	NULL	NULL
+1454	822	Pravin		Garg	IN		1	1	NULL	NULL
+1451	821	gholamreza		rezaeezadeh	IR		1	3	NULL	NULL
+1452	821	masoumeh		bibak	IR		0	1	NULL	NULL
+1453	821	masoumeh		sajjadi	IR		0	2	NULL	NULL
+1449	820	gholamreza		rezaeezadeh	IR		1	1	NULL	NULL
+1450	820	ebrahim		mirdamadi	IR		0	2	NULL	NULL
+1455	822	Shanu		Goyal			0	2	NULL	NULL
+1456	823	Yan		Yang	CN		1	1	NULL	NULL
+1457	824	vijimon	vijayan	oorkolil	IN		1	1	NULL	NULL
+1458	825	Jin-Xin		Zhou	CN		1	1	NULL	NULL
+1459	826	Renukadevi		V			1	1	NULL	NULL
+1460	827	Essam		Elseidy			1	1	NULL	NULL
+1461	827	Ahmed A.		Omran	EG		0	2	NULL	NULL
+1462	828	mehrdad		seilani			1	1	NULL	NULL
+1463	828	ABD AL MOHAMMAD		AMINPOUR	IR		0	2	NULL	NULL
+1464	829	Rituparna		Das			1	1	NULL	NULL
+1465	830	Karim		Soliman	EG		1	1	NULL	NULL
+1466	830	Essam		El-Seidy	EG		0	2	NULL	NULL
+1467	831	Peter	F.	Stadler	DE		1	3	NULL	NULL
+1468	831	Manoj		Changat	IN		0	1	NULL	NULL
+1469	831	Ferdoos	Hossein	Nezhad	IN		0	2	NULL	NULL
+1470	832	Jean-Paul	Simon	Allouche	FR		1	2	NULL	NULL
+1471	833	muhammad		fazil	PK		1	1	NULL	NULL
+1472	834	Vesna		Andova	MK		1	1	NULL	NULL
+1473	834	František		Kardoš			0	2	NULL	NULL
+1474	834	Riste		Škrekovski			0	3	NULL	NULL
+1475	835	Wlodzimierz		Mikulski	PL		1	1	NULL	NULL
+1476	836	Tomaž		Pisanski	SI		1	1	NULL	NULL
+1477	837	Advertisement		1	SI		1	1	NULL	NULL
+1478	838	Gholam Hossein		Fath-Tabar	IR		1	2	NULL	NULL
+1479	839	Khristo		Boyadzhiev	US		1	1	NULL	NULL
+1480	840	Ali		Madanshekaf	IR		1	0	NULL	NULL
+1481	841	Gholam Hossein		Fath-Tabar	IR		1	1	NULL	NULL
+1482	842	Mansour		Hashemi	IR		1	1	NULL	NULL
+1483	842	Mikhak		Polkouei	IR		0	2	NULL	NULL
+1484	843	Mihoubi		Miloud	DZ	http://www.usthb.dz	1	1	NULL	NULL
+1485	843	Maamra		Mohammed Said	DZ	http://www.usthb.dz	0	2	NULL	NULL
+1486	844	Tanja		Gologranc	SI		1	3	NULL	NULL
+1487	845	Alessandra		Cornaro	IT		1	2	NULL	NULL
+1488	845	Gian Paolo		Clemente	IT		0	1	NULL	NULL
+1489	846	Tomaž		Pisanski	SI		1	2	NULL	NULL
+1490	847	Anita		Pasotti	IT		1	2	NULL	NULL
+1491	847	Francesca		Merola	IT		0	1	NULL	NULL
+1492	847	Marco	Antonio	Pellegrini	IT		0	3	NULL	NULL
+1493	848	Sajith		Padinhatteeri	IN		1	2	NULL	NULL
+1494	848	Niranjan		Balachandran	IN		0	1	NULL	NULL
+1497	851	Tomislav		Došlić	HR		1	1	NULL	NULL
+1496	850	Carlos		Bosch	MX		1	1	NULL	NULL
+1501	854	Britto	Antony	Xavier	IN		0	2	NULL	NULL
+1500	854	Suresh		E	IN		1	1	NULL	NULL
+1502	854	Mohammed	Ali	Rostami	DE		0	3	NULL	NULL
+1508	857	Kuldip		Raj			1	1	NULL	NULL
+1509	858	Bernardo		Llano	MX		1	1	NULL	NULL
+1510	859	Mario		Mainardis	IT		1	3	NULL	NULL
+1511	859	Clara		Franchi	IT		0	1	NULL	NULL
+1512	859	Alexander	A.	Ivanov	GB		0	2	NULL	NULL
+1513	860	Pankaj	Kumar	Das	IN		1	1	NULL	NULL
+1514	861	Kuldip		Raj			1	1	NULL	NULL
+1515	862	Stephen	J.	Graves	US		1	1	NULL	NULL
+1516	862	Mark	E.	Watkins	US		0	2	NULL	NULL
+1517	863	Aleksandra		Tepeh	SI		1	3	NULL	NULL
+1518	863	Riste		Škrekovski			0	2	NULL	NULL
+1519	863	Damir		Vukičević			0	1	NULL	NULL
+1520	846	Dragan		Marušič			0	1	NULL	NULL
+1521	864	David		Singerman			1	1	NULL	NULL
+1522	865	Zoubir		DAHMANI			1	1	NULL	NULL
+1523	865	Mohamed		HOUAS			0	2	NULL	NULL
+1524	865	AbouBakr Essedik		BOUZIANE			0	3	NULL	NULL
+1525	865	Mehmet Zeki		SARIKAYA			0	4	NULL	NULL
+1528	868	Awais		Yousaf	PK		1	1	NULL	NULL
+1527	867	Chen		Yichao			1	1	NULL	NULL
+1529	868	Qaiser		Mushtaq			0	2	NULL	NULL
+1530	869	Ying		Li	CN		1	1	NULL	NULL
+1531	870	Hossam		Abdel-Aziz	EG		1	1	NULL	NULL
+1532	871	Essam		Elseidy	EG		1	1	NULL	NULL
+1533	871	M	A	Seoud	EG		0	2	NULL	NULL
+1534	871	Ahmed	A	Omran			0	3	NULL	NULL
+1535	872	RAMAZAN		OZARSLAN	TR		0	1	NULL	NULL
+1536	872	ERDAL		BAS	TR		1	2	NULL	NULL
+1537	873	Yuefang		Sun			1	1	NULL	NULL
+1538	874	vidyarani		lakshmanadas	IN		1	1	NULL	NULL
+1539	875	Mustafa		Bahşi	TR		1	1	NULL	NULL
+1540	876	Bernd		Schulze	GB		1	2	NULL	NULL
+1541	876	Viktória	E.	Kaszanitzky	HU		0	1	NULL	NULL
+1542	877	Yumei		Hu	CN		1	2	NULL	NULL
+1543	877	Lin		Wu	CN		0	1	NULL	NULL
+1544	878	Roksana	Krystyna	Słowik	PL		1	1	NULL	NULL
+1545	879	Torsten		Sander	DE		1	2	NULL	NULL
+1546	879	Walter		Klotz	DE		0	1	NULL	NULL
+1547	880	Gul		Zaman	PK		1	1	NULL	NULL
+1548	880	Tahir		Khan	PK		0	2	NULL	NULL
+1549	881	lirong		yu	CN		1	1	NULL	NULL
+1550	882	Tomislav		Došlić	HR		1	2	NULL	NULL
+1551	883	Deepa		Sinha	IN		1	1	NULL	NULL
+1552	884	Jose	M	Rodriguez	ES		1	1	NULL	NULL
+1553	885	Jose	M	Rodriguez	ES		1	1	NULL	NULL
+1554	886	Deepa		Sinha	IN		1	1	NULL	NULL
+1555	887	Marcos		Craizer	BR		1	1	NULL	NULL
+1556	887	Horst		Martini			0	2	NULL	NULL
+1557	888	Liancui		Zuo	CN		1	1	NULL	NULL
+1558	889	SEZER		sorgun	TR		1	1	NULL	NULL
+1559	889	hatice		topcu	TR		0	2	NULL	NULL
+1560	890	OZGUR		EGE	TR	http://www.bayar.edu.tr/~fef/matematik/eng/ozgecmis/oege.pdf	1	1	NULL	NULL
+1561	890	ISMET		KARACA	TR	http://fen.ege.edu.tr/~ismetkaraca/	0	2	NULL	NULL
+1562	891	Gašper		Košmrlj	SI		1	1	NULL	NULL
+1563	892	Pedro		García Vázquez	ES		1	1	NULL	NULL
+1564	893	Dewey		Taylor	US		1	0	NULL	NULL
+1565	894	Dewey		Taylor	US		1	1	NULL	NULL
+1566	895	Mohammadali		Iranmanesh	IR		1	2	NULL	NULL
+1567	895	Shahab		Sharifi	IR		0	1	NULL	NULL
+1568	896	Susana	Clara	López	ES	http://www-ma4.upc.edu/~susana/	1	1	NULL	NULL
+1569	896	Francesc	Antoni	Muntaner-Batle	AU		0	2	NULL	NULL
+1570	897	Kamil		Powroźnik	PL		1	1	NULL	NULL
+1571	897	Halina		Bielak	PL		0	2	NULL	NULL
+1572	898	Ali		Iranmanesh	IR		1	2	NULL	NULL
+1573	898	Mahdieh		Azari	IR		0	1	NULL	NULL
+1574	899	Bilal		Demir	TR		1	2	NULL	NULL
+1575	899	Sule		Kaymak	TR		0	1	NULL	NULL
+1576	899	Ozden		Koruoğlu	TR		0	3	NULL	NULL
+1577	899	Recep		Sahin	TR		0	4	NULL	NULL
+1578	900	Jianxi		Li	CN		1	1	NULL	NULL
+1579	900	Yang		Liu	CN		0	2	NULL	NULL
+1580	901	Dragan		Marušič	SI		1	1	NULL	NULL
+1581	901	Tomaž		Pisanski			0	2	NULL	NULL
+1582	902	Margaret		Archibald	ZA		1	1	NULL	NULL
+1583	902	Charlotte		Brennan			0	3	NULL	NULL
+1584	902	Arnold		Knopfmacher			0	4	NULL	NULL
+1585	902	Toufik		Mansour			0	5	NULL	NULL
+1586	902	Aubrey		Blecher			0	2	NULL	NULL
+1587	903	salah		el ouadih			1	1	NULL	NULL
+1588	904	Zhxun		Zhu			1	1	NULL	NULL
+1589	905	Xiao-Dong		Zhang	CN		1	2	NULL	NULL
+1590	906	qingsong		tang	CN		1	1	NULL	NULL
+1591	906	Xiaojun		Lu			0	2	NULL	NULL
+1592	906	Xiangde		Zhang			0	3	NULL	NULL
+1593	906	Cheng		Zhao			0	4	NULL	NULL
+1594	907	Amit Md.		Estiaque Arefin	BD		1	1	NULL	NULL
+1595	908	Farid		Messelmi	DZ		1	1	NULL	NULL
+1596	909	Rafał		Kalinowski	PL		1	2	NULL	NULL
+1597	909	Aleksandra		Gorzkowska	PL		0	1	NULL	NULL
+1598	909	Monika		Pilśniak	PL		0	3	NULL	NULL
+1599	910	Yonah		Cherniavsky	IL		1	1	NULL	NULL
+1600	910	Avraham		Goldstein	US		0	2	NULL	NULL
+1601	910	Vadim	E.	Levit	IL		0	3	NULL	NULL
+1602	911	Rong-Xia		Hao	CN		1	1	NULL	NULL
+1603	912	Farhad		Rahmati	IR		1	1	NULL	NULL
+1604	912	Seyyede Masoome		Seyyedi	IR		0	2	NULL	NULL
+1605	913	Farhad		Rahmati	IR		0	1	NULL	NULL
+1606	913	Seyyede Masoome		Seyyedi	IR		1	2	NULL	NULL
+1609	915	Marko		Milošević			0	2	NULL	NULL
+1608	915	Aleksandar		Ilić			1	1	NULL	NULL
+1610	916	Liancui		Zuo	CN		1	1	NULL	NULL
+1611	916	Bitao		Zhang			0	2	NULL	NULL
+1612	916	Shaoqiang		Zhang			0	3	NULL	NULL
+1613	917	Shariefuddin		Pirzada	IN		1	1	NULL	NULL
+1614	917	Mushtaq		Bhat	IN		0	2	NULL	NULL
+1615	918	Sandi		Klavžar	SI		1	2	NULL	NULL
+1618	921	Simona		Bonvicini	IT		1	1	NULL	NULL
+1619	921	Tomaž		Pisanski	SI		0	2	NULL	NULL
+1620	922	krishnaveni		kaliswami	IN		1	1	NULL	NULL
+1621	923	Hong		Bian			1	2	NULL	NULL
+1622	923	Xuehong		Yin			0	1	NULL	NULL
+1623	923	Bingjie		Liu			0	3	NULL	NULL
+1624	923	Haizheng		Yu			0	4	NULL	NULL
+1625	924	Milan		Pokorny			1	1	NULL	NULL
+1626	924	Pavel		Hic			0	2	NULL	NULL
+1627	925	John Baptist		Gauci	MT		1	1	NULL	NULL
+1628	925	Gulnaz		Boruzanli	TR		0	2	NULL	NULL
+1629	926	Sunil	Dutt	Purohit	IN		1	3	NULL	NULL
+1630	926	Krunal	B.	Kachhia	IN		0	1	NULL	NULL
+1631	926	Jyotindra	C.	Prajapati	IN		0	2	NULL	NULL
+1632	927	kavithaa		subramaniyan	IN		1	1	NULL	NULL
+1634	929	Saad	Ihsan	Butt	PK		1	1	NULL	NULL
+1635	930	Pairote		Yiarayong			1	1	NULL	NULL
+1636	931	Oluwatiosin		Mewomo	ZA		1	1	NULL	NULL
+1637	932	Abderrahmane		Smail	DZ		1	1	NULL	NULL
+1638	933	Sean		McGuinness	CA		1	1	NULL	NULL
+1642	936	Dimitri		Leemans	NZ		1	1	NULL	NULL
+1640	935	Hiroshi		Nozaki	JP	http://hnozaki.jimdo.com/	1	2	NULL	NULL
+1641	935	Saori		Adachi	JP		0	1	NULL	NULL
+1643	936	Bernardo		Rodrigues	ZA		0	2	NULL	NULL
+1644	937	Leah	Wrenn	Berman	US		1	1	NULL	NULL
+1645	937	Elliott		Jacksch	US		0	2	NULL	NULL
+1646	937	Lander		Ver Hoef	US		0	3	NULL	NULL
+1647	751	Monika		Pilśniak	PL		0	2	NULL	NULL
+1648	751	Mariusz		Woźniak	PL		0	3	NULL	NULL
+1649	938	Alyssa		Sankey			1	1	NULL	NULL
+1651	939	Imran	F.	Khan	PK		1	2	NULL	NULL
+1652	939	Toufik		Mansour	IL		0	3	NULL	NULL
+1653	939	Thomas	W.	Tucker	US		0	4	NULL	NULL
+1655	544	Dimitri		Leemans	NZ		1	2	NULL	NULL
+1656	941	Yaroslav		Shitov	RU		1	1	NULL	NULL
+1658	943	Mihael		Perman	SI		1	1	NULL	NULL
+1660	945	FORTUNE		MASSAMBA	ZA		1	1	NULL	NULL
+1661	946	Sarula		Chang	CN		1	1	NULL	NULL
+1662	946	An		Chang	CN		0	2	NULL	NULL
+1663	946	Jianxi		Li	CN		0	3	NULL	NULL
+1664	947	Sarula		Chang	CN		1	1	NULL	NULL
+1665	947	An		Chang	CN		0	2	NULL	NULL
+1666	947	Jianxi		Li	CN		0	3	NULL	NULL
+1667	948	Jianhua		Yin	CN		1	1	NULL	NULL
+1668	949	Richard	M.	Green	US		1	1	NULL	NULL
+1671	952	arul	paul	sudhahar	IN		1	1	NULL	NULL
+1672	952	mohammed	abdul	khayyoom	IN		0	2	NULL	NULL
+1673	952	Sadiquali		A	IN		0	3	NULL	NULL
+1674	953	Michael	W.	Raney	US		1	1	NULL	NULL
+1675	954	Dragan		Marušič	SI		1	1	NULL	NULL
+1676	954	Tomaž		Pisanski			0	2	NULL	NULL
+1677	955	Hossam		Abdel-Aziz	EG		1	1	NULL	NULL
+1678	956	Gholam Hossein		Fath-Tabar			1	1	NULL	NULL
+1679	957	Mirko		Petruševski	MK		1	2	NULL	NULL
+1680	957	Risto		Atanasov	US		0	1	NULL	NULL
+1681	957	Riste		Škrekovski			0	3	NULL	NULL
+1682	958	Mostafa		Tavakoli			1	1	NULL	NULL
+1683	959	Mostafa		Tavakoli			1	0	NULL	NULL
+1684	960	Mostafa		Tavakoli			1	1	NULL	NULL
+1685	961	Brigitte		Servatius	US		1	1	NULL	NULL
+1690	964	Yan-Quan		Feng	CN		1	2	NULL	NULL
+1687	963	Hanyuan		Deng	CN		0	1	NULL	NULL
+1688	963	Guihua		Huang	CN		1	2	NULL	NULL
+1689	963	Renfang		Wu	CN		0	3	NULL	NULL
+1691	965	Ali Asghar		Rezaei			1	1	NULL	NULL
+1692	966	EL MEHDI		LOUALID			1	1	NULL	NULL
+1693	967	Ersin		Aslan	TR		1	1	NULL	NULL
+1694	968	Suyun		Jiang	CN		0	1	NULL	NULL
+1695	968	Jin		Yan	CN		1	2	NULL	NULL
+1696	969	Grahame		Erskine	GB		1	2	NULL	NULL
+1697	969	David		Bevan	GB		0	1	NULL	NULL
+1698	969	Robert		Lewis	GB		0	3	NULL	NULL
+1699	970	Vladimir		Božović	ME		1	1	NULL	NULL
+1700	970	Žana		Kovijanić-Vukićević	ME		0	2	NULL	NULL
+1701	971	Ayazul		Hasan	SA		1	1	NULL	NULL
+1702	972	Ali		Handam			1	1	NULL	NULL
+1703	972	Hani		KHASHAN			0	2	NULL	NULL
+1704	973	Milena		Bogdanović	RS		0	2	NULL	NULL
+1705	973	Ana		Simić	RS		1	1	NULL	NULL
+1706	973	Jelisavka		Milošević	RS		0	3	NULL	NULL
+1707	974	Ömür		Deveci	TR		1	1	NULL	NULL
+1708	975	Alexander		Grigorian	DE		1	1	NULL	NULL
+1709	975	Yuri		Muranov			0	2	NULL	NULL
+1710	975	Rolando		Jimenez			0	3	NULL	NULL
+1711	976	Karen		Meagher	CA		1	2	NULL	NULL
+1712	976	Chris		Godsil	CA		0	1	NULL	NULL
+1713	977	Peteris		Daugulis	LV	//de.du.lv/mrc/pd.htm	1	1	NULL	NULL
+1714	978	Giovanni		Lo Faro	IT		1	2	NULL	NULL
+1715	979	Apoloniusz		Tyszka			1	1	NULL	NULL
+1716	851	Ivana		Zubac	BA		0	2	NULL	NULL
+1717	980	Liancui		Zuo			1	2	NULL	NULL
+1718	980	Dan		Bai			0	1	NULL	NULL
+1719	882	Afshin		Behmaram			0	1	NULL	NULL
+1720	882	Shmuel		Friedland			0	3	NULL	NULL
+1721	981	Monika		Pilśniak	PL		1	1	NULL	NULL
+1722	982	Carol	T.	Zamfirescu	BE		1	1	NULL	NULL
+1723	983	Adolfo		Ballester-Bolinches			1	1	NULL	NULL
+1724	983	Sergey		Kamornikov			0	2	NULL	NULL
+1725	983	O. L.		Shemetkova			0	3	NULL	NULL
+1726	983	Yi		Xiaolan			0	4	NULL	NULL
+1727	984	Apoloniusz		Tyszka			1	1	NULL	NULL
+1728	985	sakineh		babaei			1	1	NULL	NULL
+1729	538	Jonathan	L.	Gross	US		0	1	NULL	NULL
+1730	918	Modjtaba		Ghorbani	IR		0	1	NULL	NULL
+1731	986	Mohammed		Talbi			1	1	NULL	NULL
+1732	987	Mohammed		Talbi			1	1	NULL	NULL
+1733	988	Mehmet	Ali	BALCI	TR		1	1	NULL	NULL
+1734	989	Aureliano	M.	Robles Pérez	ES		1	1	NULL	NULL
+1735	989	José Carlos		Rosales	ES		0	2	NULL	NULL
+1736	990	Luis		Barreira	PT		1	1	NULL	NULL
+1737	990	Claudia		Valls	PT		0	2	NULL	NULL
+1738	991	Selçuk		Topal	TR		1	1	NULL	NULL
+1739	992	Tamara		Koledin			1	2	NULL	NULL
+1740	992	Ivana		Jovović			0	1	NULL	NULL
+1741	992	Zoran		Stanić			0	3	NULL	NULL
+1742	993	Selçuk		Topal	TR		1	1	NULL	NULL
+1743	994	belhocine		ali	DZ		1	1	NULL	NULL
+1744	673	Shibing		Deng	CN		0	1	NULL	NULL
+1745	673	Feifei		Song	CN		0	3	NULL	NULL
+1746	673	Shuchao		Li	CN		1	2	NULL	NULL
+1748	996	Stephan		Wagner	ZA		1	2	NULL	NULL
+1749	996	Dimbinaina		Ralaivaosaona	ZA		0	1	NULL	NULL
+1750	997	Jurij		Kovič	SI		1	1	NULL	NULL
+1754	999	Dragan		Marušič	SI		1	1	NULL	NULL
+1752	998	Gloria		Rinaldi	IT		1	2	NULL	NULL
+1753	998	Tommaso		Traetta	CA		0	3	NULL	NULL
+1755	999	Tomaž		Pisanski	SI		0	2	NULL	NULL
+1756	1000	Niko		Tratnik	SI		1	1	NULL	NULL
+1757	1000	Petra		Žigert Pleteršek	SI		0	2	NULL	NULL
+1758	1001	Lan	T	Nguyen	US		1	1	NULL	NULL
+1759	1002	Cristina		Martinez Ramirez	IE		1	1	NULL	NULL
+1760	1002	Alberto		Besana	IE		0	2	NULL	NULL
+1787	864	James		Strudwick	GB		0	2	NULL	NULL
+1762	1004	fernane		khaireddine	DZ		1	1	NULL	NULL
+1763	1005	Ewa		Drgas-Burchardt	PL		1	1	NULL	NULL
+1764	1006	Tomas		Kupka	CZ		1	1	NULL	NULL
+1765	1007	Stephen	E.	Wilson	US		1	2	NULL	NULL
+1766	1007	Primož		Potočnik			0	1	NULL	NULL
+1767	1008	krishnaveni		kaliswami	IN		1	1	NULL	NULL
+1768	1009	Hamed		Faramarzi	IR	http://orcid.org/0000-0002-7465-8118	1	1	NULL	NULL
+1769	1009	Freydoon		Rahbarnia	IR		0	2	NULL	NULL
+1770	722	Takayuki		Hibi			0	1	NULL	NULL
+1771	722	Aki		Mori			0	2	NULL	NULL
+1772	722	Akihiro		Shikama			0	4	NULL	NULL
+1773	560	Yanhong		Zhu	CN		0	2	NULL	NULL
+1774	1010	Suket		Kumar			1	1	NULL	NULL
+1776	1012	Rong-Xia		Hao	CN		1	1	NULL	NULL
+1777	1013	Boštjan		Brešar	SI		1	1	NULL	NULL
+1778	1013	Bert	L.	Hartnell	CA		0	2	NULL	NULL
+1779	1013	Douglas	F.	Rall	US		0	3	NULL	NULL
+1780	1014	muhammad	kamran	siddiqui	PK		1	1	NULL	NULL
+1781	795	Martin		Knor	SI		0	1	NULL	NULL
+1782	795	Aleksandra		Tepeh	SI		0	3	NULL	NULL
+1783	1015	Simon		Schmidt	FR		1	3	NULL	NULL
+1784	1015	Sylvain		Gravier	FR		0	1	NULL	NULL
+1785	1015	Kahina		Meslem	DZ		0	2	NULL	NULL
+1786	1015	Souad		Slimani	DZ		0	4	NULL	NULL
+1788	1016	chj		zhao			1	1	NULL	NULL
+1789	1016	Wing Sum		Cheung			0	2	NULL	NULL
+1790	1017	Julian	D.	Allagan	US		1	1	NULL	NULL
+1791	1018	Woonjae		Hwang	KR		1	3	NULL	NULL
+1792	1018	Byeong Moon		Kim	KR		0	1	NULL	NULL
+1793	1018	Byung Chul		Song	KR		0	2	NULL	NULL
+1795	1020	Carmen		Amarra	PH		1	1	NULL	NULL
+1796	1020	Michael		Giudici			0	2	NULL	NULL
+1797	1020	Cheryl	E.	Praeger			0	3	NULL	NULL
+1798	1021	Dragan		Stevanović	SI		1	1	NULL	NULL
+1799	1022	Tudor		Zamfirescu	RO		1	3	NULL	NULL
+1800	1022	Dandan		Li	CN		0	1	NULL	NULL
+1801	1022	Liping		Yuan	CN		0	2	NULL	NULL
+1802	1023	muhammad	kamran	siddiqui	PK		1	1	NULL	NULL
+1803	1023	Muhammad	Faisal	Nadeem	PK		0	2	NULL	NULL
+1804	1024	Suogang		Gao	CN		1	1	NULL	NULL
+1805	1024	Lihang		Hou	CN		0	2	NULL	NULL
+1806	1024	Bo		Hou	CN		0	3	NULL	NULL
+1807	1025	Ebrahim		Ghorbani	IR		1	1	NULL	NULL
+1808	1026	M.	M.	El-Sharkasy			1	1	NULL	NULL
+1809	1027	Olga		Bodroža-Pantić	RS		1	1	NULL	NULL
+1810	1027	Harris		Kwong	US		0	2	NULL	NULL
+1811	1027	Rade		Doroslovački	RS		0	3	NULL	NULL
+1812	1027	Milan		Pantić	RS		0	4	NULL	NULL
+1813	1028	Carlos	M.	da Fonseca			1	1	NULL	NULL
+1814	1029	Kuldip		Raj			1	1	NULL	NULL
+1815	1029	Charu		Sharma			0	2	NULL	NULL
+1816	1030	Irene		Sciriha	MT		1	1	NULL	NULL
+1817	1030	Alexander		Farrugia	MT		0	2	NULL	NULL
+1818	1031	Farshid		Mehrdoust			1	1	NULL	NULL
+1819	1032	Dragan		Matic			1	1	NULL	NULL
+1820	1033	Uzma		Ahmad	PK		1	1	NULL	NULL
+1825	1036	Erkinjon	Tulkinovich	Karimov	UZ		1	3	NULL	NULL
+1822	1035	SABARINATHAN		SHANMUGAVELU	IN		1	1	NULL	NULL
+1823	1035	DAVID		C.KUMAR	IN		0	2	NULL	NULL
+1824	1035	MURALIKRISHNA		P			0	3	NULL	NULL
+1826	1036	Praveen		Agarwal	IN		0	1	NULL	NULL
+1827	1036	Abdumauvlen		Berdyshev	KZ		0	2	NULL	NULL
+1829	1038	Raibatak		Sen Gupta	IN		1	1	NULL	NULL
+1830	1038	Shamik		Ghosh	IN		0	2	NULL	NULL
+1831	1038	MK		Sen			0	3	NULL	NULL
+1832	1039	Süleyman		SOLAK			1	1	NULL	NULL
+1833	1040	Wafaa	Anwar	Hassanein	EG		1	1	NULL	NULL
+1834	1040	Neveen	Mohamed	Kilany			0	2	NULL	NULL
+1836	1042	Dae-Won		Lee	KR		1	1	NULL	NULL
+1837	1042	Nabi		Shobe			0	2	NULL	NULL
+1838	1042	Shaban		Sedghi			0	3	NULL	NULL
+1839	1043	Yan		Wang	CN		1	2	NULL	NULL
+1840	1044	Jan		Goedgebeur	BE	http://caagt.ugent.be/jgoedgeb/	1	1	NULL	NULL
+1841	1044	Carol	T.	Zamfirescu	BE	http://czamfirescu.tricube.de/	0	2	NULL	NULL
+1842	1045	Zeynep	Nihan	ODABAŞ BERBERLER	TR		1	1	NULL	NULL
+1843	1045	Murat	Erşen	BERBERLER	TR		0	2	NULL	NULL
+1844	1046	Klavdija		Kutnar	SI		1	2	NULL	NULL
+1845	1046	Ademir		Hujdurović	SI		0	1	NULL	NULL
+1846	1046	Dragan		Marušič	SI		0	3	NULL	NULL
+1847	1047	Shylaja		Saraboji			1	2	NULL	NULL
+1848	1047	SENTHILKUMAR		DURAIRAJ			0	1	NULL	NULL
+1849	1048	Bijan		Davvaz			1	2	NULL	NULL
+1850	1048	M.A.		Dehghani			0	1	NULL	NULL
+1851	1049	Saeid		Alikhani			1	1	NULL	NULL
+1852	1049	Samaneh		Soltani			0	2	NULL	NULL
+1854	1051	Krzysztof		Kolodziejczyk	PL		1	1	NULL	NULL
+1855	1051	Rafal		Salapata	PL		0	2	NULL	NULL
+1856	1052	Jozef		Širáň	SK		1	1	NULL	NULL
+1857	1052	Martin		Škoviera	SK		0	2	NULL	NULL
+1858	978	Mario		Gionfriddo			0	1	NULL	NULL
+1859	978	Salvatore		Milici			0	3	NULL	NULL
+1860	978	Antoinette		Tripodi			0	4	NULL	NULL
+1861	1053	Muhammad		Naeem			1	1	NULL	NULL
+1862	1054	Sylwia		Cichacz	PL		1	1	NULL	NULL
+1863	1055	Daniel		Pellicer	MX		1	1	NULL	NULL
+1864	1056	Niko		Tratnik	SI		1	1	NULL	NULL
+1865	1056	Petra		Žigert Pleteršek	SI		0	2	NULL	NULL
+1866	1057	Nam	Thanh	Nguyen			1	1	NULL	NULL
+1867	1057	Dong	Viet	Nguyen			0	2	NULL	NULL
+1870	1060	Andrew		Beveridge		http://www.macalester.edu/~abeverid/index.html	1	1	NULL	NULL
+1869	1059	William	L.	Kocay	CA		1	1	NULL	NULL
+1871	1061	Marco	Antonio	Pellegrini	IT		1	2	NULL	NULL
+1872	1061	Anita		Pasotti	IT		0	1	NULL	NULL
+1873	1062	Michael		Joyce	US		1	2	NULL	NULL
+1874	1063	Chen		Yichao			1	1	NULL	NULL
+1875	1064	Dragos-Patru		Covei	RO		1	1	NULL	NULL
+2159	1218	Jianfeng		Hou	CN		0	2	NULL	NULL
+1877	1065	ali		ramin			1	1	NULL	NULL
+1879	1067	Clara		Löh	DE	http://www.mathematik.uni-r.de/loeh	1	2	NULL	NULL
+1880	1067	Francesca		Diana	DE		0	1	NULL	NULL
+1881	844	Dan		Archdeacon	US		0	1	NULL	NULL
+1882	844	Drago		Bokal	SI		0	2	NULL	NULL
+1888	1073	Jianhua		Yin			1	1	NULL	NULL
+2158	1218	Qinghou		Zeng			1	1	NULL	NULL
+1885	1070	Bing		He	CN		1	1	NULL	NULL
+1889	1074	ROJAMARY		LAZAR	IN		1	1	NULL	NULL
+1890	1075	Ryota		Matsubara	JP		1	1	NULL	NULL
+1891	1075	Haruhide		Matsuda	JP		0	2	NULL	NULL
+1892	1075	Hajime		Matsumura	JP		0	3	NULL	NULL
+1893	1076	Xue		Zhou	CN		1	1	NULL	NULL
+1894	1077	Mohammad Reza		Oboudi			1	1	NULL	NULL
+1895	1078	Imran		Javaid	PK		1	1	NULL	NULL
+1896	1078	Muhammad		Murtaza	PK		0	2	NULL	NULL
+1897	1078	Muhammad		Asif	PK		0	3	NULL	NULL
+1898	1078	Farheen		Iftikhar	PK		0	4	NULL	NULL
+1899	1079	jiang		qin	CN		1	2	NULL	NULL
+1900	1079	wang		hong yong	CN		0	1	NULL	NULL
+1901	1080	Muhammad	kamran	siddiqui	PK		1	1	NULL	NULL
+1903	1082	M		Saravanan	IN		1	1	NULL	NULL
+1904	1082	KM		Kathiresan			0	2	NULL	NULL
+1905	1083	Borut		Lužar			1	4	NULL	NULL
+1906	1083	Mária		Janicová			0	1	NULL	NULL
+1907	1083	Tomáš		Madaras			0	2	NULL	NULL
+1908	1083	Roman		Soták			0	3	NULL	NULL
+1909	1084	ADRIÁN		BACELO	ES		1	1	NULL	NULL
+1910	1085	Edmond	W. H.	Lee			1	1	NULL	NULL
+1911	1086	Özcan		Bektaş	TR		1	1	NULL	NULL
+1912	1087	Saeid		Alikhani	IR		1	1	NULL	NULL
+1913	1087	Samaneh		Soltani			0	2	NULL	NULL
+1914	1088	Simona		Bonvicini	IT		1	1	NULL	NULL
+1915	1088	Marco		Buratti	IT		0	2	NULL	NULL
+1917	1089	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+1918	1089	Muhammad		Ibrahim	PK		0	2	NULL	NULL
+1919	1089	Muhammad		Asghar	PK		0	3	NULL	NULL
+1920	1089	Muhammad		Nadem	PK		0	4	NULL	NULL
+1921	1090	Muhammad		Imran	PK		1	2	NULL	NULL
+1922	1090	Syed Ahtsham Ul Haq		Bokhary	PK		0	1	NULL	NULL
+1923	1090	Zill-e-		Shams	PK		0	3	NULL	NULL
+1924	1091	Jianfeng		Wang	CN		1	1	NULL	NULL
+1925	1091	Xiyuan		Feng			0	2	NULL	NULL
+1926	1091	Francesco		Belardo			0	3	NULL	NULL
+1927	1092	Mária		Maceková	SK		1	2	NULL	NULL
+1928	1092	Peter		Hudák	SK		0	1	NULL	NULL
+1929	1092	Tomáš		Madaras	SK		0	3	NULL	NULL
+1930	1092	Pavol		Široczki	SK		0	4	NULL	NULL
+1931	1093	Hossien		Aghabozorgi	IR	http://orcid.org/0000-0002-4990-9528	1	1	NULL	NULL
+1932	1094	Juan		Núñez	ES		1	2	NULL	NULL
+1933	1094	Fernando		López-Blázquez	ES		0	1	NULL	NULL
+1934	1094	Silvia		Recacha	ES		0	3	NULL	NULL
+1935	1094	María Trinidad		Villar	ES		0	4	NULL	NULL
+1937	1096	Yuan		Yuan	CN		1	0	NULL	NULL
+1938	1097	Abul		Basar			1	1	NULL	NULL
+1939	832	Michel		Mendès France	FR		0	3	NULL	NULL
+1940	1098	Michael	J.	Grannell	GB		1	2	NULL	NULL
+1941	1098	Diane	M.	Donovan	AU		0	1	NULL	NULL
+1942	1099	Abdul		Razaq			1	1	NULL	NULL
+1943	1099	Qaiser		Mushtaq			0	2	NULL	NULL
+1944	1100	Piotr		Pokora	PL	https://sites.google.com/site/piotrpokorahomepage/	1	2	NULL	NULL
+1945	1100	Jürgen		Bokowski	DE		0	1	NULL	NULL
+1946	1101	Mohamed		Seoud	EG		0	1	NULL	NULL
+1947	1101	Eliwa		Roshdy	EG		0	2	NULL	NULL
+1948	1101	Mohamed		Aboshady	EG		1	3	NULL	NULL
+1950	1103	Italo	Jose	Dejter	PR	http://math.uprrp.edu/	1	1	NULL	NULL
+1955	1106	Drago		Bokal	SI		1	1	NULL	NULL
+1952	1105	Mehdi		Alaeiyan	IR		1	1	NULL	NULL
+1953	1105	Mohammadkazem		Hosseinipoory			0	2	NULL	NULL
+1954	1105	Laleh		Pourmokhtar			0	3	NULL	NULL
+1956	1106	Bojan		Mohar	CA		0	2	NULL	NULL
+1957	1106	Jozef		Širáň	SK		0	3	NULL	NULL
+1958	1107	Deborah		Oliveros	MX		1	3	NULL	NULL
+1959	1108	Ali		Zeydi Abdian			1	1	NULL	NULL
+1960	1109	Arjana		Žitnik	SI		1	4	NULL	NULL
+1961	1109	Jürgen		Bokowski	DE		0	1	NULL	NULL
+1962	1109	Jurij		Kovič	SI		0	2	NULL	NULL
+1963	1109	Tomaž		Pisanski			0	3	NULL	NULL
+1964	1110	Selda		Kucukcifci	TR	http://home.ku.edu.tr/~skucukcifci/	1	1	NULL	NULL
+1965	1111	arul	paul	sudhahar	IN		0	1	NULL	NULL
+1966	1111	mohammed	abdul	khayyoom	IN		1	2	NULL	NULL
+1967	1112	Hacene		AIT HADDADENE	DZ	http://www.laromad.usthb.dz/?Genie-Mathematique-pour-l-Aide-a-la-Decision-dans-les-Systemes-d-Information-et-de-l-Ingenierie	1	1	NULL	NULL
+1968	1112	ISSAADI		Hayat	DZ		0	2	NULL	NULL
+1969	1112	KHEDDOUCI		Hamamche	FR		0	3	NULL	NULL
+1970	1112	ZENIA		Safia	DZ		0	4	NULL	NULL
+1973	1115	Alain		Giorgetti	FR		1	1	NULL	NULL
+1972	1114	Kareem	T.	Elgindy	EG		1	1	NULL	NULL
+1974	1115	Timothy	R. S.	Walsh	CA		0	2	NULL	NULL
+1975	1116	fereshteh		momen	IR		0	1	NULL	NULL
+1976	1116	mehdi		alaeiyan			1	2	NULL	NULL
+1977	1117	Alfredo		Donno	IT		1	1	NULL	NULL
+1978	1118	Mirko		Petruševski	MK		1	1	NULL	NULL
+1979	1118	Riste		Škrekovski	SI		0	2	NULL	NULL
+1980	1119	Helena		Ethelbert	IN		1	1	NULL	NULL
+1981	1120	Modjtaba		Ghorbani	IR		1	1	NULL	NULL
+1982	1120	Mardjan		Hakimi-Nezhaad	IR		0	2	NULL	NULL
+1983	1120	Fatemeh		Abbasi	IR		0	3	NULL	NULL
+1984	1062	Mahir Bilen		Can	US		0	1	NULL	NULL
+1985	1062	Benjamin		Wyser	US		0	3	NULL	NULL
+1986	1121	Ian	M.	Wanless			1	2	NULL	NULL
+1987	1121	Jeffrey	H.	Dinitz			0	1	NULL	NULL
+1989	1123	María	Trinidad	Villar	ES		1	4	NULL	NULL
+1990	1123	María-José		Chávez	ES		0	1	NULL	NULL
+1991	1123	Seiya		Negami	JP		0	2	NULL	NULL
+1992	1123	Antonio		Quintero	ES		0	3	NULL	NULL
+1993	1124	Dharmendra	Kumar	Singh	IN		1	1	NULL	NULL
+1994	1125	D		Pradhan	IN		1	1	NULL	NULL
+1995	1125	Aseem	R	Baranwal	IN		0	2	NULL	NULL
+1996	1125	Sachin		Grover	IN		0	3	NULL	NULL
+1997	1126	ARUN PRAKASH		K	IN		1	2	NULL	NULL
+1998	1126	UMADEVI		M	IN		0	1	NULL	NULL
+1999	1126	VENGATAASALAM		S	IN		0	3	NULL	NULL
+2003	1129	Kris		Coolsaet	BE		1	1	NULL	NULL
+2001	1128	Maurizio		Imbesi	IT		1	2	NULL	NULL
+2002	1128	Shapour		Heidarkhani	IR		0	1	NULL	NULL
+2006	1132	Vladimir		Grujić	RS		1	1	NULL	NULL
+2007	1133	baby		manoharan			1	1	NULL	NULL
+2008	1134	CHITHRA		M.R.	IN		1	1	NULL	NULL
+2009	1135	Mohsen		Mollahajiaghaei	CA	http://www.math.uwo.ca/~mmollaha/index.html	1	1	NULL	NULL
+2010	1136	Ahmet		TEKCAN	TR		1	1	NULL	NULL
+2011	1136	Şeyma		Kutlu	TR		0	2	NULL	NULL
+2012	1137	Zayd		Hajjej			1	1	NULL	NULL
+2013	1138	Domenico		Senato	IT		1	2	NULL	NULL
+2014	1138	Pasquale		Petrullo	IT		0	1	NULL	NULL
+2015	1139	Meenakshi		Rana	IN		1	0	NULL	NULL
+2018	1140	Meenakshi		Rana			1	1	NULL	NULL
+2017	1140	Jasdeep	Kaur	Sareen			0	2	NULL	NULL
+2019	1141	Thomas	A.	McCourt	GB		1	2	NULL	NULL
+2020	1141	Kyle		Bonetta-Martin	GB		0	1	NULL	NULL
+2021	1142	Cheryl	E.	Praeger	AU		1	4	NULL	NULL
+2022	1142	Jehan	A.	Al-bar	SA		0	1	NULL	NULL
+2023	1142	Ahmad	N.	Al-kenani	SA		0	2	NULL	NULL
+2024	1142	Najat	M.	Muthana	SA		0	3	NULL	NULL
+2030	1144	Mevlüt		Tunç	TR		1	1	NULL	NULL
+2026	1143	Wendy		Myrvold	CA		0	2	NULL	NULL
+2027	1143	Peter		Saltzman	US		0	3	NULL	NULL
+2028	1143	Witold		Jarnicki	PL		0	1	NULL	NULL
+2029	1143	Stan		Wagon	US		1	4	NULL	NULL
+2031	1144	Esra		GOV	TR		0	2	NULL	NULL
+2032	1145	Naim		Braha	AL		1	1	NULL	NULL
+2033	1146	Marston	D. E.	Conder	NZ	http://www.math.auckland.ac.nz/~conder	1	1	NULL	NULL
+2034	1146	Tomaž		Pisanski	SI		0	2	NULL	NULL
+2035	1146	Arjana		Žitnik	SI		0	3	NULL	NULL
+2036	1147	MOVIRI		NALLIAH	IN		1	1	NULL	NULL
+2037	1148	WENCHANG		CHU	IT		1	1	NULL	NULL
+2038	1149	Izolda		Gorgol	PL		1	1	NULL	NULL
+2039	838	Hamid	Reza	Ellahi			0	1	NULL	NULL
+2040	838	Ahmad		Gholami			0	3	NULL	NULL
+2041	838	Ramin		Nasiri			0	4	NULL	NULL
+2042	1150	Jurij		Kovič	SI		1	1	NULL	NULL
+2054	1158	Dragan		Marušič	SI		1	1	NULL	NULL
+2044	1152	Nino		Bašić	SI		1	1	NULL	NULL
+2045	1153	ARUN PRAKASH		K	IN		1	1	NULL	NULL
+2046	1153	SURESH		M	IN		0	2	NULL	NULL
+2047	1153	VENGATAASALAM		S	IN		0	3	NULL	NULL
+2048	1154	Arsham		Borumand Saeid			1	3	NULL	NULL
+2049	1154	A		Radfar			0	1	NULL	NULL
+2050	1154	A		Rezaei			0	2	NULL	NULL
+2055	1158	Tomaž		Pisanski	SI		0	2	NULL	NULL
+2056	1159	Feng		Qi	CN	https://qifeng618.wordpress.com	1	1	NULL	NULL
+2053	1157	samaneh	sb	bahramian	IR		1	1	NULL	NULL
+2057	1159	Xaio-Ting		Shi	CN		0	2	NULL	NULL
+2058	1159	Pietro		Cerone	CN		0	3	NULL	NULL
+2059	1160	Hanna		Furmanczyk	PL		1	1	NULL	NULL
+2060	1160	Marek		Kubale	PL		0	2	NULL	NULL
+2061	1161	Jiangmin		Pan	CN		1	1	NULL	NULL
+2062	1162	Hossein		ShojaeiJeshvaghani	IR		1	1	NULL	NULL
+2063	1162	Farhad		Rahmati	IR		0	2	NULL	NULL
+2064	1163	Semin		Oh	KR		1	3	NULL	NULL
+2065	1164	Teresa Xueshan		Li	CN		1	3	NULL	NULL
+2066	1164	Takayuki		Hibi			0	1	NULL	NULL
+2067	1164	Nan		Li			0	2	NULL	NULL
+2068	1164	Li Li		Mu			0	4	NULL	NULL
+2069	1164	Akiyoshi		Tsuchiya			0	5	NULL	NULL
+2070	1165	Shenglin		Zhou	CN		1	1	NULL	NULL
+2071	1165	Xiaoqin		Zhan	CN		0	2	NULL	NULL
+2072	1163	Mitsugu		Hirasaka	KR		0	1	NULL	NULL
+2073	1163	Kijung		Kim	KR		0	2	NULL	NULL
+2078	1167	Paola		Bonacini	IT		1	1	NULL	NULL
+2075	1166	Jaume		Martí-Farré	ES		1	1	NULL	NULL
+2076	1166	Mercè		Mora	ES		0	2	NULL	NULL
+2077	1166	José Luis		Ruiz	ES		0	3	NULL	NULL
+2079	1167	Mario		Gionfriddo	IT		0	2	NULL	NULL
+2080	1167	Lucia	Maria	Marino	IT		0	3	NULL	NULL
+2082	1169	Kui	Yin	Li			1	1	NULL	NULL
+2083	1170	sivagami		P			1	1	NULL	NULL
+2084	1171	Majid		Yousefikhoshbakht			1	1	NULL	NULL
+2085	1172	Sandi		Klavžar	SI		1	2	NULL	NULL
+2086	1173	Advertisement		1	SI		1	1	NULL	NULL
+2087	1174	Salama	Nagy	Daoud	SA		1	1	NULL	NULL
+2088	1175	Salama	Nagy	Daoud	SA		1	1	NULL	NULL
+2089	1176	Jan		Goedgebeur	BE	http://caagt.ugent.be/jgoedgeb/	1	1	NULL	NULL
+2090	1176	Carol	T.	Zamfirescu	BE	http://czamfirescu.tricube.de/	0	2	NULL	NULL
+2091	1177	Advertisement		1	SI		1	1	NULL	NULL
+2092	1178	Paula	Maria Machado Cruz	Catarino	PT		1	1	NULL	NULL
+2093	1178	José	da Silva Lourenço	Vitória	PT		0	2	NULL	NULL
+2094	1179	Avni		Rustemi	MK		1	1	NULL	NULL
+2095	1180	Mohan		Sekar	IN	http://orcid.org/0000-0002-8459-9588	1	1	NULL	NULL
+2096	1181	Lee-Chae		Jang			1	1	NULL	NULL
+2097	1182	Waldo		Arriagada	AE		1	1	NULL	NULL
+2098	1182	Robert		Bennell	AE		0	2	NULL	NULL
+2099	1182	Hugo		Ramirez	CL		0	3	NULL	NULL
+2100	746	Matjaž		Omladič	SI		0	2	NULL	NULL
+2101	1183	Shuchao		Li	CN		1	1	NULL	NULL
+2102	1183	LiQun		Sun	CN		0	2	NULL	NULL
+2103	1184	Shujing		Wang	CN		1	1	NULL	NULL
+2104	1185	Ismael		Gonzalez Yero	ES		1	3	NULL	NULL
+2105	1185	Alexander		Kelenc	SI		0	1	NULL	NULL
+2106	1185	Niko		Tratnik	SI		0	2	NULL	NULL
+2160	1219	Kannan		Pattabiraman	IN		1	1	NULL	NULL
+2108	1187	Klavdija		Kutnar	SI		1	1	NULL	NULL
+2109	1187	Dragan		Marušič	SI		0	2	NULL	NULL
+2110	1187	Tomaž		Pisanski	SI		0	3	NULL	NULL
+2111	1188	Ali		Zeydi Abdian			1	1	NULL	NULL
+2112	1189	Song-Tao		Guo	CN		1	1	NULL	NULL
+2113	1190	Carlos		Rodriguez Lucatero	MX		1	1	NULL	NULL
+2114	1191	Arpita		Das			1	1	NULL	NULL
+2115	1191	Pratima		Panigrahi			0	2	NULL	NULL
+2116	1192	Wai Chee		Shiu			1	1	NULL	NULL
+2117	1192	Qiuli		Li	CN		0	2	NULL	NULL
+2118	1192	Pak Kiu		Sun	HK		0	3	NULL	NULL
+2119	1192	Dong		Ye	US		0	4	NULL	NULL
+2120	1193	Dimitri		Leemans	BE		1	1	NULL	NULL
+2121	1193	Egon		Schulte	US		0	2	NULL	NULL
+2122	1193	Hendrik		Van Maldeghem	BE		0	3	NULL	NULL
+2123	1194	Aydin		Gezer	TR		0	1	NULL	NULL
+2124	1194	Cagri		Karaman	TR		1	2	NULL	NULL
+2125	1195	Yusuke		Suzuki	JP		1	1	NULL	NULL
+2126	1196	Wai Chee		Shiu			1	0	NULL	NULL
+2127	1197	Omar		Kihel			1	1	NULL	NULL
+4256	2371	RAJESH KANNAN		ALAGARSAMY	IN		1	1	NULL	NULL
+2129	1199	Mirko		Petruševski	MK		1	1	NULL	NULL
+2130	1199	Borut		Lužar	SI		0	2	NULL	NULL
+2131	1199	Riste		Škrekovski	SI		0	3	NULL	NULL
+2132	1200	Said		Kouachi	SA		1	1	NULL	NULL
+2133	1201	imran		shahzad	PK		1	1	NULL	NULL
+2134	1201	Qaiser		Mushtaq	PK		0	2	NULL	NULL
+2135	1202	Ruben	A.	Hidalgo	CL		1	1	NULL	NULL
+2136	1202	Saul		Quispe	CL		0	2	NULL	NULL
+2137	1203	Somayeh		Jahari	IR		1	1	NULL	NULL
+2138	1203	Saeid		Alikhani	IR		0	2	NULL	NULL
+2139	1204	Stefan	D	Bruda	CA	http://bruda.ca	1	2	NULL	NULL
+2140	1204	Mary Sarah Ruth		Wilkin	CA		0	1	NULL	NULL
+2141	1205	David		Orden	ES	http://www3.uah.es/ordend	1	1	NULL	NULL
+2142	1205	Ivan		Marsa-Maestre			0	2	NULL	NULL
+2143	1205	Jose Manuel		Gimenez-Guzman			0	3	NULL	NULL
+2144	1205	Enrique		de la Hoz			0	4	NULL	NULL
+2145	1206	Morteza		Faghani			1	1	NULL	NULL
+2146	1207	Sabri	Kaan	Gürbüzer	TR		1	1	NULL	NULL
+2147	1207	Bedia		Akyar	TR		0	2	NULL	NULL
+2148	1208	sajal	kumar	mukherjee	IN		1	1	NULL	NULL
+2149	1209	Alexander		Reich	DE		1	1	NULL	NULL
+2150	1210	chj		zhao			1	1	NULL	NULL
+2151	1211	Janez		Žerovnik	SI		1	1	NULL	NULL
+2152	1212	Marek		Niezgoda	PL		1	1	NULL	NULL
+2153	1213	Takao		Komatsu			1	1	NULL	NULL
+2154	1214	Figen		ERYILMAZ	TR		1	1	NULL	NULL
+2162	1220	Jameel		Rwalah	JO		0	2	NULL	NULL
+2156	1216	Paul	Augustine	Ejegwa	NG		1	1	NULL	NULL
+2161	905	Long-Tu		Yuan	CN		0	1	NULL	NULL
+2163	1220	Hasan		Al-Ezeh	JO		0	1	NULL	NULL
+2164	1220	manal		Ghanem	JO		1	3	NULL	NULL
+2165	1221	Seema		Mishra			1	1	NULL	NULL
+2166	1222	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+2167	1222	Muhammad	Ramzan	Faisal	PK		0	2	NULL	NULL
+2168	1222	Muhammad		Ibrahim	PK		0	3	NULL	NULL
+2169	1222	Shanza		Awan	PK		0	4	NULL	NULL
+2170	1223	Yan		Yang	CN	http://www.tju.edu.cn/science/English/Faculty/Mathematics/AP1/201409/t20140922_246027.htm	1	2	NULL	NULL
+2171	1223	Xia		Guo	CN		0	1	NULL	NULL
+2172	1224	M. Burç		Kandemir	TR		1	1	NULL	NULL
+2173	1225	Hongyong		Wang	CN		1	2	NULL	NULL
+2174	1225	Qin		Jiang	CN		0	1	NULL	NULL
+2175	1226	Patrick	W.	Fowler	GB		1	1	NULL	NULL
+2176	1226	Barry	T.	Pickup	GB		0	2	NULL	NULL
+2177	1226	Irene		Sciriha	MT		0	3	NULL	NULL
+2178	1226	Martha		Borg	MT		0	4	NULL	NULL
+2179	1227	Muhuo		Liu	CN		1	2	NULL	NULL
+2180	1227	Kinkar Ch.		Das	KR		0	1	NULL	NULL
+2181	1228	Horst		Martini			1	2	NULL	NULL
+2182	1229	Venkataraman		Yegnanarayanan	IN		1	1	NULL	NULL
+2183	825	Jin Ho		Kwak	CN		0	2	NULL	NULL
+2184	825	Yan-Quan		Feng	CN		0	3	NULL	NULL
+2185	825	Zhen-Lin		Wu	CN		0	4	NULL	NULL
+2189	1231	Samaneh		Soltani			0	2	NULL	NULL
+2188	1231	Saeid		Alikhani			1	1	NULL	NULL
+2195	1234	Bayram		Cekim	TR		1	3	NULL	NULL
+2191	1233	Zhao		Wang	CN		1	3	NULL	NULL
+2192	1233	Yaping		Mao	CN		0	1	NULL	NULL
+2193	1233	Eddie		Cheng	US		0	2	NULL	NULL
+2194	1233	Zhiwei		Guo	CN		0	4	NULL	NULL
+2196	1234	Can		Kizilates	TR		0	1	NULL	NULL
+2197	1234	Naim		TUGLU			0	2	NULL	NULL
+2198	1235	Aymeric		Grodet	JP		1	1	NULL	NULL
+2199	1235	Takuya		Tsuchiya	JP		0	2	NULL	NULL
+2200	1236	Yichao		Chen	CN		1	2	NULL	NULL
+2201	1236	Siwei		Hu	CN		0	1	NULL	NULL
+2202	1237	Nurdin		Hinding	ID		1	1	NULL	NULL
+2203	1238	krishnaveni		kaliswami	IN		0	1	NULL	NULL
+2204	1238	vigneshwaran		mandrachalam	IN		1	2	NULL	NULL
+2205	1239	chj		zhao			1	1	NULL	NULL
+2206	1240	Daniel	R.	Hawtin	AU		1	2	NULL	NULL
+2207	1240	Neil	I.	Gillespie			0	1	NULL	NULL
+2208	1241	manal		ghanem	JO		1	1	NULL	NULL
+2209	1242	Lourdusamy		A	IN		1	1	NULL	NULL
+2210	1242	Saratha Nellainayaki		S	IN		0	2	NULL	NULL
+2211	1242	Jenifer Steffi		J	IN		0	3	NULL	NULL
+2212	1243	jean-pierre		magnot	FR		0	1	NULL	NULL
+2213	1243	jean-pierre		magnot			1	2	NULL	NULL
+2214	1244	Bellaouar		Djamel	DZ		1	1	NULL	NULL
+2215	1245	Ameneh		Farhadian	IR		1	1	NULL	NULL
+2216	1246	Fatemeh		Koorepazan Moftakhar	IR		1	0	NULL	NULL
+2217	1247	Yongtang		Shi	CN		1	0	NULL	NULL
+2218	1248	Yongtang		Shi	CN		1	2	NULL	NULL
+2219	1248	Ran		Gu	CN		0	1	NULL	NULL
+2220	1248	Neng		Fan			0	3	NULL	NULL
+2223	1250	Juan		Monsalve	CO		0	1	NULL	NULL
+2222	1250	Juan		Rada			1	2	NULL	NULL
+2224	783	Hanlin		Chen			0	1	NULL	NULL
+2225	783	Renfang		Wu			0	2	NULL	NULL
+2226	783	Guihua		Huang			0	3	NULL	NULL
+2227	1251	Salim		BADIDJA	DZ		1	1	NULL	NULL
+2228	1251	Abdelmadjid		BOUDAOUD	DZ		0	2	NULL	NULL
+2229	1252	Patrick	W.	Fowler	GB		1	1	NULL	NULL
+2230	1252	Tomaž		Pisanski	SI		0	2	NULL	NULL
+2231	1253	Sandi		Klavžar	SI		1	1	NULL	NULL
+2232	1254	Aleksander		Malnič	SI		1	1	NULL	NULL
+2233	1255	Sandi		Klavžar	SI		1	1	NULL	NULL
+2234	1256	Freydoon		Rahbarnia	IR		1	2	NULL	NULL
+2235	1256	Gholamreza		Abrishami	IR		0	1	NULL	NULL
+2236	1256	Mostafa		Tavakoli	IR		0	3	NULL	NULL
+2237	1257	Ali		Ahmad	SA		1	1	NULL	NULL
+2238	1257	Muhammad	Faisal	Nadeem	PK		0	2	NULL	NULL
+2239	1257	Ashok		Gupta	SA		0	3	NULL	NULL
+2240	1258	Vijayalakshmi		B			1	1	NULL	NULL
+2241	1259	José Antonio		Vilches	ES		1	1	NULL	NULL
+2242	1259	Desamparados		Fernández-Ternero	ES		0	2	NULL	NULL
+2243	1259	Enrique		Macías-Virgós	ES		0	3	NULL	NULL
+2244	1259	Nicholas	A.	Scoville	US		0	4	NULL	NULL
+2250	1263	Saieed		Akbari	IR		1	1	NULL	NULL
+2247	1262	manal		ghanem	JO		1	1	NULL	NULL
+2248	1262	Ala'a		Dabbour	JO		0	2	NULL	NULL
+2249	1262	Hasan		Al-Ezeh	JO		0	3	NULL	NULL
+2251	1263	Mina		Dalirrooyfard			0	2	NULL	NULL
+2252	1263	Kiana		Ehsani			0	3	NULL	NULL
+2253	1263	Razvan		Sherkati			0	4	NULL	NULL
+2254	1264	Shengjin		Ji	CN		1	1	NULL	NULL
+2255	1264	Chao		He	CN		0	2	NULL	NULL
+2256	1264	Jianliang		Wu	CN		0	3	NULL	NULL
+2258	1266	K. K.		Kataria	IN		1	1	NULL	NULL
+2259	1267	Alen		Orbanić	SI		1	1	NULL	NULL
+2260	1268	yuno	gasai	ler	AQ		1	0	NULL	NULL
+2261	1269	Dragan		Marušič	SI		1	1	NULL	NULL
+2262	1269	Tomaž		Pisanski	SI		0	2	NULL	NULL
+2263	1270	WEI	WEI	JIN	CN		1	1	NULL	NULL
+2264	1271	Nazli		Mashagh Toloie	US		1	1	NULL	NULL
+2265	1272	Advertisement		​	SI		1	1	NULL	NULL
+2266	1273	Dragan		Marušič	SI		1	1	NULL	NULL
+2267	1273	Tomaž		Pisanski	SI		0	2	NULL	NULL
+2268	1274	Cuneyt		Cevik			1	1	NULL	NULL
+2269	1275	Mohammad	H.M	Rashid	JO		1	1	NULL	NULL
+3025	1698	Paola		Bonacini	IT		1	1	NULL	NULL
+2271	1277	Pavel		Klavik	CZ	http://pavel.klavik.cz	1	1	NULL	NULL
+2272	1277	Peter		Zeman	CZ		0	2	NULL	NULL
+2273	1278	Said		Kouachi	SA		1	1	NULL	NULL
+2274	1279	Niko		Tratnik	SI		1	1	NULL	NULL
+2275	1279	Tomislav		Došlić	HR		0	2	NULL	NULL
+2276	1279	Petra		Žigert Pleteršek	SI		0	3	NULL	NULL
+2277	1280	Katarína		Hriňáková	SK		1	1	NULL	NULL
+2278	1280	Martin		Knor			0	2	NULL	NULL
+2279	1280	Riste		Škrekovski			0	3	NULL	NULL
+2280	1281	Juan	Alberto	Rodrı́guez-Velázquez	ES	http://deim.urv.cat/~jarodriguez/	1	2	NULL	NULL
+2281	1282	Jesús		Leaños	MX		1	2	NULL	NULL
+2282	1282	Drago		Bokal	SI		0	1	NULL	NULL
+2283	1283	Paul		Terwilliger	US		1	1	NULL	NULL
+2285	1285	Angelo		Sonnino	IT		1	2	NULL	NULL
+2286	1285	Gábor		Korchmáros	IT		0	1	NULL	NULL
+2287	1285	Tamás		Szőnyi			0	3	NULL	NULL
+2288	1286	Rama		S	IN		1	1	NULL	NULL
+2289	1286	Karthikeyan		S	IN		0	2	NULL	NULL
+2291	1288	María	Trinidad	Villar-Liñán	ES		1	4	NULL	NULL
+2292	1288	Natalia		de Castro	ES		0	1	NULL	NULL
+2293	1288	María	A.	Garrido-Vizuete	ES		0	2	NULL	NULL
+2294	1288	Rafael		Robles	ES		0	3	NULL	NULL
+2295	1289	Saeid		Alikhani			1	1	NULL	NULL
+2296	1289	Samaneh		Soltani			0	2	NULL	NULL
+2297	1290	feifei		song	CN		1	1	NULL	NULL
+2298	1291	Carol	T.	Zamfirescu	BE		1	2	NULL	NULL
+2299	1291	Nicolas		Lichiardopol			0	1	NULL	NULL
+2300	1292	kamal	lochan	patra	IN		1	2	NULL	NULL
+2301	1292	Dheer	Noal Sunil	Desai	IN		0	1	NULL	NULL
+2302	1293	María	Ángeles	Garrido			1	1	NULL	NULL
+2303	1293	Natalia de		Castro	ES		0	2	NULL	NULL
+2304	1293	Rafael		Robles	ES		0	3	NULL	NULL
+2305	1293	María	Trinidad	Villar	ES		0	4	NULL	NULL
+2306	1294	Hanlin		Chen	CN		1	1	NULL	NULL
+2307	1295	Janez		Ales	DE		1	1	NULL	NULL
+2308	1296	Ali		Taherkhani	IR		1	2	NULL	NULL
+2309	1296	Meysam		Alishahi	IR		0	1	NULL	NULL
+2310	1297	Janez		Žerovnik	SI		1	3	NULL	NULL
+2311	1297	Tina		Novak			0	1	NULL	NULL
+2312	1297	Darja		Rupnik Poklukar			0	2	NULL	NULL
+2313	1298	Jin-Xin		Zhou			1	1	NULL	NULL
+2316	1301	Qingsong		Tang	CN		1	1	NULL	NULL
+2317	1301	Xiangde		Zhang			0	2	NULL	NULL
+2318	1301	Guoren		Wang			0	3	NULL	NULL
+2319	1301	Cheng		Zhao			0	4	NULL	NULL
+2320	1302	mehrdad		azadi			1	1	NULL	NULL
+2321	1302	changiz		eslahchi			0	2	NULL	NULL
+2322	1302	azemat		RAMZANPOOR MARDEKHEH			0	3	NULL	NULL
+2323	949	Metod		Saniga	SK		0	2	NULL	NULL
+2324	1303	Milan		Basic			1	1	NULL	NULL
+2325	1304	Elham		Aboomahigir	IR		0	1	NULL	NULL
+2326	1304	Saieed		Akbari	IR		0	2	NULL	NULL
+2327	1304	Arman		Ashtab	IR		0	3	NULL	NULL
+2328	1304	Ali		Iranmanesh			1	4	NULL	NULL
+2329	1305	Majid		Abdollahi	IR		1	2	NULL	NULL
+2330	1305	Mohammad Reza		Darafsheh	IR		0	1	NULL	NULL
+2335	1309	Abdollah		Alhevaz	IR		0	1	NULL	NULL
+2336	1309	Maryam		Baghipur			0	2	NULL	NULL
+2334	1309	Somnath		Paul	IN		1	3	NULL	NULL
+2337	1310	Gholam Hossein		Fath-Tabar	IR		1	1	NULL	NULL
+2338	1311	Ananga	Kumar	Das	IN		1	2	NULL	NULL
+2339	1311	Ria		Gupta	IN		0	1	NULL	NULL
+2340	1312	Özcan		Gelişgen	TR		1	1	NULL	NULL
+2341	1312	Temel		Ermiş	TR		0	2	NULL	NULL
+2342	1313	Mostafa		Tavakoli	IR		1	1	NULL	NULL
+2343	1313	Samane		Bakaein			0	2	NULL	NULL
+2344	1313	Freydoon		rahbarnia			0	3	NULL	NULL
+2345	1314	Ebrahim		Ghorbani	IR		1	1	NULL	NULL
+2346	1315	Arockia		Dasan	IN		1	1	NULL	NULL
+2347	1316	János		Barát	HU		1	1	NULL	NULL
+2348	1316	Zoltán	Lóránt	Nagy	HU		0	2	NULL	NULL
+2349	1317	Jarosław		Grytczuk			1	3	NULL	NULL
+2350	1317	Marcin		Anholcer			0	1	NULL	NULL
+2351	1317	Bartłomiej		Bosek			0	2	NULL	NULL
+2352	1318	Mohammadali		Iranmanesh	IR		1	1	NULL	NULL
+2353	1318	Nasrin		Moghaddami	IR		0	2	NULL	NULL
+2354	1319	Eric		Ens	CA		1	1	NULL	NULL
+2355	1320	Mehdi		Eliasi	IR		1	1	NULL	NULL
+2356	1321	Ber-Lin		Yu			1	1	NULL	NULL
+2357	1322	Sihem		Guerarra	DZ		1	1	NULL	NULL
+2358	1323	Gunnar		Brinkmann			1	1	NULL	NULL
+2359	1323	Robin		Deklerck			0	2	NULL	NULL
+2360	1324	ANGSUMAN		DAS	IN		1	1	NULL	NULL
+2361	1325	Vijay Kumar		Bhat			1	1	NULL	NULL
+2362	1325	Arun		Dutta			0	2	NULL	NULL
+2363	1326	Aymen		Ben Amira	TN		1	1	NULL	NULL
+2364	1326	Bechir		Chaari	TN		0	2	NULL	NULL
+2365	1326	Jamel		Dammak	TN		0	3	NULL	NULL
+2366	998	Marco		Buratti	IT		0	1	NULL	NULL
+2367	1327	Marston		Conder	NZ	http://www.math.auckland.ac.nz/~conder	1	1	NULL	NULL
+2368	1327	Nemanja		Poznanović	NZ		0	2	NULL	NULL
+2369	1328	Gholamreza		Talebi	IR		1	1	NULL	NULL
+2370	1329	Hafiz Muhammad Afzal		Siddiqui	PK		0	2	NULL	NULL
+2371	1329	Shakila		Baby	PK		1	1	NULL	NULL
+2372	1329	Muhammad Kashif		Shafiq	PK		0	3	NULL	NULL
+2373	1330	Martin		Milanič	SI		1	2	NULL	NULL
+2374	1330	Nina		Chiarelli	SI		0	1	NULL	NULL
+2376	1332	Joy		Morris	CA		1	2	NULL	NULL
+2377	1332	Luke		Morgan	AU		0	1	NULL	NULL
+2378	1332	Gabriel		Verret	AU		0	3	NULL	NULL
+2379	1333	Bo		Ling	CN		1	1	NULL	NULL
+2380	1333	Ben Gong		Lou	CN		0	2	NULL	NULL
+2381	1333	Ci Xuan		Wu	CN		0	3	NULL	NULL
+2382	1334	Jianhua		Yin			1	1	NULL	NULL
+2384	1336	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+2385	1336	Muhammad		Ibrahim	PK		0	2	NULL	NULL
+2386	1336	Muhammad		Farhan	PK		0	3	NULL	NULL
+2387	1337	ahmet		daşdemir	TR		1	1	NULL	NULL
+2388	1337	Göksal		Bilgici	TR		0	2	NULL	NULL
+2389	1338	Sk.	Md. Abu	Nayeem	IN		1	2	NULL	NULL
+2390	1338	Ruhul		Amin	IN		0	1	NULL	NULL
+2391	1339	Binzhou		Xia	CN		1	2	NULL	NULL
+2392	1339	Michael		Giudici	AU		0	1	NULL	NULL
+2393	1340	David		Mendez	ES		1	1	NULL	NULL
+2394	1341	Adrián		Bacelo	ES		1	1	NULL	NULL
+2395	1060	Yiqing		Cai	US		0	2	NULL	NULL
+2396	1342	Dragan		Marušič	SI		1	1	NULL	NULL
+2397	1342	Tomaž		Pisanski	SI		0	2	NULL	NULL
+2398	1343	Sayyed Heidar		Jafari	IR		1	1	NULL	NULL
+2399	1344	Binod Kumar		Sahoo	IN		1	3	NULL	NULL
+2400	1344	Sriparna		Chattopadhyay	IN		0	1	NULL	NULL
+2401	1344	Kamal Lochan		Patra	IN		0	2	NULL	NULL
+2402	1345	Lihua		Feng	CN		1	3	NULL	NULL
+2403	1345	Xu		Yang	CN		0	1	NULL	NULL
+2404	1345	Weijun		Liu	CN		0	2	NULL	NULL
+2405	1346	Miguel Angel		Sanchez-Granero	ES		1	1	NULL	NULL
+2406	1347	Ridvan Cem		Demirkol	TR		1	2	NULL	NULL
+2407	1347	Talat		Körpinar	TR		0	1	NULL	NULL
+2408	1348	Artūras		Dubickas	LT		1	1	NULL	NULL
+2409	1349	Christian		Rubio-Montiel	MX		1	1	NULL	NULL
+2410	1350	Lajos		Győrffy	HU		1	1	NULL	NULL
+2411	1350	Géza		Makay	HU		0	2	NULL	NULL
+2412	1350	András		Pluhár			0	3	NULL	NULL
+2413	1351	Dave	Witte	Morris	CA		1	1	NULL	NULL
+2414	1352	Announcement		​	SI		1	1	NULL	NULL
+2415	1353	Announcement		​	SI		1	1	NULL	NULL
+2416	964	Yi		Wang	CN		0	1	NULL	NULL
+2417	1354	Fuyuan		Chen	CN		1	1	NULL	NULL
+2418	1354	Hongjian		Lai	US		0	2	NULL	NULL
+2419	1355	Ilya	A.	Mednykh	RU		1	1	NULL	NULL
+2420	1356	ya	rong	wei			1	0	NULL	NULL
+2421	1357	Yarong		Wei	CN		0	1	NULL	NULL
+2426	1357	Yumei		Hu	CN		1	2	NULL	NULL
+2423	1359	Heping		Zhang	CN		1	2	NULL	NULL
+2424	1359	Hao		Li	FR		0	1	NULL	NULL
+2427	1361	Xiaoling		Sun			1	1	NULL	NULL
+2428	1362	Mohammad Reza		Oboudi			1	1	NULL	NULL
+2429	1363	Joy		Morris	CA		1	1	NULL	NULL
+2430	1363	Josh		Tymburski			0	2	NULL	NULL
+2431	1364	Shuchao		Li	CN		1	2	NULL	NULL
+2432	1364	Klav\\v{z}ar		Sandi	SI		0	1	NULL	NULL
+2433	1364	Huihui		Zhang	CN		0	3	NULL	NULL
+2434	1365	Yarong		Wei	CN		0	1	NULL	NULL
+2435	1365	Yumei		Hu	CN		1	2	NULL	NULL
+2436	1366	Ali		Zeydi Abdian			1	1	NULL	NULL
+2437	1366	Lowell.W		Beineke			0	2	NULL	NULL
+2438	1367	Ali		Zeydi Abdian			1	1	NULL	NULL
+2439	1367	Lowell.W		Beineke			0	2	NULL	NULL
+2440	1368	Ali		Zeydi Abdian			1	1	NULL	NULL
+2441	1369	Ali		Zeydi Abdian			1	1	NULL	NULL
+2442	1370	David		Wang			1	2	NULL	NULL
+2443	1371	Saieed		Akbari	IR		1	1	NULL	NULL
+2444	1371	Arman		Ashtab			0	2	NULL	NULL
+2445	1371	Farideh		Heydari			0	3	NULL	NULL
+2446	1371	M		Rezaee			0	4	NULL	NULL
+2447	1371	F		Sherafati			0	5	NULL	NULL
+2451	1375	Stanley		Korn	US		1	1	NULL	NULL
+2452	1370	Hongliang		Lu			0	1	NULL	NULL
+2453	1376	Jelena		Sedlar			1	1	NULL	NULL
+2454	1377	Ali		Ahmad	SA		1	1	NULL	NULL
+2455	1378	Marko		Jakovac	SI		1	2	NULL	NULL
+2456	1378	Csilla		Bujtás	HU		0	1	NULL	NULL
+2457	1379	Milena		Bogdanović	RS		1	1	NULL	NULL
+2458	1379	Aleksandar		Savić	RS		0	2	NULL	NULL
+2459	1379	Zoran		Maksimović	RS		0	3	NULL	NULL
+2460	1379	Živan		Milošević	RS		0	4	NULL	NULL
+2461	1380	Hafiz Muhammad Afzal		Siddiqui	PK		1	2	NULL	NULL
+2462	1380	MUHAMMAD		RAFIULLAH	PK		0	1	NULL	NULL
+2463	1380	SARFRAZ		AHMAD	PK		0	3	NULL	NULL
+2464	1381	Jenitha		Premalatha	IN		1	1	NULL	NULL
+2465	1381	Jothimani		S	IN		0	2	NULL	NULL
+2466	1382	Boštjan		Frelih	SI		1	1	NULL	NULL
+2467	1382	Štefko		Miklavič	SI		0	2	NULL	NULL
+2468	1383	Soheila		Khojasteh			1	1	NULL	NULL
+2469	1384	Saeid		Alikhani	IR		1	1	NULL	NULL
+2470	1384	Samaneh		Soltani			0	2	NULL	NULL
+2471	1385	Kannan		Pattabiraman	IN		1	1	NULL	NULL
+2472	1385	A		Santhakumar			0	2	NULL	NULL
+2473	1386	Vladimir	L	Gavrikov	RU		1	1	NULL	NULL
+2474	1387	Vadim		Levit	IL		1	1	NULL	NULL
+2475	1387	Eugen		Mandrescu	IL		0	2	NULL	NULL
+2476	1388	Stanley		Korn	US		1	1	NULL	NULL
+2477	1389	Debashis		Dey			1	1	NULL	NULL
+2479	1391	Tao-Ming		Wang	TW		1	2	NULL	NULL
+2480	1391	Chun-Nan		Hung			0	1	NULL	NULL
+2481	1391	Eddie		Cheng			0	3	NULL	NULL
+2482	1391	Lih-Hsing		Hsu			0	4	NULL	NULL
+2483	1392	Deepa		Sinha	IN		1	1	NULL	NULL
+2484	1393	Nico		Van Cleemput	BE		1	1	NULL	NULL
+2485	1394	Allen		Herman	CA	http://orcid.org/0000-0001-9841-636X	1	1	NULL	NULL
+2486	1394	Gurmail		Singh	CA		0	2	NULL	NULL
+2487	1395	Shuchao		Li	CN		1	2	NULL	NULL
+2488	1395	Jing		Huang	CN		0	1	NULL	NULL
+2489	1396	Bao-Xuan		Zhu	CN		1	1	NULL	NULL
+2495	1401	Altino	F.	Santos	PT		0	2	NULL	NULL
+2491	1398	Mostafa		Tavakoli			1	1	NULL	NULL
+2494	1401	Catarina	P.	Avelino	PT		1	1	NULL	NULL
+2496	1402	Michael	Joachim	Cuntz	DE	https://www.iazd.uni-hannover.de/cuntz.html	1	1	NULL	NULL
+2497	1403	Feng		Qi	CN	https://qifeng618.wordpress.com	1	1	NULL	NULL
+2498	1403	Bai-Ni		Guo	CN		0	2	NULL	NULL
+2499	1404	Kavita		Pradeep	IN		1	0	NULL	NULL
+2500	1405	Cosmin		Bonchis	RO		1	1	NULL	NULL
+2501	1406	Milad		Ahanjideh	IR		0	1	NULL	NULL
+2502	1406	Ali		Iranmanesh	IR		1	2	NULL	NULL
+2503	1407	Matjaz		Krnc	SI		1	1	NULL	NULL
+2504	1408	Faiz		Faizullah	MX		1	1	NULL	NULL
+2505	1409	Yan-Quan		Feng	CN		1	1	NULL	NULL
+2506	1410	Dániel		Gerbner	HU		1	1	NULL	NULL
+2507	1410	M\\'at\\'e		Vizer	HU		0	2	NULL	NULL
+2508	1411	SUDEV		NADUVATH	IN		1	1	NULL	NULL
+2509	1411	Chithra		Sudev	IN		0	2	NULL	NULL
+2510	1411	Satheesh		S	IN		0	3	NULL	NULL
+2511	1411	Johan		Johan Kok	ZA		0	4	NULL	NULL
+2512	1412	SUDEV		NADUVATH	IN		1	1	NULL	NULL
+2513	1412	Chithra		Sudev	IN		0	2	NULL	NULL
+2514	1412	Germina		Kizhakkekunnel	IN		0	4	NULL	NULL
+2515	1412	Chithra		Sudev	IN		0	3	NULL	NULL
+2516	1412	Germina		Kizhakkekunnel			0	5	NULL	NULL
+2517	1413	Announcement		​	SI		1	1	NULL	NULL
+2518	1414	Meysam		Alishahi	IR		1	2	NULL	NULL
+2519	1414	Roya		Abyazi Sani	IR		0	1	NULL	NULL
+2520	1414	Ali		Taherkhani	IR		0	3	NULL	NULL
+2521	1415	Ali		Zeydi Abdian			1	1	NULL	NULL
+2522	1416	Ali		Zeydi Abdian			1	1	NULL	NULL
+2523	1417	Jurij		Kovič	SI		1	1	NULL	NULL
+2524	1418	Xueliang		Li	CN		1	1	NULL	NULL
+2525	1418	Bo		Deng			0	2	NULL	NULL
+2526	1418	Wenjing		Li			0	3	NULL	NULL
+2527	1418	Yaping		Mao			0	4	NULL	NULL
+2528	1418	Haixing		Zhao			0	5	NULL	NULL
+2529	1419	Jian-Bing		Liu	US		1	1	NULL	NULL
+2530	1420	David	P	Ellerman	US		1	1	NULL	NULL
+2531	1421	Sameh		Alkharashi	KW		1	1	NULL	NULL
+2532	1421	Azizah		Alrashidi	KW		0	2	NULL	NULL
+2533	1421	Khaled		Al-Hamad	KW		0	3	NULL	NULL
+2534	1422	mobeen		munir	PK		1	1	NULL	NULL
+2535	1422	zaffar		iqbal			0	2	NULL	NULL
+2536	1422	abul Rauf		Nizami			0	3	NULL	NULL
+2537	1422	amlish		Rabia			0	4	NULL	NULL
+2538	1423	Saeid		Alikhani	IR		1	1	NULL	NULL
+2539	1423	Samaneh		Soltani			0	2	NULL	NULL
+2540	1424	Liancui		Zuo			1	1	NULL	NULL
+2542	1426	Tommaso		Traetta	IT		1	3	NULL	NULL
+2543	1426	Andrea	C.	Burgess	CA		0	1	NULL	NULL
+2544	1426	Peter		Danziger	CA		0	2	NULL	NULL
+2545	1427	Christopher		Tuffley	NZ		1	1	NULL	NULL
+2546	1428	Nader		Jafari Rad			1	1	NULL	NULL
+2547	1429	Biljana		Radicic	RS		1	1	NULL	NULL
+2552	1433	Marco		Aldi	US		1	1	NULL	NULL
+2550	1432	Mi-Mi		Zhang	CN		1	1	NULL	NULL
+2551	1432	Jin-Xin		Zhou	CN		0	2	NULL	NULL
+2553	1433	Hanqiu		Tan			0	2	NULL	NULL
+2554	1434	Carlos	Alejandro	Alfaro	MX	https://sites.google.com/site/alfaromontufar/	1	1	NULL	NULL
+2555	1435	Sajith		Padinhatteeri	IN		1	2	NULL	NULL
+2556	1435	Niranjan		Balachandran	IN		0	1	NULL	NULL
+2557	1435	Pablo		Spiga	IT		0	3	NULL	NULL
+2558	1436	Paolo		Saracco	IT		1	2	NULL	NULL
+2559	1436	Laiachi		El Kaoutit	ES		0	1	NULL	NULL
+2560	1437	Jin-Xin		Zhou	CN		1	2	NULL	NULL
+2561	1437	Yan-Li		Qin	CN		0	1	NULL	NULL
+2562	1438	Tran	Loc	Hung	VN		1	1	NULL	NULL
+2563	1439	Primož		Moravec	SI		1	3	NULL	NULL
+2564	1439	Costantino		Delizia	IT		0	1	NULL	NULL
+2565	1439	Urban		Jezernik	SI		0	2	NULL	NULL
+2566	1439	Chiara		Nicotera	IT		0	4	NULL	NULL
+2567	1440	Mohammad A.		Iranmanesh	IR		1	1	NULL	NULL
+2568	1440	Shahroz		Sharifi	IR		0	2	NULL	NULL
+2572	1443	ANGSUMAN		DAS	IN		1	1	NULL	NULL
+2570	1442	Feng		Qi	CN	https://qifeng618.wordpress.com	1	1	NULL	NULL
+2571	1442	Jiao-Lian		Zhao	CN		0	2	NULL	NULL
+2573	1444	Announcement		​	SI		1	1	NULL	NULL
+2575	1445	PERUMALSAMY		M	IN		1	1	NULL	NULL
+2576	1446	arman	-	aghili	IR	http://www.guilan.ac.ir	1	1	NULL	NULL
+2577	1447	Essam		Hamouda	EG		1	1	NULL	NULL
+2578	1447	Hala		Attiya			0	2	NULL	NULL
+2579	1448	Yahya		Talebi	IR		1	1	NULL	NULL
+2580	1448	Atefeh		Darzi	IR		0	2	NULL	NULL
+2581	1449	anjeng		anjeng			1	1	NULL	NULL
+2582	1450	anjeng		anjeng			1	1	NULL	NULL
+2583	1451	anjeng		anjeng			1	1	NULL	NULL
+2584	1452	Luis	Manuel	Rivera	MX		1	1	NULL	NULL
+2585	1452	Ana	Laura	Trujillo-Negrete	MX		0	2	NULL	NULL
+2586	1453	Dhanalakshmi		Kaliyaperumal	IN		1	1	NULL	NULL
+2587	1454	Samaneh		soltani			1	2	NULL	NULL
+2588	1454	Saeid		Alikhani			0	1	NULL	NULL
+2589	1455	Eduard	Camangian	Taganap	PH		1	1	NULL	NULL
+2590	1456	Pushpalatha		A.P.	IN		0	1	NULL	NULL
+2591	1456	Jothilakshmi		G	IN		1	2	NULL	NULL
+2592	1456	Nasreen Banu		S			0	3	NULL	NULL
+2593	1457	Aristotle		P	IN		1	1	NULL	NULL
+2594	1457	Balamurugan		S	IN		0	2	NULL	NULL
+2595	1457	Swaminathan		V	IN		0	3	NULL	NULL
+2596	1458	Gábor		Nyul	HU		1	2	NULL	NULL
+2597	1458	Eszter		Gyimesi	HU		0	1	NULL	NULL
+2598	1459	Adnan		Melekoğlu	TR	http://orcid.org/0000-0003-3360-336	1	1	NULL	NULL
+2599	1460	Irene		Sciriha	MT		1	1	NULL	NULL
+2600	1461	Vijay Kumar		Bhat			1	1	NULL	NULL
+2601	1460	Didar	A.	Ali	IQ		0	2	NULL	NULL
+2602	1460	John	Baptist	Gauci	MT		0	3	NULL	NULL
+2603	1460	Khidir	R.	Sharaf	IQ		0	4	NULL	NULL
+2604	1462	mobeen		munir	PK		1	1	NULL	NULL
+2605	1463	Samaneh		soltani			1	2	NULL	NULL
+2606	1464	RABIHA	BIRKIA	MAHMOUD	MY		1	1	NULL	NULL
+2607	1464	Nor	Haniza	Sarmin	MY	http://science.utm.my/nizasarmin/	0	2	NULL	NULL
+2608	1464	Ahmad		Erfanian	IR		0	3	NULL	NULL
+2609	1463	Saeid		Alikhani			0	1	NULL	NULL
+2613	1466	A		Vijayakumar	IN		0	2	NULL	NULL
+2612	1466	K.S		Savitha	IN		1	1	NULL	NULL
+2614	1467	Tomaž		Pisanski	SI		1	4	NULL	NULL
+2615	1467	Branko		Grünbaum	US		0	3	NULL	NULL
+2616	1467	Jan		Grošelj	SI		0	2	NULL	NULL
+2617	1467	Nino		Bašić	SI		0	1	NULL	NULL
+2618	1468	Tomasz		Dzido	PL		1	1	NULL	NULL
+2619	1468	Joanna		Cyman			0	2	NULL	NULL
+2620	1469	Ali		Zeydi Abdian			1	1	NULL	NULL
+2621	1470	László		Németh	HU		1	2	NULL	NULL
+2622	1470	Takao		Komatsu			0	1	NULL	NULL
+2623	1470	László		Szalay			0	3	NULL	NULL
+2624	1471	Ruben	A.	Hidalgo	CL		1	1	NULL	NULL
+2625	1472	Gejza		Jenča		http://www.math.sk/wiki/jenca	1	1	NULL	NULL
+2626	1473	chj		zhao			1	1	NULL	NULL
+2627	1474	Xian'an		Jin			1	2	NULL	NULL
+2628	1474	Qi		Yan			0	1	NULL	NULL
+2629	1475	Kan		Hu	CN		1	2	NULL	NULL
+2630	1475	Na-Er		Wang	CN		0	1	NULL	NULL
+2631	1475	Kai		Yuan	CN		0	3	NULL	NULL
+2632	1475	Jun-Yang		Zhang			0	4	NULL	NULL
+2633	1476	Álvaro		Lozano Rojo	ES		1	1	NULL	NULL
+2634	1476	Rubén		Vigara	ES		0	2	NULL	NULL
+2635	1477	Henrique	F.	da Cruz	PT		1	1	NULL	NULL
+2636	1478	Stephen	J.	Graves	SI		1	1	NULL	NULL
+2637	1479	Betül		Gezer			1	1	NULL	NULL
+2638	1479	Osman		Bizim			0	2	NULL	NULL
+2639	1480	mohsen		shahsavaran			1	1	NULL	NULL
+2641	1482	Hüseyin		BOR	TR		1	1	NULL	NULL
+2642	1483	Muhammad	Muhamad	Imran	AE		1	1	NULL	NULL
+2643	1483	Rishi		Naeem	PK		0	2	NULL	NULL
+2644	1480	M.Reza		Salarian			0	2	NULL	NULL
+2645	1484	Christian		Rubio-Montiel	MX		1	1	NULL	NULL
+2646	1485	Jenő		Szirmai	HU		1	1	NULL	NULL
+2647	1486	Dragan		Marušič			1	1	NULL	NULL
+2648	1487	Sajjad		Mahmood Robati	IR		1	1	NULL	NULL
+2649	1488	Yan		Yang	CN		1	2	NULL	NULL
+2650	1488	Xia		Guo			0	1	NULL	NULL
+2651	1489	Christian		Rubio-Montiel	MX		1	1	NULL	NULL
+2652	1489	Héctor		Castañeda-López	MX		0	2	NULL	NULL
+2653	1489	Pablo	C.	Palomino	MX		0	3	NULL	NULL
+2654	1489	Andrea	B.	Ramos-Tort	MX		0	4	NULL	NULL
+2655	1489	Claudia		Silva-Ruíz	MX		0	5	NULL	NULL
+2656	1490	Antoinette		Tripodi	IT		1	2	NULL	NULL
+2657	1490	Giovanni		Lo Faro	IT		0	1	NULL	NULL
+2658	1491	Mircea		Merca			1	1	NULL	NULL
+2659	1492	Djoko		Suprijanto			1	1	NULL	NULL
+2660	1493	Jose		Gonzalez	US	http://math.ucr.edu/~joselg/	1	1	NULL	NULL
+2661	1493	Elijah		Gunther			0	2	NULL	NULL
+2662	1493	Olivia		Zhang			0	3	NULL	NULL
+2663	1494	G.		Muhiuddin	SA		1	1	NULL	NULL
+2664	1495	Ali		Zeydi Abdian			1	1	NULL	NULL
+2665	1496	Jakub		Przybyło			1	1	NULL	NULL
+2666	1497	E. Sampathkumar		Embar	IN		1	1	NULL	NULL
+2667	1497	CHARLES		DOMINIC	IN		0	2	NULL	NULL
+2668	1497	L. Pushpalatha		L			0	3	NULL	NULL
+2669	1498	Łukasz	Jan	Wojakowski	PL		1	4	NULL	NULL
+2670	1498	Mariusz		Grech	PL		0	1	NULL	NULL
+2671	1498	Wilfried		Imrich	AT		0	2	NULL	NULL
+2672	1498	Anna	Dorota	Krystek	PL		0	3	NULL	NULL
+2683	1504	Ebrahim		Dodongeh	IR		0	3	NULL	NULL
+2682	1504	Saieed		Akbari	IR		0	2	NULL	NULL
+2681	1504	Mohammad Ali		Nematollahi	IR		1	1	NULL	NULL
+2677	1503	Ali	Reza	Ashrafi	IR		1	1	NULL	NULL
+2678	1503	Somayeh		Bakaein	IR		0	2	NULL	NULL
+2679	1503	Fereidoon		Rahbarnia	IR		0	3	NULL	NULL
+2680	1503	Mostafa		Tavakoli	IR		0	4	NULL	NULL
+2684	1505	chj		zhao	CN		1	1	NULL	NULL
+2685	1505	Wing Sum		Cheung	HK		0	2	NULL	NULL
+2686	1506	Indranath		Sengupta	IN		1	2	NULL	NULL
+2687	1506	Joydip		Saha	IN		0	1	NULL	NULL
+2688	1506	Gaurab		Tripathi	IN		0	3	NULL	NULL
+2689	1507	khaled		zennir	SA		1	1	NULL	NULL
+2690	1508	Tomislav		Došlić	HR		1	1	NULL	NULL
+2691	1509	Mircea		Merca			1	1	NULL	NULL
+2692	1510	Ali		Zeydi Abdian			1	1	NULL	NULL
+2693	1511	Nirmalya		Barat	IN		1	1	NULL	NULL
+2695	1513	Srinivasarao		Thota	IN	http://srinivasaraothota.webs.com/	1	1	NULL	NULL
+2696	1514	Justyna		Walewska	PL		1	1	NULL	NULL
+2697	1515	Benoumelaz		Farouk	DZ		1	1	NULL	NULL
+2698	1515	Abed		Samira	DZ		0	2	NULL	NULL
+2699	1516	Qiongxiang		Huang	CN		1	2	NULL	NULL
+2700	1516	Fang		Duan	CN		0	1	NULL	NULL
+2701	1516	Xueyi		Huang	CN		0	3	NULL	NULL
+2702	1517	Alexander		Guterman	RU		1	3	NULL	NULL
+2703	1517	Mikhail		Budrevich	RU		0	1	NULL	NULL
+2704	1517	Gregor		Dolinar	SI		0	2	NULL	NULL
+2705	1517	Bojan		Kuzma			0	4	NULL	NULL
+2706	1518	Jiangmin		Pan	CN		1	2	NULL	NULL
+2707	1518	Cixuan		Wu	CN		0	1	NULL	NULL
+2708	1172	Jernej		Azarija			0	1	NULL	NULL
+2709	1172	Yoomi		Rho			0	3	NULL	NULL
+2710	1172	Seungbo		Sim			0	4	NULL	NULL
+2711	1519	Ioan		Tomescu	RO		1	1	NULL	NULL
+2712	1520	OZGUR		EGE	TR	http://www.bayar.edu.tr/~fef/matematik/eng/ozgecmis/oege.pdf	1	1	NULL	NULL
+2713	1520	ISMET		KARACA	TR		0	2	NULL	NULL
+2714	1521	Saeid		Alikhani	IR		1	1	NULL	NULL
+2715	1521	Samaneh		Soltani			0	2	NULL	NULL
+2717	1523	Dariush		Heidari	IR		1	1	NULL	NULL
+2718	1524	Ying		Xu	CN		1	1	NULL	NULL
+2719	1524	Xiaomin		Zhu	CN		0	2	NULL	NULL
+2720	1525	Iztok		Peterin	SI		1	2	NULL	NULL
+2721	1525	Michael	A.	Henning	ZA		0	1	NULL	NULL
+2722	1526	Ivica		Martinjak	HR		1	2	NULL	NULL
+2723	1161	Bo		Ling			0	2	NULL	NULL
+2724	1161	Suyun		Ding			0	3	NULL	NULL
+2901	1628	Rafael		González-López	ES		0	1	NULL	NULL
+2727	1528	Giuseppe		Mazzuoccolo	IT		1	3	NULL	NULL
+2728	1528	Maddalena		Avesani	IT		0	1	NULL	NULL
+2729	1528	Arrigo		Bonisoli	IT		0	2	NULL	NULL
+2730	1043	Kai		Yuan	CN		0	1	NULL	NULL
+2731	1043	Haipeng		Qu	CN		0	3	NULL	NULL
+2732	1529	Alen		Orbanić	SI		1	1	NULL	NULL
+2733	1530	Damjana		Kokol Bukovšek	SI		1	2	NULL	NULL
+2734	1530	David		Dolžan	SI		0	1	NULL	NULL
+2735	1530	Bojan		Kuzma	SI		0	3	NULL	NULL
+2736	1531	Charlotte		Brennan	ZA		1	1	NULL	NULL
+2737	1532	Jalal		Askari	IR		1	1	NULL	NULL
+2738	1532	Saieed		Akbari	IR		0	2	NULL	NULL
+2739	1532	Kinkar Ch		Das	KR		0	3	NULL	NULL
+2740	1533	Thotsaphon		Thongjunthug	TH		1	1	NULL	NULL
+2741	1534	Dragan		Marušič	SI		1	1	NULL	NULL
+2742	1534	Tomaž		Pisanski	SI		0	2	NULL	NULL
+2743	1535	Ioan		Tomescu	RO		1	1	NULL	NULL
+2744	1536	Ali		Abdian			1	1	NULL	NULL
+2745	1537	Alain		Bretto	FR		1	2	NULL	NULL
+2746	1538	Shuchao		Li	CN		1	1	NULL	NULL
+2747	1538	Wei		Wei	CN		0	2	NULL	NULL
+2753	1542	Saieed		Akarbi	IR		0	1	NULL	NULL
+2749	1540	Fayun		Cao	CN		1	1	NULL	NULL
+2750	1540	Han		Ren			0	2	NULL	NULL
+2752	1542	hamidreza		maimani	IR		1	2	NULL	NULL
+2754	1542	Leila		Parsaei Majd	IR		0	3	NULL	NULL
+2755	1543	Announcement		​	SI		1	1	NULL	NULL
+2756	1544	Peter	F	Stadler	DE		1	4	NULL	NULL
+2757	1544	Marc		Hellmuth	DE		0	1	NULL	NULL
+2758	1544	Yangjing		Long	CN		0	2	NULL	NULL
+2759	1544	Manuela		Geiss	DE		0	3	NULL	NULL
+2760	1545	mosaed	mahmoud	makky	EG		1	1	NULL	NULL
+2761	1546	György		Kiss	HU		1	2	NULL	NULL
+2762	1547	Stephen	P.	Glasby	AU	http://www.maths.uwa.edu.au/~glasby/	1	1	NULL	NULL
+2766	1551	My Ismail		Mamouni	MA		1	1	NULL	NULL
+2765	1550	mohammed	khalaf	khalaf			1	1	NULL	NULL
+2767	1552	Haiyan		Yuan			1	1	NULL	NULL
+2768	1553	muhammad		fazil	PK		1	1	NULL	NULL
+2769	1553	MUHAMMAD		Murtaza	PK		0	2	NULL	NULL
+2770	1553	Usman		Ali	PK		0	3	NULL	NULL
+2771	1553	Imran		Javaid	PK		0	4	NULL	NULL
+2772	1554	Xiangdong		Yang			1	1	NULL	NULL
+2773	1555	mohammed	khalaf	khalaf			1	1	NULL	NULL
+2774	1556	Niko		Tratnik	SI		1	1	NULL	NULL
+2775	1556	Petra		Žigert Pleteršek			0	2	NULL	NULL
+2776	1557	​Announcement		​​	SI		1	1	NULL	NULL
+2778	1559	Supalak		Sumalroj	TH		1	1	NULL	NULL
+2779	1560	Liping		Yuan	CN		1	1	NULL	NULL
+2780	1561	Peteris		Daugulis	LV	//de.du.lv/mrc/pd.htm	1	1	NULL	NULL
+2781	1562	Gabriel		Ciobanu			1	2	NULL	NULL
+2782	1562	Andrei		Alexandru			0	1	NULL	NULL
+2783	1563	Egon		Schulte	US		1	1	NULL	NULL
+2784	1564	Young	Bae	Jun			1	1	NULL	NULL
+2785	1564	Young	Bae	Jun			0	2	NULL	NULL
+2786	1565	Vijay Kumar		Bhat			1	1	NULL	NULL
+2787	1565	Pardeep		Singh			0	2	NULL	NULL
+2788	1566	Saeid		Alikhani	IR		1	1	NULL	NULL
+2789	1566	Samaneh		Soltani			0	2	NULL	NULL
+2794	1570	Zbigniew	R.	Bogdanowicz			1	1	NULL	NULL
+2792	1569	Shaofei		Du	CN		1	1	NULL	NULL
+2793	1569	Kai		Yuan	CN		0	2	NULL	NULL
+2799	1575	Moharram	Nejad	Iradmusa	IR		1	1	NULL	NULL
+2798	1574	Armend		Shabani	AL		1	1	NULL	NULL
+2801	1576	Philip B.		Zhang			1	1	NULL	NULL
+2806	1579	Grigore		Calugareanu	RO	http://math.ubbcluj.ro/~calu	1	1	NULL	NULL
+2803	1578	Jan		Goedgebeur	BE	http://caagt.ugent.be/jgoedgeb/	1	1	NULL	NULL
+2804	1578	Addie		Neyt	BE		0	2	NULL	NULL
+2805	1578	Carol	T.	Zamfirescu	BE	http://czamfirescu.tricube.de/	0	3	NULL	NULL
+2807	1580	Seyed Morteza		Mirafzal	IR		1	1	NULL	NULL
+2808	1581	Kiyoto		Yoshino	JP	https://orcid.org/0000-0002-8206-6219	1	3	NULL	NULL
+2809	1581	Sho		Kubota	JP	https://orcid.org/0000-0003-3272-6765	0	1	NULL	NULL
+2810	1581	Tetsuji		Taniguchi	JP		0	2	NULL	NULL
+2811	1582	Janez		Ales	DE		1	1	NULL	NULL
+2816	1585	Ömür		Deveci	TR		1	1	NULL	NULL
+2813	1584	P.		Jeyanthi	IN		1	1	NULL	NULL
+2814	1584	S.		Philo	IN		0	2	NULL	NULL
+2815	1584	Maged Z.		Youssef	EG		0	3	NULL	NULL
+2817	1585	Erdal		Karaduman	TR		0	2	NULL	NULL
+2818	1586	Saeid		Alikhani	IR		1	1	NULL	NULL
+2819	1586	Samaneh		Soltani	IR		0	2	NULL	NULL
+2820	1587	Antal		Joós	HU		1	1	NULL	NULL
+2821	1588	arman	-	aghili	IR	http://www.guilan.ac.ir	1	1	NULL	NULL
+2822	1589	Marcel		Abas			1	1	NULL	NULL
+2823	1589	Tomáš		Vetrík			0	2	NULL	NULL
+2824	1590	Masashi		Shinohara	JP		1	1	NULL	NULL
+2825	1590	Mitsugu		Hirasaka			0	2	NULL	NULL
+2826	1591	Elif		Saygı	TR		1	1	NULL	NULL
+2832	1596	Xin		Zhang	CN	http://web.xidian.edu.cn/zhangxin/	1	2	NULL	NULL
+2828	1593	Bilal	N.	Al-Hasanat	JO		1	1	NULL	NULL
+2829	1593	Ahmad	S	Al-Hasanat	JO		0	2	NULL	NULL
+2831	1595	Janez		Ales	DE		1	1	NULL	NULL
+2833	1596	Bei		Niu	CN		0	1	NULL	NULL
+2834	1107	Álvaro		Martínez-Pérez			0	1	NULL	NULL
+2835	1107	Luis		Montejano			0	2	NULL	NULL
+2836	1597	Miguel		Ottina	AR		1	2	NULL	NULL
+2837	1597	Nicolás		Cianci	AR		0	1	NULL	NULL
+2838	1598	​		​	SI		1	1	NULL	NULL
+2839	1599	Somnath		Paul	IN		1	1	NULL	NULL
+2840	1600	Zhibin		Du	CN		1	1	NULL	NULL
+2841	1600	Akbar		Ali	PK		0	2	NULL	NULL
+2842	1601	Jan		Goedgebeur	BE	http://caagt.ugent.be/jgoedgeb/	1	1	NULL	NULL
+2843	1601	Edita		Máčajová	SK		0	2	NULL	NULL
+2844	1601	Martin		Škoviera	SK		0	3	NULL	NULL
+2845	1602	Dragan		Marušič	SI		1	1	NULL	NULL
+2846	1602	Tomaž		Pisanski	SI		0	2	NULL	NULL
+2847	1602	Marston		Conder	NZ		0	3	NULL	NULL
+2848	1603	Shoichi		Tsuchiya	JP		1	1	NULL	NULL
+2849	1604	bünyamin		şahin	TR		1	1	NULL	NULL
+2850	1605	Thomas		Zaslavsky	US		1	2	NULL	NULL
+2851	1605	Alex		Schaefer	US		0	1	NULL	NULL
+2852	1606	Peter	F	Stadler	DE		1	4	NULL	NULL
+2853	1606	Marc		Hellmuth	DE		0	1	NULL	NULL
+2854	1606	Yangjing		Long	CN		0	2	NULL	NULL
+2855	1606	Manuela		Gei&szlig;	DE		0	3	NULL	NULL
+2856	1607	Mohammad A.		Iranmanesh	IR		1	1	NULL	NULL
+2857	1607	Razieh		Nejati	IR		0	2	NULL	NULL
+2858	1608	Peter	F	Stadler	DE		1	3	NULL	NULL
+2859	1608	Manoj		Changat	IN		0	1	NULL	NULL
+2860	1608	Prasanth	G	Narasimha-Shenoi	IN		0	2	NULL	NULL
+2861	1609	chj		zhao			1	1	NULL	NULL
+2862	1610	Adrián		Pastine	AR		1	2	NULL	NULL
+2863	1610	Melissa	S.	Keranen	US		0	1	NULL	NULL
+2864	1611	Angelina	Yan Mui	Chin	MY		1	1	NULL	NULL
+2865	1611	Ming Chyang		Lim	MY		0	2	NULL	NULL
+2866	1611	Siew Hui		Ong	MY		0	3	NULL	NULL
+2867	1612	Huanyin		Chen			1	1	NULL	NULL
+2868	1612	Marjan		Sheibani			0	2	NULL	NULL
+2869	1613	kinkar	Ch.	das	KR		1	1	NULL	NULL
+2871	1613	Yaping		Mao	CN		0	2	NULL	NULL
+2872	1613	Ivan		Gutman	RS		0	3	NULL	NULL
+2873	1615	Shude		Long	CN		0	1	NULL	NULL
+2874	1615	Han		Ren	CN		1	2	NULL	NULL
+2875	1616	Yılmaz		Çeven			1	1	NULL	NULL
+2876	1617	Shaohui		Wang			1	6	NULL	NULL
+2877	1617	Zehui		Shao			0	1	NULL	NULL
+2878	1617	Huiqin		Jiang			0	2	NULL	NULL
+2879	1617	S.	M.	Sheikholeslami			0	3	NULL	NULL
+2880	1617	Pu		Wu			0	4	NULL	NULL
+2881	1617	Jin		Xu			0	5	NULL	NULL
+2882	1618	Vijay Kumar		Bhat			1	1	NULL	NULL
+2883	1619	Simona		Settepanella	JP		1	2	NULL	NULL
+2884	1619	Sumire		Sawada			0	1	NULL	NULL
+2885	1619	So		Yamagata			0	3	NULL	NULL
+2888	1622	Rodrigo		Silveira	ES		1	4	NULL	NULL
+2889	1622	Carlos		Seara	ES		0	3	NULL	NULL
+2890	1622	Clemens		Huemer	ES		0	1	NULL	NULL
+2891	1622	Pablo		Perez-Lantero	CL		0	2	NULL	NULL
+2892	1623	jorge		jimenez urroz	ES		1	1	NULL	NULL
+2900	1628	Juan		Núñez	ES		1	2	NULL	NULL
+2899	1627	ahed		hassoon	SY		1	1	NULL	NULL
+2896	1625	Ivica		Martinjak	HR		1	1	NULL	NULL
+2908	1633	Hanna		Furmanczyk	PL		1	1	NULL	NULL
+2906	1632	bünyamin		şahin	TR		1	1	NULL	NULL
+2898	1626	Krishnan		Paramasivam	IN	http://www.nitc.ac.in/index.php/?url=users/view/353/011/2/9/%20Name/0/0/0	1	1	NULL	NULL
+2904	1631	Prasanta		Ray	IN		1	1	NULL	NULL
+2907	1632	abdulgani		şahin	TR		0	2	NULL	NULL
+2909	1633	Rita		Zhuzua	MX		0	2	NULL	NULL
+2910	1634	Mehmet		Önder	TR		1	1	NULL	NULL
+2911	1634	Pınar		Balkı Okullu			0	2	NULL	NULL
+2912	1635	Ali		Abdian			1	1	NULL	NULL
+2913	1636	Yaping		WU	CN		1	1	NULL	NULL
+2914	1636	Huiqing		LIU	CN		0	2	NULL	NULL
+2915	1637	Announcement		​	SI		1	1	NULL	NULL
+2916	1638	Ahmad		Karimi	IR		1	1	NULL	NULL
+2917	1639	ponraj		A P	IN		1	1	NULL	NULL
+2918	1640	Mehmet		Önder	TR		1	1	NULL	NULL
+2919	1641	Ali		Boussayoud	DZ		1	1	NULL	NULL
+2920	1641	Souhila		Boughaba	DZ		0	2	NULL	NULL
+2921	1642	Jose	Luis	Ramirez	CO	https://sites.google.com/site/ramirezrjl/	1	2	NULL	NULL
+2922	1642	Istv\\'an		Mez\\H{o}	CN	https://sites.google.com/site/istvanmezo81/	0	1	NULL	NULL
+2923	1643	Septimiu		Crivei	RO		1	1	NULL	NULL
+2924	1643	Derya		Keskin Tutuncu	TR		0	2	NULL	NULL
+2925	1643	Rachid		Tribak	MA		0	3	NULL	NULL
+2926	1644	Rodrigo		Silveira	ES		1	1	NULL	NULL
+2927	1645	Weihua		Lu	CN		1	1	NULL	NULL
+2928	1645	Han		Ren	CN		0	2	NULL	NULL
+2929	1645	Dengju		Ma			0	3	NULL	NULL
+2937	1650	Sylwia		Antoniuk	PL	http://www.staff.amu.edu.pl/~antoniuk/	1	1	NULL	NULL
+2931	1647	S		Prabhu	IN		1	4	NULL	NULL
+2932	1647	N		Ramalingam	IN		0	1	NULL	NULL
+2933	1647	S		Karthikeyan	IN		0	2	NULL	NULL
+2934	1647	V		Swaminathan			0	3	NULL	NULL
+2936	1649	erling		wei			1	1	NULL	NULL
+2938	1650	Codrut		Grosu			0	2	NULL	NULL
+2939	1650	Lothar		Narins			0	3	NULL	NULL
+3559	1651	Bence		Csajbók			0	1	NULL	NULL
+2941	1651	Giuseppe		Marino	IT		1	2	NULL	NULL
+2942	1651	Olga		Polverino	IT		0	3	NULL	NULL
+2943	1652	Ángel Alberto		Magreñán	ES		1	1	NULL	NULL
+2944	1653	Aristotle		P	IN		1	1	NULL	NULL
+2945	1653	Balamurugan		S	IN		0	2	NULL	NULL
+2946	1653	Swaminathan		V	IN		0	3	NULL	NULL
+2947	1654	Jianhua		Yin	CN		1	2	NULL	NULL
+2948	1654	Jingxin		Guan	CN		0	1	NULL	NULL
+2949	1654	Yue		Zhang	CN		0	3	NULL	NULL
+2950	1655	Refik		Keskin	TR		1	1	NULL	NULL
+2951	1656	Chen		Yichao			1	2	NULL	NULL
+2952	1656	Siwei		Hu	CN		0	1	NULL	NULL
+2953	1657	Thomas		Zaslavsky	US		1	3	NULL	NULL
+2954	1657	Seth		Chaiken	US		0	1	NULL	NULL
+2955	1657	Christopher	R. H.	Hanusa	US		0	2	NULL	NULL
+2956	1658	Edward		Mieczkowski	PL		1	1	NULL	NULL
+3577	2006	Timothy		Sun	US	http://www.cs.columbia.edu/~tim/	1	1	NULL	NULL
+2959	1661	MANIKANDAN		K	IN		0	1	NULL	NULL
+2960	1661	HARIKRISHNAN		T	IN		1	2	NULL	NULL
+2961	1662	MANIKANDAN		K	IN		1	1	NULL	NULL
+2962	1662	HARIKRISHNAN		T	IN		0	2	NULL	NULL
+2963	1663	ALİ		KARAKUŞ	TR		1	1	NULL	NULL
+2964	1663	NECATİ		OLGUN	TR		0	2	NULL	NULL
+2965	1663	MEHMET		ŞAHİN	TR		0	3	NULL	NULL
+2966	1664	Andrea		Lucchini	IT		1	1	NULL	NULL
+2967	1664	Mariapia		Moscatiello			0	2	NULL	NULL
+3358	1883	Alexander		Grigoriev	NL	http://researchers-sbe.unimaas.nl/alexandergrigoriev/	1	3	NULL	NULL
+2969	1666	ahmet		daşdemir	TR		1	1	NULL	NULL
+2978	1673	Eslam		Badr	EG		1	1	NULL	NULL
+2971	1668	Mircea		Merca			1	1	NULL	NULL
+2972	1669	Claudio		Pita-Ruiz	MX		1	1	NULL	NULL
+2973	1670	Mohamed		Basseem	EG		1	1	NULL	NULL
+2974	1671	Uzma		Ahmad	PK		1	1	NULL	NULL
+2975	1672	Junxian		Li	US		1	1	NULL	NULL
+2976	1672	ALBERT		TAMAZYAN	US		0	2	NULL	NULL
+2977	1672	ALEXANDRU		ZAHARESCU			0	3	NULL	NULL
+2979	1674	Shaohui		Wang			1	3	NULL	NULL
+2980	1674	Zepeng		Li	CN		0	1	NULL	NULL
+2981	1674	Zehui		Shao	CN		0	2	NULL	NULL
+2982	1674	Jin		Xu	CN		0	4	NULL	NULL
+2983	1675	Weifan		Wang	CN		1	3	NULL	NULL
+2984	1675	Yanping		Yang			0	1	NULL	NULL
+2985	1675	Wai Chee		Shiu			0	2	NULL	NULL
+2986	1675	Min		Chen			0	4	NULL	NULL
+2988	1677	Rongxia		Hao			1	2	NULL	NULL
+2989	1677	Shengjie		He			0	1	NULL	NULL
+2990	1677	Deming		Li			0	3	NULL	NULL
+2991	1678	kadir		kanat	TR	https://orcid.org/0000-0002-7738-903X	1	1	NULL	NULL
+2992	1678	melek		sofyalıoğlu	TR		0	2	NULL	NULL
+2993	1679	Marilena		Barnabei	IT		1	1	NULL	NULL
+2994	1679	Flavio		Bonetti	IT		0	2	NULL	NULL
+2995	1679	Niccolò		Castronuovo	IT		0	3	NULL	NULL
+2996	1679	Matteo		Silimbani	IT		0	4	NULL	NULL
+2997	1680	Maciej		Ulas	PL		1	1	NULL	NULL
+2998	1681	Alessandro		Siciliano	IT		1	2	NULL	NULL
+2999	1681	Gábor		Korchmáros	IT		0	1	NULL	NULL
+3005	1685	Peter	J.	Dukes	CA	http://www.math.uvic.ca/~dukes/index.html	1	1	NULL	NULL
+3001	1683	Ruben	A.	Hidalgo	CL	http://orcid.org/0000-0003-4070-2819	1	1	NULL	NULL
+3002	1683	Juan	C.	Garcia	CL		0	2	NULL	NULL
+3003	1684	Janoš		Vidali	SI		1	2	NULL	NULL
+3004	1684	Primož		Potočnik	SI		0	1	NULL	NULL
+3006	1686	ADEYEMI	E	ABIODUN			1	1	NULL	NULL
+3007	1687	Abbas		Nasrollah Nejad	IR		1	3	NULL	NULL
+3009	1687	Jurgen		Herzog	DE		0	1	NULL	NULL
+3010	1687	Raheleh		Jafari	IR		0	2	NULL	NULL
+4492	2484	Zheming		Liu	CN		1	1	NULL	NULL
+3013	1691	Fatma		Salama	EG		1	1	NULL	NULL
+3014	1691	Faiza		Shujat			0	2	NULL	NULL
+3015	1692	Elena		Metodieva	BG		1	1	NULL	NULL
+3016	1693	Raffaele		Caputo	DE		1	1	NULL	NULL
+3017	1694	Vijay Kumar		Bhat	IN		1	1	NULL	NULL
+3018	1694	Pradeep		Singh	IN		0	2	NULL	NULL
+3019	1695	Dengju		Ma	CN		1	1	NULL	NULL
+3020	1695	Han		Ren	CN		0	2	NULL	NULL
+3021	1696	Ivan		Kaygorodov	BR		1	1	NULL	NULL
+3022	1696	Antonio	Jesús	Calderón			0	2	NULL	NULL
+3023	1696	Amir		Fernández Ouaridi			0	3	NULL	NULL
+3024	1697	Sankhanil		Dey	IN		1	1	NULL	NULL
+3026	1698	Selda		Küçükçifçi	TR		0	2	NULL	NULL
+3027	1698	Salvatore		Milici	IT		0	3	NULL	NULL
+3028	1698	E.Şule		Yazıcı	TR		0	4	NULL	NULL
+3029	1699	Mihael		Perman	SI		1	1	NULL	NULL
+3030	1699	Ana		Zalokar	SI		0	2	NULL	NULL
+3031	1700	Dipendu		Maity			1	1	NULL	NULL
+3032	1701	Artur		Siemaszko	PL		1	1	NULL	NULL
+3033	1702	Kadri		Arslan	TR		1	2	NULL	NULL
+3034	1702	Eray		Demirbaş	TR		0	1	NULL	NULL
+3035	1703	Rumen		Daskalov			1	1	NULL	NULL
+3036	1704	Alessandro		Fonda			1	1	NULL	NULL
+3043	1707	Atef		Mohamed	EG		1	1	NULL	NULL
+3038	1705	Masoumeh		Akbarizadeh	IR		1	1	NULL	NULL
+3042	1706	Ali		Abdian			1	1	NULL	NULL
+3040	1705	Mehdi		Alaeiyan	IR		0	2	NULL	NULL
+3041	1705	Raffaele		Scapellato	IT		0	3	NULL	NULL
+3044	1708	Huazhong		Lü	CN		1	1	NULL	NULL
+3045	1709	Marston		Conder	SI		1	1	NULL	NULL
+3046	1709	Asia		Ivić Weiss			0	2	NULL	NULL
+3047	1709	Aleksander		Malnič			0	3	NULL	NULL
+3051	1713	Italo Jose		Dejter	PR		1	1	NULL	NULL
+3049	1711	ADRIAN		VAZQUEZ AVILA	MX		1	1	NULL	NULL
+3050	1712	Evgeny		Feigin			1	1	NULL	NULL
+3052	1714	Aimei		Yu	CN		1	1	NULL	NULL
+3053	1714	Kun		Peng			0	2	NULL	NULL
+3054	1714	Rong-Xia		Hao			0	3	NULL	NULL
+3055	1714	Jiahao		Fu			0	4	NULL	NULL
+3056	1714	Yingsheng		Wang			0	5	NULL	NULL
+3058	1716	Esmaiel		Abedi			1	2	NULL	NULL
+3059	1716	Najma		Mosadegh	IR		0	1	NULL	NULL
+3065	1719	Eric		Swartz	US		1	1	NULL	NULL
+3061	1718	Matej		Mencinger	SI		1	4	NULL	NULL
+3062	1718	Tomislav		Letnik	SI		0	1	NULL	NULL
+3063	1718	Stane		Božičnik	SI		0	2	NULL	NULL
+3064	1718	Simon		Špacapan	SI		0	3	NULL	NULL
+3066	1719	Nicholas		Werner	US		0	2	NULL	NULL
+3067	1720	Ahmad		Gholami	IR		1	1	NULL	NULL
+3068	1721	Bryan		Freyberg	US		1	1	NULL	NULL
+3070	1723	Aleksandra		Tepeh	SI		1	1	NULL	NULL
+3072	1723	Riste		Škrekovski			0	2	NULL	NULL
+3073	1723	Martin		Knor			0	3	NULL	NULL
+3074	1725	Vesna		Iršič	SI		1	1	NULL	NULL
+3075	1725	Matjaž		Konvalinka	SI		0	2	NULL	NULL
+3076	1726	hamidreza		maimani			1	1	NULL	NULL
+3077	1727	Ismael		Gonzalez Yero	ES		1	3	NULL	NULL
+3078	1727	Alejandro		Estrada Moreno			0	1	NULL	NULL
+3079	1727	Juan Alberto		Rodriguez Velazquez			0	2	NULL	NULL
+3080	1728	hamidreza		maimani	IR		1	1	NULL	NULL
+3081	1728	Leila		Parsaei			0	2	NULL	NULL
+3082	1729	shervin		sahebi	IR		1	1	NULL	NULL
+3083	1729	Mohammad		Vahdani mehrabadi	IR		0	2	NULL	NULL
+3084	1730	Krishnan		Paramasivam	IN	http://www.nitc.ac.in/index.php/?url=users/view/353/11/3	1	1	NULL	NULL
+3085	1731	Shiying		Wang			1	1	NULL	NULL
+3102	1741	Teerapong		Suksumran	TH		1	1	NULL	NULL
+3101	1740	Zoran		Stanić	RS	http://www.matf.bg.ac.rs/~zstanic/engindex.htm	1	1	NULL	NULL
+3089	1733	Gunnar		Brinkmann			1	1	NULL	NULL
+3090	1733	Nico		Van Cleemput			0	3	NULL	NULL
+3091	1733	Kenta		Ozeki			0	2	NULL	NULL
+3092	1419	Jaeun		Lee			0	2	NULL	NULL
+3093	1419	Jin Ho		Kwak			0	3	NULL	NULL
+3094	1734	Liqun		Pu	CN		1	1	NULL	NULL
+3095	939	Jonathan	L.	Gross			0	1	NULL	NULL
+3100	1739	SENTHIL KUMAR		R	IN		1	0	NULL	NULL
+3097	1736	SAHAR		AKBARZADEH	IR		1	1	NULL	NULL
+3099	1738	Richard		Hammack	US	http://www.people.vcu.edu/~rhammack/	1	1	NULL	NULL
+3103	1742	Announcement		​	SI		1	1	NULL	NULL
+3104	1743	Claudio		Pita-Ruiz	MX		1	1	NULL	NULL
+3105	1744	Hafiz Muhammad Afzal		Siddiqui	PK		1	2	NULL	NULL
+3106	1744	Muhammad		Rafiullah	PK		0	1	NULL	NULL
+3107	1744	Sarfraz		Ahmad	PK		0	3	NULL	NULL
+3108	1745	SAYANTAN		MAITY	IN		1	1	NULL	NULL
+3109	1745	SK RABIUL		ISLAM	IN		0	2	NULL	NULL
+3110	1745	ASHISH	K	UPADHYAY	IN		0	3	NULL	NULL
+3111	1746	Shine	C	Mathew	IN		1	2	NULL	NULL
+3112	1746	M I		Jinnah	IN		0	1	NULL	NULL
+3113	1747	Kannan		Pattabiraman	IN		1	1	NULL	NULL
+3114	1748	Kan		Hu			1	2	NULL	NULL
+3115	1748	Yan-Quan		Feng			0	1	NULL	NULL
+3116	1748	Roman		Nedela			0	3	NULL	NULL
+3117	1748	Martin		Škoviera			0	4	NULL	NULL
+3118	1748	Na-Er		Wang			0	5	NULL	NULL
+3119	1228	Micha	A.	Perles			0	1	NULL	NULL
+3120	1228	Yaakov	S.	Kupitz			0	3	NULL	NULL
+3121	1749	Jay		Fraser	GB		0	1	NULL	NULL
+3122	1749	Olivia		Jeans	GB		0	2	NULL	NULL
+3123	1749	Jozef		Širáň	GB		1	3	NULL	NULL
+3124	1750	Cichacz		Sylwia	PL		1	1	NULL	NULL
+3125	1750	Tomasz		Hinc	PL		0	2	NULL	NULL
+3126	1751	Lutfi		AKIN	TR		1	1	NULL	NULL
+3127	1752	Mohammad Reza		Oboudi			1	1	NULL	NULL
+3128	1753	Yaokun		Wu	CN	http://math.sjtu.edu.cn/faculty/ykwu/home.php	1	1	NULL	NULL
+3129	1753	Yinfeng		Zhu	CN		0	2	NULL	NULL
+3130	1754	Ali		Abdian			1	1	NULL	NULL
+3131	1755	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+3132	1755	Sarfraz		Ahmad	PK		0	2	NULL	NULL
+3133	1755	Muhammad		Ibrahim	PK		0	3	NULL	NULL
+3136	1758	Vahan		Mkrtchyan	AM		1	2	NULL	NULL
+3135	1757	Zahra		Yarahmadi	IR		1	1	NULL	NULL
+3137	1758	Anush		Hakobyan	AM		0	1	NULL	NULL
+3138	1759	Huishu		Lian			1	1	NULL	NULL
+3139	1760	Huishu		Lian			1	1	NULL	NULL
+3140	1761	Huishu		Lian	CN		1	2	NULL	NULL
+3141	1761	Xiaolin		Chen	CN		0	1	NULL	NULL
+3142	1762	Selvam		Avadayappan	IN		1	1	NULL	NULL
+3143	1762	Bhuvaneshwari		M	IN		0	2	NULL	NULL
+3144	1763	Valentina		Pepe	IT		1	1	NULL	NULL
+3145	1764	Antoinette		Tripodi	IT		1	4	NULL	NULL
+3146	1764	Melissa		Keranen	US		0	1	NULL	NULL
+3147	1764	Donald		Kreher	US		0	2	NULL	NULL
+3148	1764	Salvatore		Milici	IT		0	3	NULL	NULL
+3149	1765	Giovanni		Zini	IT		1	1	NULL	NULL
+3150	1766	Soheila		Khojasteh			1	1	NULL	NULL
+3151	1766	Saieed		Akbari			0	2	NULL	NULL
+3152	1767	María	José	Souto-Salorio			1	1	NULL	NULL
+3158	1772	Siwaporn		Mamart	TH		0	1	NULL	NULL
+3157	1772	Chalermpong		Worawannotai	TH		1	2	NULL	NULL
+3156	1771	Kan		Hu			1	1	NULL	NULL
+3159	1537	Mohamad		Badaoui			0	1	NULL	NULL
+3160	1537	David		Ellison			0	3	NULL	NULL
+3161	1537	Bassam		Mourad			0	4	NULL	NULL
+3162	1773	Ali		Nejati	IR		1	1	NULL	NULL
+3163	1774	Giovanni		Zini	IT		1	1	NULL	NULL
+3164	1775	S		Monikandan	IN		1	2	NULL	NULL
+3165	1775	P.		Anusha Devi			0	1	NULL	NULL
+3166	1776	Gönenç		Onay			1	0	NULL	NULL
+3167	1281	Alan	F.	Beardon	GB		0	1	NULL	NULL
+3168	1777	Hainan		Ma	CN		1	1	NULL	NULL
+3169	1778	DR BRIJESH	KUMAR	TRIPATHI	IN		1	1	NULL	NULL
+3170	1779	Bruno		Ferreira	BR		1	1	NULL	NULL
+3171	1779	Tanise		Pierin	BR		0	2	NULL	NULL
+3172	1779	Ruth		Ferreira	BR		0	3	NULL	NULL
+3173	1780	Angelina	Yan Mui	Chin	MY		1	1	NULL	NULL
+3174	1780	Ta Sheng		Tan	MY		0	2	NULL	NULL
+3175	1780	Wan Muhammad	Afif	Wan Ruzali	MY		0	3	NULL	NULL
+3176	1781	Huazhong		Lü	CN		1	1	NULL	NULL
+3177	1781	Tingzeng		Wu	CN		0	2	NULL	NULL
+3178	1782	Cristina		Ballantine	US		1	1	NULL	NULL
+3179	1782	Mircea		Merca	RO		0	2	NULL	NULL
+3180	1783	RADHAKRISHNAN		BHEEMAN	IN		1	1	NULL	NULL
+3181	1783	SATHYA		THANGAVEL	IN		0	2	NULL	NULL
+3182	1784	Iztok		Banic	SI		1	1	NULL	NULL
+3183	1784	Janez		Žerovnik	SI		0	2	NULL	NULL
+3184	1785	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+3185	1785	Muhammad		Imran	AE		0	2	NULL	NULL
+3186	1785	Najma	Abdul	Rehamn	PK		0	3	NULL	NULL
+3189	1788	Mahdi		Imanparast	IR		1	1	NULL	NULL
+3190	1789	Torsten		Sander	DE		1	1	NULL	NULL
+3191	1789	Mohammad		Abudayah	JO		0	2	NULL	NULL
+3192	1789	Omar		Alomari	JO		0	3	NULL	NULL
+4467	2473	Carlos		Fonseca	PT	https://orcid.org/0000-0001-7742-4416	1	1	NULL	NULL
+3194	1791	Kukil	Kalpa	Rajkhowa			1	1	NULL	NULL
+3196	1793	Gábor		Nyul	HU		1	1	NULL	NULL
+3197	1793	Gabriella		Rácz	HU		0	2	NULL	NULL
+3198	1794	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+3199	1794	Muhammad		Ibrahim	PK		0	2	NULL	NULL
+3200	1794	Muhammad Ahmad		Raza	PK		0	3	NULL	NULL
+3210	1800	Marston		Conder	NZ	http://www.math.auckland.ac.nz/~conder	1	1	NULL	NULL
+3202	1409	Da-Wei		Yang	CN		0	2	NULL	NULL
+3203	1409	Jin-Xin		Zhou	CN		0	3	NULL	NULL
+3204	1796	Ligang		Jin	CN		1	1	NULL	NULL
+3205	1797	Chao		Yang	CN		1	1	NULL	NULL
+3206	1797	Han		Ren	CN		0	2	NULL	NULL
+3207	1798	Wang		Yajie	CN		1	1	NULL	NULL
+3209	1547	Cheryl	E.	Praeger	AU		0	2	NULL	NULL
+3211	1800	Klara		Stokes	IE		0	2	NULL	NULL
+3212	1801	Yan-Quan		Feng	CN		1	1	NULL	NULL
+3213	1802	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+3214	1802	Maria		Sabir	PK		0	2	NULL	NULL
+3215	1802	Sajeela Ghulam		Nabi	PK		0	3	NULL	NULL
+3216	1802	Muhammad Reza		Farahani	IR		0	4	NULL	NULL
+3217	1546	Gabriela		Araujo-Pardo	MX		0	1	NULL	NULL
+3218	1546	Christian		Rubio-Montiel	MX		0	3	NULL	NULL
+3219	1546	Adrián		Vázquez-Ávila	MX		0	4	NULL	NULL
+3220	1801	Yi		Wang	CN		0	2	NULL	NULL
+3221	1803	Ahmad		Abbasi	IR		1	1	NULL	NULL
+3222	1804	Ronald	Julio	Orozco	CO		1	1	NULL	NULL
+3223	1805	Reza		Habibi			1	1	NULL	NULL
+3224	1806	Mahdi		Imanparast	IR		1	1	NULL	NULL
+3225	1807	Irina		Cristea	SI		1	1	NULL	NULL
+3226	1808	Dragan		Marušič	SI		1	2	NULL	NULL
+3227	1808	Klavdija		Kutnar	SI		0	1	NULL	NULL
+3228	1808	Tomaž		Pisanski	SI		0	3	NULL	NULL
+3229	1809	Mehdi		Shams	IR		1	1	NULL	NULL
+3230	1810	​Announcement		​​	SI		1	1	NULL	NULL
+3231	1811	SELMI		Bilel			1	1	NULL	NULL
+3232	1812	Tomaž		Pisanski	SI		1	1	NULL	NULL
+3233	1813	Michael		Cavers			1	1	NULL	NULL
+3234	1814	Mohamed		basher			1	0	NULL	NULL
+3235	1815	Primož		Potočnik			1	1	NULL	NULL
+3236	1815	Micael		Toledo	SI		0	2	NULL	NULL
+3237	1816	Chinnapillai		Durairajan	IN	http://www.bdu.ac.in/schools/mathematical_sciences/mathematics/docs/faculty/dr_c_durairajan.pdf	1	2	NULL	NULL
+3238	1816	Dhanalakshmi		Ramalingam	IN		0	1	NULL	NULL
+3239	1813	Karen		Seyffarth			0	2	NULL	NULL
+3240	1817	Diane	M.	Donovan	AU		1	3	NULL	NULL
+3241	1817	Nicholas	J.	Cavenagh	NZ		0	1	NULL	NULL
+3242	1817	Jeffery	H.	Dinitz	US		0	2	NULL	NULL
+3243	1817	Emine	Şule	Yazıcı	TR		0	4	NULL	NULL
+3245	1819	Abdul Rauf		Nizami	PK		1	1	NULL	NULL
+3246	1819	Asim		Naseem	PK		0	2	NULL	NULL
+3247	1819	Hafiz Muhammad Waqar		Ahmed	PK		0	3	NULL	NULL
+3248	1820	Jose		Simoes-Pereira	PT		1	1	NULL	NULL
+3249	1821	M Jibril	Shahab	Sahir	PK		1	1	NULL	NULL
+3250	1822	khaldoun	falah	al-zoubi	JO	http://www.just.edu.jo/Pages/Default.aspx	1	1	NULL	NULL
+3251	1822	Mariam		Al-Azaizeh	JO		0	2	NULL	NULL
+3252	1823	Lili		Song	PT		1	1	NULL	NULL
+3253	1823	Lei		Sun	CN		0	2	NULL	NULL
+3254	1824	Ayazul		Hasan	SA		1	1	NULL	NULL
+3255	1824	Rafiq		Uddin	IN		0	2	NULL	NULL
+3256	1824	Mohammad	Fareed	Ahmad	IN		0	3	NULL	NULL
+3257	1825	Mark		Mixer	US		1	3	NULL	NULL
+3258	1825	Kostiantyn		Drach	DE		0	1	NULL	NULL
+3259	1825	Yurii		Haidamaka	UA		0	2	NULL	NULL
+3260	1825	Maksym		Skoryk	UA		0	4	NULL	NULL
+3261	1826	Pairote		Yiarayong			1	1	NULL	NULL
+3262	1827	Abdullah		Alazemi	KW		1	1	NULL	NULL
+3263	1827	Michael		Raney	US		0	2	NULL	NULL
+3264	1828	Alvaro		Anton Sancho	ES		1	1	NULL	NULL
+3265	1829	Christos		Pelekis	CZ		1	1	NULL	NULL
+3270	1834	Mohammad	A	AlQudah	JO		1	1	NULL	NULL
+3269	1833	SURAJIT	KR	NATH	IN	https://orcid.org/0000-0002-2142-393X	1	1	NULL	NULL
+3271	1834	Maalee	N	AlMheidat	JO		0	2	NULL	NULL
+3272	1835	SURAJIT	KR	NATH	IN		1	1	NULL	NULL
+3273	1836	Saeid		Alikhani	IR	https://pws.yazd.ac.ir/alikhani/	1	1	NULL	NULL
+3274	1836	Somayeh		Jahari			0	2	NULL	NULL
+3275	1837	Marzena		Szajewska			1	1	NULL	NULL
+3276	1837	Jiri		Patera			0	2	NULL	NULL
+3277	1838	Shuchao		Li	CN		1	1	NULL	NULL
+3278	1838	Jing		Huang			0	2	NULL	NULL
+3279	1839	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+3280	1839	Muhammad		Imran	AE		0	2	NULL	NULL
+3281	1839	Muhammad		Saeed	PK		0	3	NULL	NULL
+3282	1839	Noor		Rehman	PK		0	4	NULL	NULL
+3283	1840	Gareth	A.	Jones	GB		1	1	NULL	NULL
+3351	1880	Klavdija		Kutnar	SI		1	1	NULL	NULL
+3285	1842	Sylwia		Cichacz	PL		1	1	NULL	NULL
+3287	1844	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+3288	1844	Muhammad		Naeem	PK		0	2	NULL	NULL
+3289	1844	Manzoor Ahmad		Zahid	PK		0	3	NULL	NULL
+3290	1845	Paul	C.	Kainen	US	http://www9.georgetown.edu/faculty/kainen/	1	0	NULL	NULL
+3291	1846	Paul	C.	Kainen	US	http://www9.georgetown.edu/faculty/kainen/	1	1	NULL	NULL
+3292	1847	Vladimir		Ignatyev	RU		1	1	NULL	NULL
+3293	1847	Andrey		Kovalev	RU		0	2	NULL	NULL
+3294	1847	Oleg		Spiridonov	RU		0	3	NULL	NULL
+3295	1847	Viktor		Kureychik	RU		0	4	NULL	NULL
+3296	1847	Alexandra		Ignatyeva	RU		0	5	NULL	NULL
+3297	1848	Gordon		Williams	US		1	1	NULL	NULL
+3298	1849	Florian		Lehner			1	1	NULL	NULL
+3299	1849	Gabriel		Verret			0	2	NULL	NULL
+3300	1850	Yan		Wang	CN		1	1	NULL	NULL
+3301	1851	Yan		Wang	CN		1	2	NULL	NULL
+3302	1851	Hai-Peng		Qu	CN		0	1	NULL	NULL
+3303	1851	Kai		Yuan	CN		0	3	NULL	NULL
+3304	1852	Wilfried		Imrich	AT		0	1	NULL	NULL
+3305	1853	Bilal	N.	Al-Hasanat			1	1	NULL	NULL
+3306	1854	SURAJIT	KR	NATH	IN		1	1	NULL	NULL
+3307	1855	Yang		Liu	CN		1	1	NULL	NULL
+3308	1856	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+3309	1856	Sarfraz		Ahmad	PK		0	2	NULL	NULL
+3310	1856	Muhammad Arfan		Ali	PK		0	3	NULL	NULL
+3311	1856	Muhammed		Nadeem	PK		0	4	NULL	NULL
+3313	1858	changjian		zhao			1	1	NULL	NULL
+3314	1858	Wing Sum		Cheung			0	2	NULL	NULL
+3315	1859	Natalia		García-Colín			1	1	NULL	NULL
+3316	1859	Gabriela		Araujo-Pardo			0	2	NULL	NULL
+3317	1859	Fidel		Barrera-Cruz			0	3	NULL	NULL
+3318	1860	Giuseppe		Mazzuoccolo	IT		1	1	NULL	NULL
+3319	1861	abbes		ourahmoun	DZ		1	1	NULL	NULL
+3320	1017	Vitaly		Voloshin	US		0	2	NULL	NULL
+3321	1862	Muhammad		Naeem	PK		1	1	NULL	NULL
+3322	1862	Wei		Gao	CN		0	2	NULL	NULL
+3323	1862	Abdul Qudair		Baig	PK		0	3	NULL	NULL
+3324	1862	Aneela		Aslam	PK		0	4	NULL	NULL
+3325	1863	ratan		singh	IN		1	1	NULL	NULL
+3326	1864	Bing		He	CN		1	1	NULL	NULL
+3327	1865	Roger		Alperin	US		1	1	NULL	NULL
+3328	1866	Mark	E.	Watkins	US		1	2	NULL	NULL
+3329	1866	Jack	E.	Graver	US		0	1	NULL	NULL
+3330	1867	Muhammad	Kamran	Siddiqui	PK		1	1	NULL	NULL
+3331	1867	Muhammed		Nadeem	PK		0	2	NULL	NULL
+3332	1867	Sarfraz		Ahmad	PK		0	3	NULL	NULL
+3333	1868	Chinnaraji		Annamalai	IN		1	1	NULL	NULL
+3334	1869	Antonio		Breda d'Azevedo	PT		1	1	NULL	NULL
+3335	1870	G. CANAN		HAZAR GÜLEÇ	TR	https://orcid.org/0000-0002-8825-5555	1	1	NULL	NULL
+3336	1871	Majeed	A.	Yousif	IQ		1	1	NULL	NULL
+3341	1874	Maryam		Bhagipur			0	2	NULL	NULL
+3342	1875	Klavdija		Kutnar	SI		1	1	NULL	NULL
+3339	1874	Shariefuddin		Pirzada	IN		1	3	NULL	NULL
+3340	1874	Abdollah		Alhevaz	IR		0	1	NULL	NULL
+3343	1875	Dragan		Marušič	SI		0	2	NULL	NULL
+3344	1875	Tomaž		Pisanski	SI		0	3	NULL	NULL
+3345	1876	G.		Muhiuddin	SA		1	1	NULL	NULL
+3346	1877	chj		zhao			1	1	NULL	NULL
+3347	1877	Wing Sum		Cheung			0	2	NULL	NULL
+3348	1878	Javid	Gani	Dar	IN		1	1	NULL	NULL
+3349	1879	Abolfazl		Poureidi	IR		1	1	NULL	NULL
+3350	1879	Nadar		Jafari Rad	IR		0	2	NULL	NULL
+3352	1880	Dragan		Marušič	SI		0	2	NULL	NULL
+3353	1880	Tomaž		Pisanski	SI		0	3	NULL	NULL
+3354	1881	Pablo	Daniel	Torres	AR		1	3	NULL	NULL
+3355	1881	Boštjan		Brešar	SI		0	1	NULL	NULL
+3356	1881	Tim		Kos	SI		0	2	NULL	NULL
+3357	1882	Marta		Borowiecka-Olszewska	PL	https://www.wmie.uz.zgora.pl/en/pracownicy/pokaz.php?id=MBorowiecka	1	1	NULL	NULL
+3359	1883	Aida		Abiad			0	1	NULL	NULL
+3360	1883	Boris		Brimkov			0	2	NULL	NULL
+3361	1884	Pavol		Zlatoš	SK		1	2	NULL	NULL
+3362	1884	Martin		Vodička	DE		0	1	NULL	NULL
+3363	1885	Alen		Orbanić	SI		1	1	NULL	NULL
+3364	1886	Alen		Orbanić	SI		1	1	NULL	NULL
+3365	1887	Announcement		​	SI		1	1	NULL	NULL
+3366	1888	Announcement		​	SI		1	1	NULL	NULL
+3367	1889	Özcan		Bektaş			1	1	NULL	NULL
+3368	1889	Zafer		Bekiryazıcı			0	2	NULL	NULL
+3369	1890	Ali		Boussayoud	DZ		1	2	NULL	NULL
+3370	1890	Khadidja		Boubellouta	DZ		0	1	NULL	NULL
+3371	1890	Serkan		Araci	TR		0	3	NULL	NULL
+3372	1890	Mohamed		Kerada	DZ		0	4	NULL	NULL
+3377	1892	Grigory		Ryabov	RU		1	1	NULL	NULL
+3374	1891	Seyed Hassan		Alavi			1	1	NULL	NULL
+3375	1891	Ashraf		Daneshkhah	IR		0	2	NULL	NULL
+3376	1891	Narges		Okhovat	IR		0	3	NULL	NULL
+3378	1893	Mohammad		Nili Ahmadabadi			1	1	NULL	NULL
+4257	2163	Klavdija		Kutnar			1	2	NULL	NULL
+3380	1895	Shaohui		Zhai	CN		0	1	NULL	NULL
+3381	1895	Erling		Wei			1	2	NULL	NULL
+3382	1896	Ali		Ahmad	SA		1	1	NULL	NULL
+3383	1897	zhangdong		ouyang	CN		1	1	NULL	NULL
+3384	1897	Jing		Wang	CN		0	2	NULL	NULL
+3385	1897	Yuanqiu		Huang	CN		0	3	NULL	NULL
+3386	1898	Carol		Zamfirescu	BE		1	3	NULL	NULL
+3387	1898	Kenta		Ozeki			0	1	NULL	NULL
+3388	1898	Gabor		Wiener			0	2	NULL	NULL
+3389	1899	Jayantha		Lanel	LK	http://scholar.sjp.ac.lk/lanel	1	1	NULL	NULL
+3390	1899	Jayampathy		Ratnayake	LK		0	2	NULL	NULL
+3391	1899	Buddhini		Welihinda	LK		0	3	NULL	NULL
+3392	1900	Xue		Yu	CN		0	1	NULL	NULL
+3393	1900	Ben Gong		Lou	CN		1	2	NULL	NULL
+3394	1900	Wen Wen		Fan	CN		0	3	NULL	NULL
+3395	1901	Helmut		Prodinger			1	1	NULL	NULL
+3396	1902	G. CANAN		HAZAR GÜLEÇ	TR		1	1	NULL	NULL
+3397	1903	Alonso		Castillo-Ramirez	MX	https://sites.google.com/udg.mx/castillo-ramirez	1	1	NULL	NULL
+3398	1903	Miguel		Sanchez-Alvarez	MX		0	2	NULL	NULL
+3399	1904	Muhammet Enes		Durmaz	TR		1	2	NULL	NULL
+3400	1904	Gabil M.		Amiraliyev	TR		0	1	NULL	NULL
+3401	1904	Mustafa		Kudu			0	3	NULL	NULL
+3402	1905	Indulal		Gopalapillai			1	1	NULL	NULL
+3405	1908	Hanyuan		Deng			1	3	NULL	NULL
+3404	1907	Takao		Komatsu			1	1	NULL	NULL
+3406	1908	Zikai		Tang			0	1	NULL	NULL
+3407	1908	Hanlin		Chen			0	2	NULL	NULL
+3408	1909	Ghulam		Mohammad	IN		1	3	NULL	NULL
+3409	1909	Mohammad		Ashraf	IN		0	1	NULL	NULL
+3410	1909	Mohit		Kumar	IN		0	2	NULL	NULL
+3411	1910	Malgorzata		Zdanowicz	PL		1	1	NULL	NULL
+3412	1910	Jankowski		Robert	PL		0	2	NULL	NULL
+3413	1911	Sizhong		Zhou	CN		1	1	NULL	NULL
+3414	1912	Zihong		Tian			1	2	NULL	NULL
+3415	1912	Jun		Zhang			0	1	NULL	NULL
+3416	1913	Vijay Kumar		Bhat	IN		1	1	NULL	NULL
+3417	1913	Pradeep		Singh			0	2	NULL	NULL
+3418	1914	Muhammad		Naeem	PK		1	4	NULL	NULL
+3419	1914	Zubair		Ahmad	PK		0	1	NULL	NULL
+3420	1914	Muhammad Ozair		Ahmad	PK		0	2	NULL	NULL
+3421	1914	Abdul Qudair		Baig	PK		0	3	NULL	NULL
+3422	1915	B		Radha	IN		1	1	NULL	NULL
+3423	1916	B		Radha	IN		1	1	NULL	NULL
+3424	1917	Krzysztof		Petelczyc	PL		1	1	NULL	NULL
+3425	1917	Mariusz		Żynel	PL		0	2	NULL	NULL
+3426	1918	Benjamin		Peet	US	https://benpeet.weebly.com	1	1	NULL	NULL
+3427	1477	Ilda		Inácio	PT		0	2	NULL	NULL
+3428	1477	Rogério		Serôdio	PT		0	3	NULL	NULL
+3429	1919	Palanivel Subramania Nadar		Paulraja	IN		1	1	NULL	NULL
+3430	1920	Behnam		Khosravi	IR		1	1	NULL	NULL
+3431	1921	Jay		Zimmerman	US		1	2	NULL	NULL
+3432	1921	Coy	L.	May	US		0	1	NULL	NULL
+3433	1922	Ivo		Damyanov	BG		1	1	NULL	NULL
+3434	1923	Ronald	López	Orozco	CO		1	1	NULL	NULL
+3435	1924	Prohelika		Das	IN		1	1	NULL	NULL
+3436	1925	Aleksandra		Tepeh	SI		1	4	NULL	NULL
+3437	1925	Riste		Škrekovski			0	3	NULL	NULL
+3438	1925	Martin		Knor			0	1	NULL	NULL
+3439	1925	Jozef		Komorník			0	2	NULL	NULL
+3440	1926	Mariusz		Grech	PL		1	1	NULL	NULL
+3441	1927	Anwar		Saleh			1	1	NULL	NULL
+3442	1928	Liliek		Susilowati	ID		1	1	NULL	NULL
+3443	1928	Slamin		Slamin	ID		0	2	NULL	NULL
+3444	1928	Ayune		Rosfiana	ID		0	3	NULL	NULL
+3445	1929	Modjtaba		Ghorbani	IR		1	1	NULL	NULL
+3446	1930	Jose		Simoes-Pereira			1	1	NULL	NULL
+3447	1930	Christopher	Neil	Gadzinski	PT		0	2	NULL	NULL
+3448	1931	Pieter		Goetschalckx	BE		1	1	NULL	NULL
+3449	1932	Nadeem ur		Rehman	IN		1	1	NULL	NULL
+3450	1933	Zoran		Stanić		http://www.matf.bg.ac.rs/~zstanic	1	1	NULL	NULL
+3457	1937	María	Ángeles	Moreno-Frías	ES		1	3	NULL	NULL
+3453	1936	Ali	Reza	Ashrafi	IR		1	1	NULL	NULL
+3454	1936	Leila		Ghanbari-Maman	IR		0	2	NULL	NULL
+3455	1936	Kaveh		‎Kavousi			0	3	NULL	NULL
+3456	1936	Fatemeh		‎Koorepazan-Moftakhar	IR		0	4	NULL	NULL
+3458	1938	chj		zhao			1	1	NULL	NULL
+3459	1939	Mehdi		Shams	IR		1	1	NULL	NULL
+3460	1940	Irene		Paniello	ES		1	1	NULL	NULL
+3461	1941	Mohamd Saleem		Lone			1	1	NULL	NULL
+3462	1941	Murat Kemal		Karacan			0	2	NULL	NULL
+3463	1941	Yilmaz		Tunçer			0	3	NULL	NULL
+3464	1941	Hasan		ES			0	4	NULL	NULL
+3465	1942	Utsanee		Leerawat	TH	https://orcid.org/0000-0001-8283-2596	1	1	NULL	NULL
+3466	1942	PRADCHAYA		PIAJAN	TH		0	2	NULL	NULL
+3467	1943	Rashid		Farooq	PK		1	1	NULL	NULL
+3468	1944	David		Geis	DE		1	1	NULL	NULL
+3469	1945	zhangdong		ouyang	CN		1	1	NULL	NULL
+3470	1946	Hilal		Ahmad	IN		1	1	NULL	NULL
+3471	1947	Niko		Tratnik	SI		1	1	NULL	NULL
+3472	1947	Dong		Ye	US		0	2	NULL	NULL
+3473	1948	Emanuele		Munarini	IT		1	1	NULL	NULL
+3474	1949	Narayanan		Narayanan	IN	https://math.iitm.ac.in/naru	1	1	NULL	NULL
+3475	1949	Suchismita		Mishra	IN		0	2	NULL	NULL
+3476	1949	Suresh		Dara	IN		0	3	NULL	NULL
+3477	1949	Zsolt		Tuza	HU		0	4	NULL	NULL
+3478	1950	Vadim	E.	Levit	IL		1	1	NULL	NULL
+3479	1950	Eugen		Mandrescu	IL		0	2	NULL	NULL
+3480	1951	Marcin		Briański	PL		1	1	NULL	NULL
+3481	1951	Adam		Szady	PL		0	2	NULL	NULL
+3482	1952	Akbar		Jahanbani	IR		1	1	NULL	NULL
+3483	1953	Dimitri		Leemans	BE		1	2	NULL	NULL
+3484	1953	Maria Elisa		Fernandes	PT		0	1	NULL	NULL
+3486	1955	Mirko		Petrushevski			1	1	NULL	NULL
+3487	1956	Colin		James III			1	1	NULL	NULL
+3488	1957	Balázs		Patkós			1	1	NULL	NULL
+3493	1955	Riste		Skrekovski			0	2	NULL	NULL
+3490	1958	Margaret		Archibald	ZA	http://orcid.org/0000-0001-5635-6733	1	1	NULL	NULL
+3491	1958	Aubrey		Blecher	ZA		0	2	NULL	NULL
+3492	1958	Arnold		Knopfmacher	ZA		0	3	NULL	NULL
+3494	1959	Terry S.		Griggs	GB		1	1	NULL	NULL
+3495	1959	Thomas A.		McCourt	AU		0	2	NULL	NULL
+3496	1959	Jozef		Širáň	GB		0	3	NULL	NULL
+3497	1960	S		Prabhu	IN	https://orcid.org/0000-0002-1922-910X	1	1	NULL	NULL
+3498	1960	Y.		Sherlin Nisha	IN		0	2	NULL	NULL
+3499	1960	Michael		Cary	US		0	3	NULL	NULL
+3500	1960	M.		Arulperumjothi	IN		0	4	NULL	NULL
+3501	1960	Xuli		Qi	CN		0	5	NULL	NULL
+3502	1961	Audace Amen Vioutou		Dossou-Olory	ZA		1	1	NULL	NULL
+3503	1962	Anand Ephremnath		A	IN		1	0	NULL	NULL
+3504	1963	Harsha		Arora			1	1	NULL	NULL
+3505	1964	Mojtaba		Jazaeri	IR		1	2	NULL	NULL
+3506	1964	Edwin R.		van Dam	NL		0	1	NULL	NULL
+3507	1965	Benedek		Schultz	HU		1	1	NULL	NULL
+3508	1965	Jenő		Szirmai	HU		0	2	NULL	NULL
+3509	1966	Announcement		​	SI		1	1	NULL	NULL
+3554	1993	Djoko		Suprijanto	ID		1	1	NULL	NULL
+3511	1968	Announcement		​	SI		1	1	NULL	NULL
+3512	1969	Carlo		Petronio	IT	http://people.dm.unipi.it/petronio/	1	1	NULL	NULL
+3513	1970	Arjana		Žitnik	SI		1	1	NULL	NULL
+3514	1970	Tomaž		Pisanski			0	2	NULL	NULL
+3515	1970	Sara	Sabrina	Zemljič			0	3	NULL	NULL
+3516	1970	Jurij		Kovič			0	4	NULL	NULL
+3517	1971	Catarina		Avelino	PT		1	1	NULL	NULL
+3519	1973	Ali		Behtoei			1	2	NULL	NULL
+3520	1973	Mahsa		Khatibi			0	1	NULL	NULL
+3521	1973	Fatemeh		Attarzadeh			0	3	NULL	NULL
+3522	1974	Mohsen		Ghasemi	IR		1	1	NULL	NULL
+3524	1976	Brahim		Chaourar			1	1	NULL	NULL
+3529	1981	Jing		Wang	CN		1	1	NULL	NULL
+3528	1980	Shunzhe		Zhang	CN		1	1	NULL	NULL
+3527	1979	Audace Amen Vioutou		Dossou-Olory	ZA		1	1	NULL	NULL
+3530	1981	Yuanqiu		Huang	CN		0	2	NULL	NULL
+3531	1982	Michael		Cary			1	1	NULL	NULL
+3534	1985	Kashyap		Rajeevsarathy	IN		1	1	NULL	NULL
+3533	1984	Hafiz	Usman	Afzal			1	1	NULL	NULL
+3535	1985	Siddhartha		Sarkar	IN		0	2	NULL	NULL
+3536	1985	Sivaramakrishnan		Lakshmivarahan	US		0	3	NULL	NULL
+3537	1985	Pawan	Kumar	Aurora	IN		0	4	NULL	NULL
+3538	1986	Nela		Milošević	ME		1	2	NULL	NULL
+3539	1986	Aleksandra		Kostić	RS		0	1	NULL	NULL
+3540	1986	Zoran	Z.	Petrović	RS		0	3	NULL	NULL
+3541	1987	Chang	Chang	Dong	CN		1	1	NULL	NULL
+3542	1987	Ji	Xiang	Meng			0	2	NULL	NULL
+3543	1987	Juan		Liu			0	3	NULL	NULL
+3544	1988	Duško		Jojić	BA		1	1	NULL	NULL
+3545	1989	César		Hernández Cruz	MX		1	3	NULL	NULL
+3546	1989	Germán		Benítez Bobadilla	MX		0	1	NULL	NULL
+3547	1989	Hortensia		Galeana Sánchez	MX		0	2	NULL	NULL
+3548	1990	Jianwei		Du			1	1	NULL	NULL
+3549	1991	Chao		Yang	CN		1	1	NULL	NULL
+3550	1991	Han		Ren	CN		0	2	NULL	NULL
+3551	1992	Wei		Meng	CN		1	1	NULL	NULL
+3552	1992	Guifang		Yang	CN		0	2	NULL	NULL
+3553	1992	Jiakuan		Lu	CN		0	3	NULL	NULL
+3555	1994	Seyed Morteza		Mirafzal	IR		1	1	NULL	NULL
+3556	1995	chj		zhao			1	1	NULL	NULL
+3557	1996	Alessandro		Siciliano	IT		1	1	NULL	NULL
+3558	1996	Tim		Penttila	AU		0	2	NULL	NULL
+3560	1997	Marston		Conder	NZ		1	1	NULL	NULL
+3561	1997	Asia		Ivić Weiss	CA		0	2	NULL	NULL
+3562	1997	Aleksander		Malnič			0	3	NULL	NULL
+3563	1998	Yan		Yang	CN		1	2	NULL	NULL
+3564	1998	Xia		Guo	CN		0	1	NULL	NULL
+3569	2001	haji mohammad		Mohammadinejad			1	1	NULL	NULL
+3566	2000	Aiyuan		Tao	CN		1	3	NULL	NULL
+3567	2000	Ce		Shi	CN		0	1	NULL	NULL
+3568	2000	Ling		Jiang	CN		0	2	NULL	NULL
+3570	2001	omid		Rabiei Motlagh2			0	2	NULL	NULL
+3571	2001	mohammad		darvishi			0	3	NULL	NULL
+3576	2005	Julian	D	Allagan	US		1	1	NULL	NULL
+3574	2004	Huanyin		Chen	CN		1	1	NULL	NULL
+3575	2004	Marjan		Sheibani	IR		0	2	NULL	NULL
+3578	2007	Tina		Novak	SI		1	1	NULL	NULL
+3579	2007	Janez		Žerovnik	SI		0	2	NULL	NULL
+3580	2008	Rajat	Kanti	Nath			1	1	NULL	NULL
+3581	2008	Walaa	Nabil Taha	Fasfous			0	2	NULL	NULL
+3582	2008	Kinkar	Chandra	Das			0	3	NULL	NULL
+3594	2015	Fu-Tao		Hu			1	1	NULL	NULL
+3584	2010	HAMZA		SI KADDOUR	FR		1	3	NULL	NULL
+3585	2010	JAMEL		DAMMAK	TN		0	1	NULL	NULL
+3586	2010	Gérard		LOPEZ	FR		0	2	NULL	NULL
+3587	2011	Guang		Li	CN		1	1	NULL	NULL
+3588	2011	Huye		Chen	CN		0	2	NULL	NULL
+3589	2011	Zaiping		Lu	CN		0	3	NULL	NULL
+3590	2012	ezzat	ramadan	hassan	SA		1	1	NULL	NULL
+3591	2013	Bhanupriya		C K	IN		1	1	NULL	NULL
+3592	2013	Sunitha		M S	IN		0	2	NULL	NULL
+3593	2014	Refik		Keskin	TR		1	1	NULL	NULL
+3595	2016	zheng		mingliang	CN		1	1	NULL	NULL
+3596	2017	Mohammad		Hamidi			1	1	NULL	NULL
+3597	2018	Maurizio		Imbesi	IT		1	1	NULL	NULL
+3598	2018	Monica		La Barbiera	IT		0	2	NULL	NULL
+3599	2018	Santo		Saraceno			0	3	NULL	NULL
+3600	2019	Mark		Budden	US	https://agora.cs.wcu.edu/~mbudden/	1	1	NULL	NULL
+3601	2020	Somasundaram		K	IN		1	1	NULL	NULL
+3602	2021	Martin		Winter			1	1	NULL	NULL
+3603	2022	Ana		Klobučar	HR		1	2	NULL	NULL
+3604	2022	Antoaneta		Klobučar			0	1	NULL	NULL
+3605	2023	Nasrin		Soltankhah	IR		1	2	NULL	NULL
+3606	2023	Hanieh		Amjadi	IR		0	1	NULL	NULL
+3607	2024	Darlison		Nyirenda	ZA		1	1	NULL	NULL
+3608	2024	Beaullah		Mugwangwavari	ZA		0	2	NULL	NULL
+3609	2025	Robin		Gaudreau	CA		1	1	NULL	NULL
+3610	2026	chj		zhao			1	1	NULL	NULL
+3611	2027	Ali		Ahmad	SA		1	1	NULL	NULL
+3612	2027	Kashif		Elahi	SA		0	2	NULL	NULL
+3613	2027	Muhammad Ahsan		Asim	SA		0	3	NULL	NULL
+3614	2027	Roslan		Hasni	MY		0	4	NULL	NULL
+3615	2028	Zülfükar		Saygı			1	1	NULL	NULL
+3616	2029	Ilya		Mednykh	RU		1	2	NULL	NULL
+3617	2029	Lilya		Grunwald	RU		0	1	NULL	NULL
+3618	2030	Azam		Babai	IR		1	2	NULL	NULL
+3619	2031	Vladimir		Grujić	RS		1	3	NULL	NULL
+3620	2031	Marko		Pešović	RS		0	1	NULL	NULL
+3621	2031	Tanja		Stojadinović	RS		0	2	NULL	NULL
+3622	2030	Khadijeh		Fathalikhani	IR		0	1	NULL	NULL
+3623	2030	Sara		Sabrina Zemljic	SI		0	3	NULL	NULL
+3625	2033	Jasna		Prezelj	SI		1	1	NULL	NULL
+3626	2033	Fabio		Vlacci	IT		0	2	NULL	NULL
+3627	2034	Wasim		Abbas	KR		1	1	NULL	NULL
+3628	2034	Mitsugu		Hirasaka	KR		0	2	NULL	NULL
+3629	2035	Hossam		A Ghany	EG		1	0	NULL	NULL
+3636	2038	Tao		Cheng			0	1	NULL	NULL
+3665	2051	Lokesh	S.	Basavaraju	IN		1	1	NULL	NULL
+3635	2038	Lihua		Feng	CN		1	2	NULL	NULL
+3637	2038	Guihai		Yu			0	3	NULL	NULL
+3638	2038	Chi		Zhang			0	4	NULL	NULL
+3639	1526	Tomislav		Došlić			0	1	NULL	NULL
+3640	1526	Riste		Škrekovski			0	3	NULL	NULL
+3641	2039	Simona		Bonvicini	IT		1	1	NULL	NULL
+3642	2039	Andrea		Vietri	IT		0	2	NULL	NULL
+3643	2040	Carlos	Rafael	Carpintero	CO		1	1	NULL	NULL
+3644	2041	Jurij		Kovič	SI		1	1	NULL	NULL
+3645	2041	Aleksander		Simonič			0	2	NULL	NULL
+3650	2044	McCabe	James	Olsen	US	https://sites.google.com/view/mccabeolsenmath	1	2	NULL	NULL
+3647	2043	Xuhui		Peng	CN		1	2	NULL	NULL
+3648	2043	Jinlian		Zhang	CN		0	1	NULL	NULL
+3649	2043	Yichao		Chen	CN		0	3	NULL	NULL
+3651	2044	Eric		Katz	US	https://people.math.osu.edu/katz.60/	0	1	NULL	NULL
+3652	2045	Haiyan		Chen	CN		1	1	NULL	NULL
+3653	2045	Yanan		Zhang			0	2	NULL	NULL
+3654	2046	Ioannis		Ivrissimtzis	GB		0	1	NULL	NULL
+3655	2046	David		Singerman	GB		1	2	NULL	NULL
+3656	2046	James		Strudwick	GB		0	3	NULL	NULL
+3657	2047	Djourdem		Habib	DZ		1	1	NULL	NULL
+3663	2049	Stephen		Glasby	AU	http://www.maths.uwa.edu.au/~glasby/	1	1	NULL	NULL
+3659	2048	Ying		Wang	CN		1	1	NULL	NULL
+3660	2048	Yiqiao		Wang	CN		0	2	NULL	NULL
+3661	2048	Shuyu		Cui	CN		0	3	NULL	NULL
+3662	2048	Weifan		Wang			0	4	NULL	NULL
+3664	2050	Liqun		Pu	CN		1	1	NULL	NULL
+3666	2051	Kishori	P	Narayankar	IN		0	2	NULL	NULL
+3667	2051	Bergeena		Bilha Raju			0	3	NULL	NULL
+3668	2051	Zeyad		Mohammed Abed	IN		0	4	NULL	NULL
+3669	2052	Merce		Mora	ES	https://mat.upc.edu/en/people/merce.mora	1	6	NULL	NULL
+3670	2052	Mercè		Claverol			0	1	NULL	NULL
+3671	2052	Alfredo		García	ES		0	2	NULL	NULL
+3672	2052	Gregorio		Hernández	ES		0	3	NULL	NULL
+3673	2052	Carmen		Hernando	ES		0	4	NULL	NULL
+3674	2052	Montserrat		Maureso	ES		0	5	NULL	NULL
+3675	2052	Javier		Tejel	ES		0	7	NULL	NULL
+3676	2053	Qi		Yan			1	1	NULL	NULL
+3677	2053	Xian	An	Jin	CN		0	2	NULL	NULL
+3678	2054	Teerapong		Suksumran	TH		1	1	NULL	NULL
+3679	2054	Tanakorn		Udomworarat	TH		0	2	NULL	NULL
+3683	2058	Anand	Kumar	Tiwari	IN		1	1	NULL	NULL
+3684	2059	Ali		Gholami Rudi	IR	http://nit.rudi.ir/	1	1	NULL	NULL
+3685	2060	mojtaba		ghasemi	IR		1	1	NULL	NULL
+3686	2061	mojtaba		ghasemi	IR		1	2	NULL	NULL
+3687	2061	Kobra		niazi	IR		0	1	NULL	NULL
+3688	2062	Gabor		Domokos	HU		1	0	NULL	NULL
+3689	2063	Ashish	K	Upadhyay	IN		1	2	NULL	NULL
+3690	2063	Debashis		Bhowmik	IN		0	1	NULL	NULL
+3692	2065	Asir		T	IN		1	1	NULL	NULL
+3693	2065	RABIKKA		V	IN		0	2	NULL	NULL
+3694	2065	HUADONG		SU	CN		0	3	NULL	NULL
+3695	2066	Juan		Rada	CO		1	3	NULL	NULL
+3696	2066	Roberto		Cruz			0	1	NULL	NULL
+3697	2066	Juan		Monsalve			0	2	NULL	NULL
+3699	2068	Charlotte		Brennan	ZA		1	1	NULL	NULL
+3700	2068	Margaret		Archibald	ZA		0	2	NULL	NULL
+3701	2068	Aubrey		Blecher	ZA		0	3	NULL	NULL
+3702	2068	Arnold		Knopfmacher	ZA		0	4	NULL	NULL
+3703	2069	Ali		Abdian			1	1	NULL	NULL
+3704	2070	Ali		Gholami Rudi	IR	http://nit.rudi.ir/	1	1	NULL	NULL
+3705	2071	Tuğba		MERT	TR		1	1	NULL	NULL
+3706	2072	Mohsen		Ghasemi	IR		1	1	NULL	NULL
+3707	2072	Hamid		Tarakmi	IR		0	2	NULL	NULL
+3708	2072	Habib		Azanchilar	IR		0	3	NULL	NULL
+3709	2072	Ghodratollah		Azadi	IR		0	4	NULL	NULL
+3710	2073	ASIM	PATRA	PATRA	IN		1	1	NULL	NULL
+3711	2074	Alen		Orbanić	SI		1	1	NULL	NULL
+3712	2075	Ion-Denys		Ciorogaru			1	1	NULL	NULL
+3713	2076	Mohammad Reza		Oboudi			1	1	NULL	NULL
+3714	2077	Yingzhi		Tian			1	1	NULL	NULL
+3715	2077	Liqiong		Xu			0	2	NULL	NULL
+3716	2077	Hong-Jian		Lai			0	3	NULL	NULL
+3717	2077	Jixiang		Meng			0	4	NULL	NULL
+3719	2079	Barbara		Ikica			1	1	NULL	NULL
+3720	2080	Angelina	Yan Mui	Chin	MY		1	1	NULL	NULL
+3721	2080	Ming Chyang		Lim	MY		0	2	NULL	NULL
+3722	2080	Siew Hui		Ong			0	3	NULL	NULL
+3723	2081	Aparna		Lakshmanan S	IN		1	2	NULL	NULL
+3724	2081	Anu		V	IN		0	1	NULL	NULL
+3725	2082	Pramod		Pandey			1	1	NULL	NULL
+3726	2083	Ewa		Drgas-Burchardt	PL		1	1	NULL	NULL
+3727	2083	Agata		Drzystek	PL		0	2	NULL	NULL
+3728	2083	Elżbieta		Sidorowicz	PL		0	3	NULL	NULL
+3729	2084	Ahmed		El-Mesady			1	1	NULL	NULL
+3733	2088	Stephen	James	Curran	US		1	1	NULL	NULL
+3734	2088	Richard	M.	Low	US	http://www.richmlow.net/sjsu.html	0	2	NULL	NULL
+3735	2088	Stephen	C.	Locke	US	http://brain.math.fau.edu/locke/	0	3	NULL	NULL
+3736	2089	ADRIAN		VAZQUEZ AVILA	MX		1	1	NULL	NULL
+3737	2090	Kota		Saito	JP		1	1	NULL	NULL
+3738	2091	Juan		Rada			1	1	NULL	NULL
+3739	2092	Dr. Ajay		Kumar			1	1	NULL	NULL
+3740	2093	Dr. Ajay		Kumar			1	1	NULL	NULL
+3741	2094	Deepa		Sinha	IN		1	1	NULL	NULL
+3742	2095	Antonio	M	Oller-Marcén			1	3	NULL	NULL
+3743	2095	José	María	Grau			0	1	NULL	NULL
+3744	2095	Celino		Miguel			0	2	NULL	NULL
+3745	2096	Alfredo		Donno	IT		1	2	NULL	NULL
+3746	2096	Matteo		Cavaleri	IT		0	1	NULL	NULL
+3747	2097	Qiang		SUN	CN		1	1	NULL	NULL
+3748	2098	Vladimir	P.	Korzhik	UA		1	1	NULL	NULL
+3749	2099	ANGSUMAN		DAS	IN		1	1	NULL	NULL
+3750	2099	Arnab		Mandal	IN		0	2	NULL	NULL
+3751	2100	Bo		Deng	CN		1	1	NULL	NULL
+3752	2101	Alexander		Gavrilyuk			1	1	NULL	NULL
+3753	2101	Janos		Vidali			0	2	NULL	NULL
+3754	2101	Jason		Williford			0	3	NULL	NULL
+3755	2102	Esmaiel		Abedi	IR		1	2	NULL	NULL
+3756	2102	Najma		Mosadegh	IR		0	1	NULL	NULL
+3757	2103	Sílvia		Casacuberta	ES		1	1	NULL	NULL
+3758	2104	JOHN		J			1	1	NULL	NULL
+3759	2104	Malchijah Raj		M.S			0	2	NULL	NULL
+3760	2105	Cristina		Ballantine	US		1	1	NULL	NULL
+3761	2105	Mircea		Merca	RO		0	2	NULL	NULL
+3762	2106	Tamás		Héger	HU		1	1	NULL	NULL
+3763	2106	Lisa		Hernandez Lucas	BE		0	2	NULL	NULL
+3764	2107	Ismail	Naci	Cangul	TR	http://ismailnacicangul.com	1	2	NULL	NULL
+3765	2107	Mert	Sinan	OZ	TR		0	1	NULL	NULL
+3766	2108	Khandoker Mohammed	Mominul	Haque	BD		1	1	NULL	NULL
+3767	2108	Umme	Nasreen	Khanam	BD		0	2	NULL	NULL
+3768	2109	Dhilip kumar		K			1	1	NULL	NULL
+3769	2110	Anita		Pasotti	IT		1	2	NULL	NULL
+3770	2110	Simone		Costa	IT		0	1	NULL	NULL
+3771	2110	Marco Antonio		Pellegrini	IT		0	3	NULL	NULL
+3772	2111	Reza		Jafarpour-Golzary	IR		1	1	NULL	NULL
+3773	2112	Masud		Naaseri	DE	http://orcid.org/0000-0002-6201-4876	1	1	NULL	NULL
+3774	2112	seyed mohammad		fattahi khaki	DE		0	2	NULL	NULL
+3775	2113	Brigitte		Servatius	US		1	1	NULL	NULL
+3776	2114	Announcement		​	SI		1	1	NULL	NULL
+3777	2115	ahmet		daşdemir	TR		1	1	NULL	NULL
+3778	2116	Perizat		Beisebay			1	2	NULL	NULL
+3779	2116	Murat		Tilepiev			0	1	NULL	NULL
+3780	2116	Aliya		Aruova			0	3	NULL	NULL
+3781	2116	Erbulat		Akzhigitov			0	4	NULL	NULL
+3782	2117	Announcement		​	SI		1	1	NULL	NULL
+3783	2118	Shengjin		Ji	CN		1	1	NULL	NULL
+3784	2118	Shanhui		Wang	US		0	2	NULL	NULL
+3785	2118	Tilahun		Muche	US		0	3	NULL	NULL
+3786	2118	Sakander		Hayat	CN		0	4	NULL	NULL
+3787	2119	Jiangmin		Pan	CN		1	1	NULL	NULL
+3788	2119	Chao		Wang			0	2	NULL	NULL
+3789	2119	Junjie		Huang			0	3	NULL	NULL
+3790	2120	Gábor		Domokos	HU		0	1	NULL	NULL
+3791	1560	Tudor		Zamfirescu	RO		0	2	NULL	NULL
+3792	2121	József		Osztenyi	HU		1	1	NULL	NULL
+3793	2122	Jin-Xin		Zhou	CN		1	3	NULL	NULL
+3794	2123	Rajat	Kanti	Nath			1	2	NULL	NULL
+3795	2123	Monalisha		Sharma			0	1	NULL	NULL
+3796	2124	Carol		Zamfirescu	BE		1	1	NULL	NULL
+3797	2125	Daniele		Bartoli	IT		1	1	NULL	NULL
+3798	2126	David		Dolžan	SI		1	1	NULL	NULL
+3799	2126	Gabriel		Verret	NZ		0	2	NULL	NULL
+3800	2127	Mahmoud		Benkhalifa	AE		1	1	NULL	NULL
+3801	2128	Eric		Bucher	US		1	1	NULL	NULL
+3802	2128	John		Machacek	CA		0	2	NULL	NULL
+3803	2128	Evan		Runburg			0	3	NULL	NULL
+3804	2128	Abe		Yeck			0	4	NULL	NULL
+3805	2128	Ethan		Zwede			0	5	NULL	NULL
+3806	2129	Junyang		Zhang	CN		1	1	NULL	NULL
+3807	2129	Kan		Hu			0	2	NULL	NULL
+3808	2129	Young Soo		Kwon			0	3	NULL	NULL
+3809	2130	Michal		Staš	SK	http://web.tuke.sk/fei-km/en/home	1	1	NULL	NULL
+3810	2131	shude		long	CN		1	1	NULL	NULL
+3811	2131	Han		Ren			0	2	NULL	NULL
+3812	2132	ARUN PRAKASH		K	IN		1	1	NULL	NULL
+3813	2132	Radhika		K			0	2	NULL	NULL
+3814	2133	Mihai		TALMACIU	RO		1	1	NULL	NULL
+3815	2134	Bruce		Richter	CA		1	1	NULL	NULL
+3816	2135	Chawalit		Boonpok			1	1	NULL	NULL
+3864	2163	Shaofei		Du	CN		0	1	NULL	NULL
+3818	2137	Daniele		Bartoli	IT		1	1	NULL	NULL
+3819	2137	Corrado		Zanella	IT		0	2	NULL	NULL
+3820	2137	Ferdinando		Zullo	IT		0	3	NULL	NULL
+3821	2138	Francesco		Pavese			1	4	NULL	NULL
+3824	2138	Angela		Aguglia			0	1	NULL	NULL
+3825	2138	Antonio		Cossidente			0	2	NULL	NULL
+3826	2138	Giuseppe		Marino			0	3	NULL	NULL
+3827	2138	Alessandro		Siciliano			0	5	NULL	NULL
+3828	2141	Özen		ÖZER	TR		1	4	NULL	NULL
+3829	2141	Hana		ALI-PACHA	DZ		0	1	NULL	NULL
+3830	2141	Naima		HADJ-SAID	DZ		0	2	NULL	NULL
+3831	2141	Adda		ALI-PACHA	DZ		0	3	NULL	NULL
+3852	2155	zhaoxiang		li			1	1	NULL	NULL
+3833	2143	Hülya		GÜN BOZOK	TR		1	1	NULL	NULL
+3834	2144	Eric	Sopena	Sopena	FR		1	1	NULL	NULL
+3835	2144	Mariusz		Wozniak	PL		0	2	NULL	NULL
+3842	2148	Yingli		Kang	CN		0	2	NULL	NULL
+3841	2148	Ligang		Jin	CN		1	1	NULL	NULL
+3839	2147	Li		Cui	CN		0	1	NULL	NULL
+3840	2147	Jin-Xin		Zhou	CN		1	2	NULL	NULL
+3843	2149	Morteza		Faghani	IR		0	1	NULL	NULL
+3844	2149	Ehsan		Pourhadi	IR		1	2	NULL	NULL
+3850	2154	Gábor	Péter	Nagy	HU	http://www.math.u-szeged.hu/~nagyg/	1	2	NULL	NULL
+3848	2152	Yongge		Tian	CN		1	1	NULL	NULL
+3851	2154	Gábor		Korchmáros	IT		0	1	NULL	NULL
+3853	2156	Antonio	M	Oller-Marcen	ES	http://cud.unizar.es/aollerm	1	1	NULL	NULL
+3854	2157	Benedek		Nagy			1	1	NULL	NULL
+3856	2159	Seyed Mohammad		Fattahi khaki			1	1	NULL	NULL
+3857	2160	Nataliia	Bohdanivna	Luno	UA	https://orcid.org/0000-0002-3280-0358	1	1	NULL	NULL
+3867	2166	Klavdija		Kutnar	SI		1	1	NULL	NULL
+3859	2161	Willem	H.	Haemers	NL		0	2	NULL	NULL
+3860	2161	Ebrahim		Ghorbani			0	1	NULL	NULL
+3861	2161	Hamid Reza		Maimani			0	3	NULL	NULL
+3862	2161	Leila		Parsaei Majd	IR		1	4	NULL	NULL
+3866	2165	Feng Sui		Liu	CN		1	1	NULL	NULL
+3868	2166	Dragan		Marušič	SI		0	2	NULL	NULL
+3869	2166	Tomaž		Pisanski	SI		0	3	NULL	NULL
+3870	2167	Małgorzata		Śleszyńska-Nowak	PL		1	2	NULL	NULL
+3871	2167	Michał		Dębski	CZ		0	1	NULL	NULL
+3872	2168	Yaroslav		Shitov	RU		1	1	NULL	NULL
+3873	2169	Bernardo Gabriel		Rodrigues	ZA		1	1	NULL	NULL
+3874	2169	Xavier		Mbaale			0	2	NULL	NULL
+3875	1937	Juan	Ignacio	Garcı́a-Garcı́a			0	1	NULL	NULL
+3876	1937	Daniel		Marı́n-Aragón			0	2	NULL	NULL
+3877	1937	José	Carlos	Rosales			0	4	NULL	NULL
+3878	1937	Alberto		Vigneron-Tenorio			0	5	NULL	NULL
+3879	2170	Rusen		Li	CN		1	1	NULL	NULL
+3880	2171	Arseniy		Sheydvasser	US	http://arseniysheydvasser.com	1	1	NULL	NULL
+3881	2172	Daniele		Dona			1	1	NULL	NULL
+3882	2173	Monika		Pilsniak	PL		1	1	NULL	NULL
+3884	2175	Moussa		Ahmia	DZ		1	1	NULL	NULL
+3885	2176	Ivan		Kaygorodov	BR		1	1	NULL	NULL
+3886	2176	Mykola		Khrypchenko			0	2	NULL	NULL
+3887	2176	Yury		Popov			0	3	NULL	NULL
+3888	2177	Josef		Slapal	CZ	https://www.vutbr.cz/en/people/josef-slapal-1671	1	1	NULL	NULL
+4070	2275	Qiqi		Xiao			0	1	NULL	NULL
+3890	2179	chj		zhao			1	1	NULL	NULL
+3894	2182	Yian		Xu	CN		1	3	NULL	NULL
+3892	2181	Zhilin		Zhang	CN		1	1	NULL	NULL
+3893	2181	Shenglin		Zhou	CN		0	2	NULL	NULL
+3895	2182	Michael		Giudici	AU		0	1	NULL	NULL
+3896	2182	Luke		Morgan	SI		0	2	NULL	NULL
+3897	2183	Aubrey		Blecher	ZA		1	1	NULL	NULL
+3898	2184	Chao		Yang	CN		1	1	NULL	NULL
+3899	2184	Han		Ren	CN		0	2	NULL	NULL
+3900	2184	Erling		Wei	CN		0	3	NULL	NULL
+3901	2185	László		Németh	HU		1	1	NULL	NULL
+3902	2186	Chinnaraji		Annamalai	IN		1	1	NULL	NULL
+3905	2189	Vedran		Krčadinac	HR		1	1	NULL	NULL
+3904	2188	Fazal		Hayat	CN		1	1	NULL	NULL
+3906	2190	Hery		Randriamaro	MG		1	1	NULL	NULL
+3907	2191	Ahmed		Salem	SA		1	1	NULL	NULL
+3908	2192	Shuchao		Li	CN		0	1	NULL	NULL
+3909	2192	Shujing		Wang	CN		1	2	NULL	NULL
+3910	2193	Mark	S.	MacLean	US	https://orcid.org/0000-0002-1727-1777	1	1	NULL	NULL
+3911	2193	Štefko		Miklavič	SI		0	2	NULL	NULL
+3912	2194	Eric	Pauli	Pérez	MX		1	3	NULL	NULL
+3913	2194	Luis		Montejano	MX		0	2	NULL	NULL
+3914	2194	Javier		Bracho	MX		0	1	NULL	NULL
+3915	2194	Jorge	Luis	Ramírez-Alfonsín	FR		0	4	NULL	NULL
+3916	2195	Ilya		Zhdanovskiy	RU		1	0	NULL	NULL
+3917	2196	Klavdija		Kutnar	SI		1	1	NULL	NULL
+3918	2196	Dragan		Marušič	SI		0	2	NULL	NULL
+3919	2196	Tomaž		Pisanski	SI		0	3	NULL	NULL
+3920	2197	keyvan		salehi			1	1	NULL	NULL
+3921	2198	Przemysław		Gordinowicz	PL		1	1	NULL	NULL
+3922	2198	Paweł		Twardowski			0	2	NULL	NULL
+3923	2199	Ebrahim		Ghorbani	IR		1	2	NULL	NULL
+3924	2199	Mohammad		Farrokhi Derakhshandeh Ghouchan			0	1	NULL	NULL
+3925	2199	Hamid Reza		Maimani			0	3	NULL	NULL
+3926	2199	Farhad		Rahimi Mahid			0	4	NULL	NULL
+3927	2200	Yury		Volkov			1	1	NULL	NULL
+3928	2201	Mariusz		Żynel	PL		1	1	NULL	NULL
+3929	2202	Akihiro		Higashitani			1	3	NULL	NULL
+3930	2202	Ryoya		Fukasaku			0	1	NULL	NULL
+3931	2202	Michitaka		Furuya			0	2	NULL	NULL
+3932	2203	Abasalt		Bodaghi			1	1	NULL	NULL
+3933	2203	Behrouz		Shojaee	IR		0	2	NULL	NULL
+3934	2203	Massoud		Amini	IR		0	3	NULL	NULL
+3935	2204	Bowen		Yao	CN		1	2	NULL	NULL
+3936	2204	Chunwei		Song			0	1	NULL	NULL
+3937	2205	Zheng-Jiang		Xia			1	1	NULL	NULL
+3938	2205	Zhen-Mu		Hong			0	2	NULL	NULL
+3939	2206	Yaser	Hassanein	Ragheb Sayed	EG		1	3	NULL	NULL
+3940	2206	Osama	Rashed	Sayed	EG		0	1	NULL	NULL
+3941	2206	El-Sayed		El-Sanusy	EG		0	2	NULL	NULL
+3943	2208	Lidan		Pei	CN		1	1	NULL	NULL
+3944	2208	Xiangfeng		Pan	CN		0	2	NULL	NULL
+3949	2211	Somayeh		Grailoo	IR		1	1	NULL	NULL
+3946	2210	khadijeh		abolpour	IR		1	1	NULL	NULL
+3947	2210	mohammad mehdi		zahedi	IR		0	2	NULL	NULL
+3948	2210	marzieh		shamsizadeh	IR		0	3	NULL	NULL
+3950	2211	Abolfazl		Niazi Motlagh	IR		0	2	NULL	NULL
+3951	2211	Abasalt		Bodaghi	IR		0	3	NULL	NULL
+3952	2212	Xiao-Dong		ZHANG	CN		1	5	NULL	NULL
+3953	2212	Vladimir		Bozovic	ME		0	1	NULL	NULL
+3954	2212	Zana		Kovijanic Vukicevic	ME		0	2	NULL	NULL
+3955	2212	Goran		Popivoda	ME		0	3	NULL	NULL
+3956	2212	Rong-Ying		Pan	CN		0	4	NULL	NULL
+3957	2213	Edy	Tri	Baskoro	ID		1	2	NULL	NULL
+3958	2213	Yusuf		Hafidh	ID		0	1	NULL	NULL
+3959	2214	Tomasz		Bartnicki	PL	https://www.im.uz.zgora.pl/en/pracownicy/pokaz.php?id=TBartnicki	1	1	NULL	NULL
+3960	2214	Zofia		Miechowicz			0	2	NULL	NULL
+3961	2215	Mathew	Olajiire	Aibinu	ZA	https://www.researchgate.net/profile/Mathew_Aibinu	1	1	NULL	NULL
+3962	2216	Muhammad	Khalid	Mahmood	PK	http://faculty.m-khalid-mahmood.pu.edu.pk/	1	1	NULL	NULL
+3963	2217	Shuchao		Li	CN		1	1	NULL	NULL
+3964	2217	Wanting		Sun	CN		0	2	NULL	NULL
+3965	2217	Minjie		Zhang	CN		0	3	NULL	NULL
+3966	2218	Alonso		Castillo-Ramirez		https://sites.google.com/udg.mx/castillo-ramirez	1	1	NULL	NULL
+3967	2219	Karin		Cvetko-Vah	SI		1	1	NULL	NULL
+3968	2219	Jens		Hemelaer	BE		0	2	NULL	NULL
+3969	2219	Jonathan		Leech	US		0	3	NULL	NULL
+3970	2220	Jicheng		Ma	CN		1	2	NULL	NULL
+3971	2220	Jing Jian		Li	CN		0	1	NULL	NULL
+3972	2221	Ligong		Wang	CN	http://orcid.org/0000-0002-6160-1761	1	2	NULL	NULL
+3973	2221	Lin-Peng		Zhang	CN		0	1	NULL	NULL
+3974	2222	Roman		Kotlyarov	RU		1	3	NULL	NULL
+3975	2222	Boris		Lobasenko	RU		0	1	NULL	NULL
+3976	2222	Dmitry		Borodulin	RU		0	2	NULL	NULL
+3977	2222	Yana		Golovacheva	RU		0	4	NULL	NULL
+3978	2222	Igor		Bakin	RU		0	5	NULL	NULL
+3979	2223	Buddhadev		Pal	IN	https://orcid.org/0000-0002-1407-1016	1	1	NULL	NULL
+3980	2224	Carol		Zamfirescu	BE		1	3	NULL	NULL
+3981	2225	Dipendu		Maity	IN		1	1	NULL	NULL
+3982	2224	Gábor		Wiener			0	1	NULL	NULL
+3983	2224	Maho		Yokota			0	2	NULL	NULL
+3984	2226	Alfredo		García Olaverri	ES		1	1	NULL	NULL
+3985	2226	Alexander		Pilz	AT		0	3	NULL	NULL
+3986	2226	Javier		Tejel Altarriba	ES		0	2	NULL	NULL
+3987	2227	Michael A.		Henning	ZA		1	1	NULL	NULL
+3988	2227	Douglas F.		Rall	US		0	2	NULL	NULL
+3989	2228	Lan	T	Nguyen	US		1	1	NULL	NULL
+3990	2229	Mary		Shalet T J	IN		1	3	NULL	NULL
+3991	2229	Manoj		Changat	IN		0	1	NULL	NULL
+3992	2229	Prasanth		G. Narasimha-Shenoi	IN		0	2	NULL	NULL
+3993	2229	Bijo		S. Anand	IN		0	4	NULL	NULL
+4144	2308	Michel		Mollard	FR		1	1	NULL	NULL
+3995	2231	Mohammad Reza		Oboudi			1	1	NULL	NULL
+3996	2232	Mohsen		Ghasemi	IR		1	1	NULL	NULL
+3997	2233	Helmut		Prodinger			1	1	NULL	NULL
+3998	2234	JOHN		J	IN		1	1	NULL	NULL
+3999	2235	Ligang		Jin	CN		1	1	NULL	NULL
+4000	2235	Yingli		Kang	CN		0	2	NULL	NULL
+4001	2235	Peipei		Liu	CN		0	3	NULL	NULL
+4002	2235	Yingqian		Wang	CN		0	4	NULL	NULL
+4003	2236	Kristiana		Wijaya	ID		1	1	NULL	NULL
+4004	2237	Sedat		Temel	TR		1	1	NULL	NULL
+4005	2238	Toufik		Mansour	IL	http://www.math.haifa.ac.il/toufik	1	1	NULL	NULL
+4006	2239	Tomoki		Nakamigawa	JP		1	1	NULL	NULL
+4007	2240	Mostafa		Tavakoli			1	1	NULL	NULL
+4008	2240	Tomislav		Došlić	HR		0	2	NULL	NULL
+4009	2241	Akram		Mahmoodi	IR		1	1	NULL	NULL
+4010	2242	Adam		Tyc	PL	https://www.impan.pl/en/sites/atyc/home/publications-and-preprints	1	1	NULL	NULL
+4011	2243	Hong-Jian		Lai	US	http://www.math.wvu.edu/~hlai2/	1	1	NULL	NULL
+4012	2243	Zhen-Mu		Hong	CN		0	2	NULL	NULL
+4013	2243	Zheng-Jiang		Xia	CN		0	3	NULL	NULL
+4014	2243	Ruifang		Liu	PK		0	4	NULL	NULL
+4021	2247	Alaattin		AKYAR	TR		1	1	NULL	NULL
+4020	2246	İsmet		YILDIZ	TR	http://orcid.org/0000-0001-7544-4835	0	2	NULL	NULL
+4019	2246	Alaattin		AKYAR	TR		1	1	NULL	NULL
+4022	2247	İsmet		YILDIZ	TR		0	2	NULL	NULL
+4023	2248	Darij		Grinberg	US	http://www.cip.ifi.lmu.de/~grinberg/	1	1	NULL	NULL
+4024	2249	mohammed	khalaf	khalaf	EG		1	1	NULL	NULL
+4025	2250	Naoki		Matsumoto			1	1	NULL	NULL
+4026	2250	Minako		Tanaka			0	2	NULL	NULL
+4028	2252	Jaroslav		Guričan	SK		1	1	NULL	NULL
+4029	2252	Heghine		Ghumashyan	AM		0	2	NULL	NULL
+4033	2254	Han		Ren	CN		0	2	NULL	NULL
+4036	2257	Jay		Zimmerman	US		1	1	NULL	NULL
+4032	2254	shude		long	CN		1	1	NULL	NULL
+4035	2256	Takao		Komatsu			1	1	NULL	NULL
+4037	2257	Coy	L.	May	US		0	2	NULL	NULL
+4038	2258	Hanna		Furmańczyk	PL		1	2	NULL	NULL
+4039	2258	Janusz		Dybizbański	PL		0	1	NULL	NULL
+4040	2258	Vahan		Mkrchyan	IT		0	3	NULL	NULL
+4041	2259	Behnaz		Tolue			1	1	NULL	NULL
+4042	2260	Brian	Tianyao	Chan			1	1	NULL	NULL
+4043	2261	Ashraf		Daneshkhah			1	1	NULL	NULL
+4044	2262	Lili		Mu			1	3	NULL	NULL
+4045	2262	Tommy	Wuxing	Cai			0	1	NULL	NULL
+4046	2262	Yue		Chen			0	2	NULL	NULL
+4050	2264	zhaoxiang		li			1	1	NULL	NULL
+4048	2263	Lixiang		Chen			0	1	NULL	NULL
+4049	2263	Changjiang		Bu			1	2	NULL	NULL
+4051	2265	Asir		T	IN		1	1	NULL	NULL
+4052	2265	Mano		K	IN		0	2	NULL	NULL
+4053	2266	Asir		T	IN		1	1	NULL	NULL
+4054	2266	Mano		K			0	2	NULL	NULL
+4055	2267	Nejib		Ghanmi			1	1	NULL	NULL
+4056	2268	On-Hei Solomon		Lo	CN		1	1	NULL	NULL
+4057	2268	Jens	M.	Schmidt	DE		0	2	NULL	NULL
+4058	2268	Nico		Van Cleemput	BE		0	3	NULL	NULL
+4059	2268	Carol	T.	Zamfirescu	BE		0	4	NULL	NULL
+4060	2269	Azam		Babai	IR		1	1	NULL	NULL
+4062	2271	Srinivasa Rao		Kola	IN		1	1	NULL	NULL
+4063	2271	Niranjan		P K	IN		0	2	NULL	NULL
+4064	2271	Balakrishna		Gudla	IN		0	3	NULL	NULL
+4065	2272	Zheng-Jiang		Xia			1	1	NULL	NULL
+4066	2272	Zhen-Mu		Hong			0	2	NULL	NULL
+4069	2275	Hanyuan		Deng			1	4	NULL	NULL
+4068	2274	Ranjit		Mehatari	IN		1	1	NULL	NULL
+4071	2275	Minyao		Zeng			0	2	NULL	NULL
+4072	2275	Zikai		Tang			0	3	NULL	NULL
+4073	2276	Shapour		Heidarkhani			1	1	NULL	NULL
+4074	2276	Ahmad		Ghobadi			0	2	NULL	NULL
+4075	2277	Susana	Clara	López	ES	http://webgrec.udl.es/webpages/personal/ang/000358_susana.clara.lopez.matematica.udl.cat.html	1	1	NULL	NULL
+4076	2277	Francesc	Antoni	Muntaner-Batle	AU		0	2	NULL	NULL
+4077	2278	Mohammadali		Iranmanesh			1	3	NULL	NULL
+4078	2278	Asieh		Sattari			0	1	NULL	NULL
+4079	2278	Majid		Arezoomand			0	2	NULL	NULL
+4080	2279	nasrin		shirali	IR		1	1	NULL	NULL
+4081	2279	Maryam		Shirali	IR		0	2	NULL	NULL
+4082	2280	Mojgan		Emami			1	1	NULL	NULL
+4083	2280	Ozra		Naserian			0	2	NULL	NULL
+4084	2280	Amir Hossein		Shokouhi			0	3	NULL	NULL
+4085	2281	Shengjin		Ji	CN		1	2	NULL	NULL
+4086	2281	Mengmeng		Liu			0	1	NULL	NULL
+4087	2282	Naoki		Matsumoto			1	1	NULL	NULL
+4088	2282	Atsuki		Nagao	JP		0	2	NULL	NULL
+4089	2283	Léi-Xiǎo-Qiáng(雷晓强)		Léi-Xiǎo-Qiáng(雷晓强)			1	1	NULL	NULL
+4090	2284	Abel		Cabrera Martínez			1	1	NULL	NULL
+4091	2284	Juan Alberto		Rodríguez-Velázquez			0	2	NULL	NULL
+4092	2285	Pham		Hoang Ha	VN		1	1	NULL	NULL
+4093	2286	Daniil		Mamaev	RU	https://chebyshev.spbu.ru/en/people/daniil-mamaev/	1	1	NULL	NULL
+4094	2287	Hou		Yaoping			1	1	NULL	NULL
+4095	2288	Zsolt		Tuza	HU		1	6	NULL	NULL
+4096	2288	Csilla		Bujtás			0	1	NULL	NULL
+4097	2288	Mario		Gionfriddo	IT		0	2	NULL	NULL
+4098	2288	Elena		Guardo	IT		0	3	NULL	NULL
+4099	2288	Lorenzo		Milazzo			0	4	NULL	NULL
+4100	2288	Salvatore		Milici			0	5	NULL	NULL
+4101	2289	Piotr		Karwala	PL		1	1	NULL	NULL
+4102	2290	Abasalt		Bodaghi			1	2	NULL	NULL
+4103	2290	Somaye		Salimi	IR		0	1	NULL	NULL
+4104	2290	Ghasem		Abbasi	IR		0	3	NULL	NULL
+4105	2291	Muhammad Kamran		Siddiqui	PK		1	1	NULL	NULL
+4106	2291	Muhammad Javed Azhar		Khan	PK		0	2	NULL	NULL
+4107	2291	Muhammad		Ibrahim	PK		0	3	NULL	NULL
+4108	2292	Muhammad Faisal		Nadeem	PK		1	2	NULL	NULL
+4109	2292	Ayesha		Shabbir	SA		0	1	NULL	NULL
+4110	2292	Ali		Ovais			0	3	NULL	NULL
+4111	2292	Faraha		Ashraf			0	4	NULL	NULL
+4112	2292	Sumiya		Nasir			0	5	NULL	NULL
+4113	2293	Huawen		Ma	CN		1	1	NULL	NULL
+4114	2294	Dipendu		Maity			1	1	NULL	NULL
+4115	2294	Debashis		Bhowmik	IN		0	2	NULL	NULL
+4116	2294	Ashish	Kumar	Upadhyay	IN		0	3	NULL	NULL
+4117	2294	Bhanu	Pratap	Yadav	IN		0	4	NULL	NULL
+4118	2295	Magdalena		Lampa-Baczynska	PL		1	1	NULL	NULL
+4119	2295	Daniel		Wojcik	PL		0	2	NULL	NULL
+4120	2296	Ricardo	Alberto	Podesta	AR		1	1	NULL	NULL
+4121	2296	Denis	E	Videla			0	2	NULL	NULL
+4125	2298	Álvaro		Martínez-Pérez	ES		1	2	NULL	NULL
+4123	2297	Tayyebeh		Amouzegar	IR		0	1	NULL	NULL
+4124	2297	Kazem		Khashyarmanesh	IR		1	2	NULL	NULL
+4126	2298	Samuel	G.	Corregidor	ES		0	1	NULL	NULL
+4127	2299	Jenő		Szirmai	HU		1	1	NULL	NULL
+4128	2299	Emil		Molnár	HU		0	2	NULL	NULL
+4129	2299	Milica		Stojanovic	RS		0	3	NULL	NULL
+4130	2300	Federico	Giovanni	Infusino	IT		1	1	NULL	NULL
+4131	2301	Florian		Lehner	AT		0	1	NULL	NULL
+4132	2302	Hong-Jian		Lai	US	http://www.math.wvu.edu/~hlai2/	1	1	NULL	NULL
+4133	2302	Liqiong		Xu	CN		0	2	NULL	NULL
+4134	2302	Yingzhi		Tian			0	3	NULL	NULL
+4135	2302	Murong		Xu			0	4	NULL	NULL
+4136	2303	mohammed	khalaf	khalaf			1	1	NULL	NULL
+4137	2304	Zulfukar		SAYGI			1	3	NULL	NULL
+4138	2304	Omer		Egecioglu			0	1	NULL	NULL
+4139	2304	Elif		SAYGI			0	2	NULL	NULL
+4140	2305	Michael		Henning	ZA		1	1	NULL	NULL
+4141	2305	Anders		Yeo	DK		0	2	NULL	NULL
+4142	2306	Guangzhou		Chen	CN	https://orcid.org/0000-0003-1841-4730	1	1	NULL	NULL
+4145	2309	Aparna		Lakshmanan S	IN		1	2	NULL	NULL
+4146	2309	Jismy		Varghese	IN		0	1	NULL	NULL
+4147	2310	Béla		Vizvári			1	4	NULL	NULL
+4148	2310	Gergely		Kovács	HU		0	1	NULL	NULL
+4149	2310	Benedek		Nagy	TR		0	2	NULL	NULL
+4150	2310	Neset	Deniz	Turgay			0	3	NULL	NULL
+4151	2311	Rodyna		Hosny	EG		1	1	NULL	NULL
+4152	2312	Sulphikar		A			1	1	NULL	NULL
+4153	2313	Mohammed		Abu Saleem			1	1	NULL	NULL
+4154	2314	EMIL	DANIEL	SCHWAB	US		1	1	NULL	NULL
+4155	2315	César		Hernández Cruz	MX		1	1	NULL	NULL
+4156	2316	Albo	Carlos	Cavalheiro	BR		1	1	NULL	NULL
+4157	2317	Nikos	E	Apostolakis	US		1	1	NULL	NULL
+4158	2318	Juan	Alberto	Rodriguez-Velazquez	ES	http://deim.urv.cat/~jarodriguez/	1	3	NULL	NULL
+4159	2318	Abel		Cabrera Martinez	ES		0	1	NULL	NULL
+4160	2318	Alejandro		Estrada-Moreno	ES		0	2	NULL	NULL
+4161	2319	Gülşah		Aydın Şekerci			1	2	NULL	NULL
+4162	2319	Melek		Erdoğdu			0	1	NULL	NULL
+4163	2320	Gunnar		Brinkmann			1	1	NULL	NULL
+4164	2321	Marston		Conder	NZ		1	1	NULL	NULL
+4165	2321	Asia		Ivić Weiss	CA		0	2	NULL	NULL
+4166	2321	Aleksander		Malnič	SI		0	3	NULL	NULL
+4167	2322	Péter		Csiba	SK		0	1	NULL	NULL
+4168	2322	László		Németh	HU		1	2	NULL	NULL
+4169	2323	Stanislawa		Kanas	PL		1	1	NULL	NULL
+4170	2324	Giovanni		Zini	IT		1	2	NULL	NULL
+4171	2324	Francesca		Dalla Volta	IT		0	1	NULL	NULL
+4172	2325	Petr		Vojtechovsky	US		1	2	NULL	NULL
+4173	2325	Ales		Drapal	CZ		0	1	NULL	NULL
+4174	1931	Kris		Coolsaet			0	2	NULL	NULL
+4175	1931	Nico		Van Cleemput			0	3	NULL	NULL
+4184	2330	Rasila		V A	IN		1	1	NULL	NULL
+4185	2330	Ambat		Vijayakumar	IN		0	2	NULL	NULL
+4177	2326	Antonio		Cossidente	IT		0	1	NULL	NULL
+4178	2326	Sascha		Kurz	DE		1	2	NULL	NULL
+4179	2326	Giuseppe		Marino	IT		0	3	NULL	NULL
+4180	2326	Francesco		Pavese			0	4	NULL	NULL
+4183	2329	Zoran		Stanić	RS	http://www.matf.bg.ac.rs/~zstanic	1	1	NULL	NULL
+4196	2338	Marialaura		Noce	GB		1	1	NULL	NULL
+4187	2332	Alireza		Abdollahi	IR		1	1	NULL	NULL
+4188	2332	Nilofar		Zakeri	IR		0	2	NULL	NULL
+4189	2333	Akbar		Jahanbani	IR		1	1	NULL	NULL
+4190	2334	Gunnar		Brinkmann	BE		1	1	NULL	NULL
+4191	2335	ARUN PRAKASH		K	IN		1	1	NULL	NULL
+4192	2335	Yamuna		V	IN		0	2	NULL	NULL
+4193	2336	Kirstie	Alice	Asciak	MT		1	1	NULL	NULL
+4194	2336	Jozef		Siran			0	2	NULL	NULL
+4195	2337	Dengju		Ma	CN		1	1	NULL	NULL
+4197	2339	Yang		Liu	US		1	1	NULL	NULL
+4198	2340	Neal		Bushaw	US		1	1	NULL	NULL
+4199	2341	Antoinette		Tripodi	IT		1	4	NULL	NULL
+4200	2341	Mike		Grannell	GB		0	1	NULL	NULL
+4201	2341	Terry		Griggs	GB		0	2	NULL	NULL
+4202	2341	Gianfranco		Lo Faro	IT		0	3	NULL	NULL
+4203	2342	Barbatu		Camelia	RO		1	1	NULL	NULL
+4204	2343	khadijeh		abolpour	IR		1	1	NULL	NULL
+4205	2344	Yinwei		Lin	TW		1	1	NULL	NULL
+4206	2345	Bernardo Gabriel		Rodrigues	ZA		1	1	NULL	NULL
+4210	2349	Sethuraman		G	IN	https://www.researchgate.net/profile/Sethuraman_Guruswamy2	0	1	NULL	NULL
+4208	2347	Arturas		Dubickas	LT		1	1	NULL	NULL
+4209	2348	Grigory		Ryabov	RU		1	1	NULL	NULL
+4211	2349	Murugan		Varadhan	IN	https://www.researchgate.net/profile/Murugan_Varadhan3	1	2	NULL	NULL
+4212	2350	Yong-Chao		Zhang			1	1	NULL	NULL
+4213	2351	Lindsey-Kay		Lauderdale	US		1	1	NULL	NULL
+4214	2351	Lowell		Abrams	US		0	2	NULL	NULL
+4215	2340	Craig		Larson			0	2	NULL	NULL
+4216	2352	Hajime		Tanaka	JP	http://www.math.is.tohoku.ac.jp/~htanaka/	1	3	NULL	NULL
+4217	2352	Eiichi		Bannai	JP		0	1	NULL	NULL
+4218	2352	Etsuko		Bannai	JP		0	2	NULL	NULL
+4219	2352	Yan		Zhu	CN		0	4	NULL	NULL
+4220	2353	Ragukumar		P	IN		1	1	NULL	NULL
+4221	2354	Ramón		Barral Lijó	JP		1	2	NULL	NULL
+4222	2354	Jesús Antonio		Álvarez López	ES		0	1	NULL	NULL
+4223	2354	Hiraku		Nozawa	JP		0	3	NULL	NULL
+4225	2356	Chinnaraji		Annamalai	IN		1	1	NULL	NULL
+4226	2357	Christian		Rubio-Montiel	MX	https://sites.google.com/view/rubio-montiel/	1	1	NULL	NULL
+4227	2358	Angela		Aguglia	IT		1	1	NULL	NULL
+4228	2358	Luca		Giuzzi	IT		0	2	NULL	NULL
+4229	2358	Masaaki		Homma	JP		0	3	NULL	NULL
+4230	2359	K.G.		SUBRAMANIAN	GB		1	4	NULL	NULL
+4231	2359	Nobin		Thomas	IN		0	1	NULL	NULL
+4232	2359	Lisa		Mathew	IN		0	2	NULL	NULL
+4233	2359	Sastha		Sriram	IN		0	3	NULL	NULL
+4236	2362	Darlison		Nyirenda			1	1	NULL	NULL
+4237	2362	Augustine		Munagi			0	2	NULL	NULL
+4238	2362	Abdulaziz		Alanazi			0	3	NULL	NULL
+4239	2363	Madoka		Horie	JP		1	1	NULL	NULL
+4240	2120	Flórián		Kovács	HU		0	2	NULL	NULL
+4241	2120	Zsolt		Lángi	HU		1	3	NULL	NULL
+4242	2120	Krisztina		Regős	HU		0	4	NULL	NULL
+4243	2120	Péter T.		Varga	HU		0	5	NULL	NULL
+4244	2364	Mustafa	Kemal	Ozdemir	TR	http://www.inonu.edu.tr/tr/kemal.ozdemir	1	1	NULL	NULL
+4245	2365	Shou-Jun		Xu	CN		1	3	NULL	NULL
+4246	2365	Jie		Chen			0	1	NULL	NULL
+4247	2365	Jie		Chen			0	2	NULL	NULL
+4248	2366	Akbar		Jahanbani	IR		1	1	NULL	NULL
+4249	2367	Shahid		Nawaz	US		1	1	NULL	NULL
+4250	2367	Salman		Khan			0	2	NULL	NULL
+4252	2369	Dipendu		Maity	IN		1	1	NULL	NULL
+4253	1894	Michael		Giudici	AU		0	1	NULL	NULL
+4254	1894	Gabriel		Verret	NZ		1	2	NULL	NULL
+4255	2370	Patricia	Mariela	Morillas	AR		1	1	NULL	NULL
+4258	2163	Dragan		Marušič			0	3	NULL	NULL
+4262	2301	Gabriel		Verret	NZ		1	2	NULL	NULL
+4260	2373	Mi-Mi		Zhang			1	1	NULL	NULL
+4261	2373	Jin-Xin		Zhou			0	2	NULL	NULL
+4263	1685	Kaoruko		Iwasaki	CA		0	2	NULL	NULL
+4264	2374	Marco		Buratti	IT		1	1	NULL	NULL
+4265	2374	Douglas	Robert	Stinson	CA		0	2	NULL	NULL
+4266	2375	M. R.		Pournaki			1	3	NULL	NULL
+4267	2375	A. Y. M.		Chin			0	1	NULL	NULL
+4268	2375	H. R.		Maimani			0	2	NULL	NULL
+4269	2375	S.		Yassemi			0	4	NULL	NULL
+4270	2376	Xin-Yi		Gao	CN		1	1	NULL	NULL
+4271	2377	Jing		Su	CN		1	1	NULL	NULL
+4272	2377	Hongyu		Wang	CN		0	2	NULL	NULL
+4273	2377	Bing		Yao	CN		0	3	NULL	NULL
+4274	1852	Rafał		Kalinowski	PL		1	2	NULL	NULL
+4275	1852	Monika		Pilśniak	PL		0	3	NULL	NULL
+4276	1852	Mariusz		Woźniak			0	4	NULL	NULL
+4277	2378	zahra		ghorbani			1	1	NULL	NULL
+4278	1860	Jean Paul		Zerafa	IT		0	2	NULL	NULL
+4279	2379	Velankanni		Anthonymuthu	IN		1	1	NULL	NULL
+4281	2381	ASIM	PATRA	PATRA	IN		1	1	NULL	NULL
+4282	2381	GOPAL	KRISHNA	PANDA	IN		0	2	NULL	NULL
+4283	2382	Mohammad Reza		Rismanchian	IR		1	1	NULL	NULL
+4284	2383	Dengju		Ma	CN		1	1	NULL	NULL
+4285	2383	Shude		Long	CN		0	2	NULL	NULL
+4286	2383	Han		Ren	CN		0	3	NULL	NULL
+4287	2384	Ismael		Gonzalez Yero	ES		1	3	NULL	NULL
+4288	2384	Sandi		Klavzar	SI		0	1	NULL	NULL
+4289	2384	Douglas F.		Rall	US		0	2	NULL	NULL
+4290	2385	Michal		Parnas	IL		1	1	NULL	NULL
+4291	2386	chj		zhao			1	1	NULL	NULL
+4292	2386	Wingsum		Cheung			0	2	NULL	NULL
+4293	2387	Syeda Asma		Kauser	SA		1	1	NULL	NULL
+4294	2388	Amela		Muratovic-Ribic	BA		1	1	NULL	NULL
+4295	2389	Lingling		Zhang	CN		1	1	NULL	NULL
+4296	2389	Nan		Zhang	CN		0	2	NULL	NULL
+4297	2390	Manuel	Branco	Branco	PT		1	1	NULL	NULL
+4298	2390	José		Rosales	ES		0	2	NULL	NULL
+4299	2390	Márcio		Traesel			0	3	NULL	NULL
+4300	2391	Pantaleón D.		Romero			1	1	NULL	NULL
+4301	2392	MOHD	SHUAIB	AKHTAR	IN		1	4	NULL	NULL
+4302	2392	Mohammad		Ashraf	IN		0	1	NULL	NULL
+4303	2392	Nazia		Parveen	SA		0	2	NULL	NULL
+4304	2392	Mohit		Kumar	IN		0	3	NULL	NULL
+4305	2393	Jordan		Lambert	BR		1	1	NULL	NULL
+4306	2393	Lonardo		Rabelo	BR		0	2	NULL	NULL
+4307	2394	Tanja		Gologranc	SI		1	1	NULL	NULL
+4308	2395	Shuchao		Li	CN		1	1	NULL	NULL
+4309	2395	Wanting		Sun	CN		0	2	NULL	NULL
+4310	2395	Baogen		Xu			0	3	NULL	NULL
+4311	2396	Christian		Rubio-Montiel	MX	https://sites.google.com/view/rubio-montiel/	1	3	NULL	NULL
+4312	2396	Aarón		Atilano	MX		0	1	NULL	NULL
+4313	2396	Sebastian		Bejos	MX		0	2	NULL	NULL
+4314	2397	shude		long	CN		1	1	NULL	NULL
+4315	2397	Junliang		Cai	CN		0	2	NULL	NULL
+4316	2398	Przemysław		Gordinowicz	PL		1	1	NULL	NULL
+4317	2398	Paweł		Twardowski			0	2	NULL	NULL
+4318	2399	Mengmeng		Zhou	CN		1	1	NULL	NULL
+4319	2399	Jianlong		Chen	CN		0	2	NULL	NULL
+4320	2399	Yukun		Zhou	CN		0	3	NULL	NULL
+4321	2399	Nestor		Thome	ES		0	4	NULL	NULL
+4322	2400	Ali		Ahmad	SA		1	1	NULL	NULL
+4323	2401	Benedek		Nagy			1	1	NULL	NULL
+4324	2402	Duan		Fang			1	1	NULL	NULL
+4325	2403	Mark		Budden	US		1	1	NULL	NULL
+4326	2403	Josh		Hiller	US		0	2	NULL	NULL
+4327	2404	Vijay Kumar		Bhat			1	2	NULL	NULL
+4328	2404	Sunny	Kumar	Sharma	IN		0	1	NULL	NULL
+4329	2405	Ilia		Ponomarenko	RU		1	3	NULL	NULL
+4330	2405	Gang		Chen	CN		0	1	NULL	NULL
+4331	2405	Jiawei		He	CN		0	2	NULL	NULL
+4332	2405	Andrey		Vasil'ev	RU		0	4	NULL	NULL
+4333	2406	Atef		Mohamed	EG		1	1	NULL	NULL
+4334	2406	shokry		Nada			0	2	NULL	NULL
+4335	2406	Ashraf		Elrokh			0	3	NULL	NULL
+4336	2407	Tamer	Mohamed	Seoudy	EG	https://orcid.org/0000-0001-6427-6960	1	1	NULL	NULL
+4337	2408	Robert		Jajcay	SK		1	1	NULL	NULL
+4338	2408	Jozef		Siran	SK		0	2	NULL	NULL
+4339	2408	Yan		Wang	CN		0	3	NULL	NULL
+4340	2409	Abderrahim		Arabi	DZ		1	1	NULL	NULL
+4341	2410	Hossein		Kheiri			1	1	NULL	NULL
+4342	2411	Zbigniew	R.	Bogdanowicz	US	https://orcid.org/0000-0001-7208-2090	1	1	NULL	NULL
+4343	2412	Nuttawoot		Nupo	TH		1	3	NULL	NULL
+4344	2412	Nopparat		Pleanmani	TH		0	1	NULL	NULL
+4345	2412	Sayan		Panma	TH		0	2	NULL	NULL
+4346	2413	Wanping		Zhang	CN		1	1	NULL	NULL
+4347	2414	horst		alzer			1	1	NULL	NULL
+4348	2415	Kai		Yuan			0	1	NULL	NULL
+4349	2415	Yan		Wang			1	2	NULL	NULL
+4350	2416	Abderrahim		Boussaïri	MA		1	2	NULL	NULL
+4351	2416	Abdelhak		Chaïchaâ	MA		0	3	NULL	NULL
+4352	2416	Edward		Bankoussou-mabiala	MA		0	1	NULL	NULL
+4353	2416	Brahim		Chergui	MA		0	4	NULL	NULL
+4354	2416	Soufiane		Lakhlifi	MA		0	5	NULL	NULL
+4355	2417	Bart		De Bruyn			1	1	NULL	NULL
+4356	2417	Puspendu		Pradhan			0	2	NULL	NULL
+4357	2417	Binod	Kumar	Sahoo			0	3	NULL	NULL
+4358	2418	Teeradej		Kittipassorn	TH		1	2	NULL	NULL
+4359	2418	Sopon		Boriboon	TH		0	1	NULL	NULL
+4360	2419	Mohammad Reza		Oboudi			1	1	NULL	NULL
+4361	2420	Adara M.		Blaga			1	1	NULL	NULL
+4365	2423	Carlos	Rafael	Carpintero	CO		1	1	NULL	NULL
+4363	2422	Ruby		R	IN		1	1	NULL	NULL
+4364	2422	Reji		T	IN		0	2	NULL	NULL
+4370	2425	Ullas		Chandran	IN		1	1	NULL	NULL
+4367	2424	Ann Susa		Thomas	IN		0	1	NULL	NULL
+4368	2424	Sunny Joseph		Kalayathankal	IN		0	2	NULL	NULL
+4369	2424	Joseph Vargjese		Kureethara	IN		1	3	NULL	NULL
+4371	2425	Neethu		P.K.	IN		0	2	NULL	NULL
+4372	2426	Valentas		Kurauskas	LT		1	1	NULL	NULL
+4373	2426	Ugnė		Šiurienė			0	2	NULL	NULL
+4375	2428	Hossain		Khabazian	US	https://orcid.org/0000-0003-2091-6940	1	1	NULL	NULL
+4376	2429	Afshin		Behmaram			1	1	NULL	NULL
+4377	2429	Saeid		Akbari			0	2	NULL	NULL
+4378	2429	Mohamad		Roghani			0	3	NULL	NULL
+4379	2429	Hossein		Bektash			0	4	NULL	NULL
+4380	2429	Amin		Bahjati			0	5	NULL	NULL
+4381	2430	Michal		Staš	SK	http://web.tuke.sk/fei-km/en/home	1	1	NULL	NULL
+4382	2430	Juraj		Valiska	SK	http://web.tuke.sk/fei-km/en/home	0	2	NULL	NULL
+4383	2431	Azam		Babai	IR		1	1	NULL	NULL
+4384	2431	Effat		Golpar-Raboky			0	2	NULL	NULL
+4385	2432	ASIM	PATRA	PATRA	IN		1	1	NULL	NULL
+4386	2432	GOPAL	KRISHNA	PANDA	IN		0	2	NULL	NULL
+4387	2433	Daniel		Slilaty	US	https://www.daniel-slilaty.xyz/	1	1	NULL	NULL
+4388	2433	Lowell		Abrams	US		0	2	NULL	NULL
+4389	2434	Sulphikar		A			1	1	NULL	NULL
+4390	2435	Willem	H	Haemers			1	1	NULL	NULL
+4391	2436	Claudio		Pita-Ruiz	MX		1	1	NULL	NULL
+4392	2437	Takao		Komatsu			1	1	NULL	NULL
+4393	2438	Abdullahi		Umar			1	1	NULL	NULL
+4394	2439	Abdullahi		Umar	AE		1	1	NULL	NULL
+4395	2439	Abdallah		Laradji	SA		0	2	NULL	NULL
+4396	2122	Xue		Wang	CN		0	1	NULL	NULL
+4397	2122	Fu-Gang		Yin	CN		0	2	NULL	NULL
+4398	2440	Pengjie		Jiao	CN		1	1	NULL	NULL
+4399	2441	Abolfazl		Tarizadeh	IR		1	1	NULL	NULL
+4400	2441	Mohammad Reza		Rezaee	IR		0	2	NULL	NULL
+4401	2442	Jaber	Hussain Jaber	Asalool	IN		1	1	NULL	NULL
+4402	2442	Mohammad		Ashraf	IN		0	2	NULL	NULL
+4403	2442	Mohit		kumar	IN		0	3	NULL	NULL
+4404	2443	Ted		Dobson	SI		1	1	NULL	NULL
+4405	2443	Mikhail		Muzychuk	IL		0	2	NULL	NULL
+4406	2443	Pablo		Spiga	IT		0	3	NULL	NULL
+4407	2444	Venkateswarlu		Bolineni	IN		1	1	NULL	NULL
+4408	2445	Nicola		Apollonio	IT		1	1	NULL	NULL
+4409	2446	Marcin		Anholcer	PL	http://kbo.ue.poznan.pl/anholcer	1	1	NULL	NULL
+4410	2446	Azam Sadat		Emadi	IR		0	2	NULL	NULL
+4411	2446	Doost Ali		Mojdeh	IR		0	3	NULL	NULL
+4412	2447	kamal	lochan	patra	IN		1	2	NULL	NULL
+4413	2447	Dinesh		Pandey	IN		0	1	NULL	NULL
+4414	2448	Shariefuddin		Pirzada	IN		1	0	NULL	NULL
+4415	2449	Gaetano		Siciliano	BR	https://www.ime.usp.br/sicilian	1	2	NULL	NULL
+4416	2449	Bruno		Mascaro	BR		0	1	NULL	NULL
+4417	2450	Saveliy		Skresanov	RU		1	1	NULL	NULL
+4418	2451	Lili		Yuan	CN		1	1	NULL	NULL
+4419	2451	Jixiang		Meng	CN		0	2	NULL	NULL
+4420	2451	Eminjan		Sabir	CN		0	3	NULL	NULL
+4421	2452	Fatemeh		Anousheh			1	1	NULL	NULL
+4422	2452	Afshin		Amini			0	2	NULL	NULL
+4423	2453	Anurag		Singh	IN	https://sites.google.com/site/anuragshomepage/home?authuser=0	1	1	NULL	NULL
+4424	2453	Shuchita		Goyal	IN		0	2	NULL	NULL
+4425	2453	Samir		Shukla	IN		0	3	NULL	NULL
+4426	2454	Aleksander		Vesel			1	1	NULL	NULL
+4427	2455	Shufei		Wu			1	2	NULL	NULL
+4428	2455	Yujie		Bai			0	1	NULL	NULL
+4429	2456	chj		zhao			1	1	NULL	NULL
+4430	2457	Emrah		Kilic	TR		1	2	NULL	NULL
+4431	2457	Wenchang		Chu	IT		0	1	NULL	NULL
+4432	2458	Amir Hosein		Refahi Sheikhani			1	2	NULL	NULL
+4433	2458	Anis		Shabani	IR		0	1	NULL	NULL
+4434	2458	Peyman		Gholamin	IR		0	3	NULL	NULL
+4435	2459	Piyali		Debnath	IN		1	3	NULL	NULL
+4436	2459	Birojit		Das	IN		0	1	NULL	NULL
+4437	2459	Binod	Chandra	Tripathy	IN		0	2	NULL	NULL
+4438	2459	Baby		Bhattacharya	IN		0	4	NULL	NULL
+4439	2460	Ivan	Zoran	Lazarevic	RS		1	1	NULL	NULL
+4440	2461	Qiong		WU	CN		1	0	NULL	NULL
+4442	2463	Hadiseh		Saydi			1	1	NULL	NULL
+4443	2463	Mohammad Reza		Darefsheh			0	2	NULL	NULL
+4444	2464	Klavdija		Kutnar	SI		1	1	NULL	NULL
+4445	2464	Dragan		Marušič	SI		0	2	NULL	NULL
+4446	2464	Tomaž		Pisanski	SI		0	3	NULL	NULL
+4447	2465	Selim		Bahadır	TR		1	1	NULL	NULL
+4448	2465	Tınaz		Ekim	TR		0	2	NULL	NULL
+4449	2465	Didem		Gözüpek	TR		0	3	NULL	NULL
+4450	2466	Miroslav		Haviar	SK	http://www.fpv.umb.sk/~mhaviar/	1	1	NULL	NULL
+4451	2467	Rok		Požar			1	1	NULL	NULL
+4452	2468	Xiao-Dong		ZHANG	CN		1	5	NULL	NULL
+4453	2468	Yu		Yang	CN		0	1	NULL	NULL
+4454	2468	Long		Li	CN		0	2	NULL	NULL
+4455	2468	Jiayi		Cao	CN		0	3	NULL	NULL
+4456	2468	Hua		Wang	US		0	4	NULL	NULL
+4457	2469	Jesús	Álvarez	Lobo	ES		1	1	NULL	NULL
+4458	2470	Xiangwen		Li	CN		1	1	NULL	NULL
+4459	2470	Fangyu		Tian	CN		0	2	NULL	NULL
+4460	2471	engin		kaynar	TR		1	1	NULL	NULL
+4461	2471	hamza		çalışıcı	TR		0	2	NULL	NULL
+4462	2471	ergül		türkmen	TR		0	3	NULL	NULL
+4463	2125	György		Kiss	HU		0	2	NULL	NULL
+4464	2125	Stefano		Marcugini	IT		0	3	NULL	NULL
+4465	2125	Fernanda		Pambianco	IT		0	4	NULL	NULL
+4466	2472	Bünyamin		ŞAHİN	TR		1	1	NULL	NULL
+4468	2474	Takamasa		Yashima	JP		1	1	NULL	NULL
+4469	2474	Naoki		Matsumoto	JP		0	2	NULL	NULL
+4470	2474	Kenta		Noguchi	JP		0	3	NULL	NULL
+4471	2475	Natalia		Bebiano	PT		1	1	NULL	NULL
+4472	2475	Joã0		da Providência	PT		0	2	NULL	NULL
+4473	2475	Ilya	M.	Spitkowsky			0	3	NULL	NULL
+4474	2475	Kenya		Vazquez			0	4	NULL	NULL
+4475	2476	Lucas	R.	de Lima	BR		1	2	NULL	NULL
+4476	2476	Cristian	F.	Coletti	BR		0	1	NULL	NULL
+4477	2476	Diego	S.	de Oliveira	BR		0	3	NULL	NULL
+4478	2476	Marcus	A. M.	Marrocos	BR		0	4	NULL	NULL
+4481	2478	Sergi		Elizalde	US	https://math.dartmouth.edu/~sergi/index.php	0	2	NULL	NULL
+4480	2478	Rigoberto		Florez	US	http://macs.citadel.edu/florez/	1	1	NULL	NULL
+4482	2478	Jose	Luis	Ramirez	CO	https://sites.google.com/site/ramirezrjl/	0	3	NULL	NULL
+4483	2479	Audace A. V.		Dossou-Olory	ZA		1	1	NULL	NULL
+4484	2480	Shibsankar		Das	IN		1	1	NULL	NULL
+4486	2482	Jerzy		Topp	PL		1	1	NULL	NULL
+4487	2482	Michael	A.	Henning	ZA		0	2	NULL	NULL
+4488	2483	Nino		Bašić	SI		1	1	NULL	NULL
+4489	2483	Klavdija		Kutnar			0	2	NULL	NULL
+4490	2483	Dragan		Marušič			0	3	NULL	NULL
+4491	2483	Tomaž		Pisanski			0	4	NULL	NULL
+4493	2485	Nino		Bašić	SI		1	1	NULL	NULL
+4494	2485	Klavdija		Kutnar			0	2	NULL	NULL
+4495	2485	Dragan		Marušič			0	3	NULL	NULL
+4496	2485	Tomaž		Pisanski			0	4	NULL	NULL
+4497	2486	László		Németh	HU		1	1	NULL	NULL
+4498	2486	László		Szalay	HU		0	2	NULL	NULL
+4500	2488	Constantin		Costara	RO		1	1	NULL	NULL
+4501	2489	wadei		al-omeri	JO		1	1	NULL	NULL
+4502	2489	TAKASHI		NOIRI	JO		0	2	NULL	NULL
+4503	2490	Helena		Cobo	ES		1	1	NULL	NULL
+4504	2491	JOHN		J			1	1	NULL	NULL
+4505	2492	Shuchao		Li	CN		1	3	NULL	NULL
+4506	2492	Guohui		Li	CN		0	1	NULL	NULL
+4507	2492	Wanting		Sun	CN		0	2	NULL	NULL
+4508	2492	Xuechao		Li	US		0	4	NULL	NULL
+4509	2493	Alen		Orbanić	SI		1	1	NULL	NULL
+4510	2494	Benedek		Nagy	CY		1	1	NULL	NULL
+4511	2494	Madeeha		Fatima			0	2	NULL	NULL
+4512	2495	Abdellatif		jouini	TN		1	1	NULL	NULL
+4513	2496	Sergio		Bermudo	ES		1	1	NULL	NULL
+4514	2497	Christo	Willem	Kriel	ZA		1	1	NULL	NULL
+4515	2497	Eunice	Gogo	Mphako-Banda	ZA		0	2	NULL	NULL
+4516	2498	Zbigniew	R.	Bogdanowicz			1	1	NULL	NULL
+4517	2499	JOHN		J			1	1	NULL	NULL
+4518	2500	Xin-Yi		Gao			1	1	NULL	NULL
+4519	2501	Marina		Šimac	HR		1	3	NULL	NULL
+4520	2501	Dean		Crnković	HR		0	1	NULL	NULL
+4521	2501	Sanja		Rukavina	HR		0	2	NULL	NULL
+4522	2502	Sumit	Kumar	Jha	IN		1	0	NULL	NULL
+4523	2503	Domenico	Antonino	Catalano			0	1	NULL	NULL
+4524	2503	Domenico	Antonino	Catalano	PT		1	2	NULL	NULL
+4525	2504	Jianfeng		Wang	CN		1	1	NULL	NULL
+4526	2504	Gang		Ma	CN		0	2	NULL	NULL
+4527	2505	Elliot		Krop	US		1	1	NULL	NULL
+4528	2506	Wei		Shouliu	CN		1	1	NULL	NULL
+4529	2506	Shiu		Wai Chee	CN		0	2	NULL	NULL
+4530	2506	Ke		Xiaoling	CN		0	3	NULL	NULL
+4531	2506	Huang		Jianwu	CN		0	4	NULL	NULL
+4532	2507	Eugenia		O'Reilly-Regueiro	MX		1	2	NULL	NULL
+4533	2507	Jos\\'e	Emanuel	Rodr\\'iguez-Fitta	MX		0	1	NULL	NULL
+4534	2508	Benjamín	A	Itzá-Ortiz	MX	https://www.uaeh.edu.mx/campus/icbi/investigacion/matematicas/curriculums/benjamin.html	1	1	NULL	NULL
+4535	2508	Roberto		López-Hernández	MX		0	2	NULL	NULL
+4536	2508	Pedro		Miramontes	MX		0	3	NULL	NULL
+4537	2509	Hyungkyu		Cheon	KR		1	1	NULL	NULL
+4538	2510	Xhevat		Krasniqi	KP		1	1	NULL	NULL
+4558	2524	Idriss	Jamil	Aberkane			1	1	NULL	NULL
+4549	2520	Venugopal		Padmanabhan	IN	https://orcid.org/0000-0002-6602-4334	0	2	NULL	NULL
+4550	2520	Nagarajan		K K	IN	https://orcid.org/0000-0002-1451-2782	0	3	NULL	NULL
+4551	2521	HAILIANG		ZHANG	CN		1	1	NULL	NULL
+4552	2522	Monika		Pilsniak	PL		1	3	NULL	NULL
+4553	2522	Aleksandra		Gorzkowska	PL		0	1	NULL	NULL
+4554	2522	Michael		Henning	ZA		0	2	NULL	NULL
+4555	2522	Elżbieta		Tumidajewicz			0	4	NULL	NULL
+4556	2523	Vijay Kumar		Bhat	IN		1	1	NULL	NULL
+4557	2523	Sunny	Kumar	Sharma	IN		0	2	NULL	NULL
+4548	2520	Gomathi		Sankarasubramanian	IN	https://orcid.org/0000-0002-3655-4799	1	1	NULL	NULL
+4559	2525	Amitabha		Tripathi	IN		1	2	NULL	NULL
+4560	2525	Jai		Moondra			0	1	NULL	NULL
+4561	2525	Aditya		Sahdev			0	3	NULL	NULL
+4562	2526	Ghurumuruhan		Ganesan			1	1	NULL	NULL
+4563	2527	Nadeem	ur	Rehman	IN		1	1	NULL	NULL
+4564	2527	Mohd		Nazim	IN		0	2	NULL	NULL
+4565	2528	Ashok	Kumar	Das	IN		1	1	NULL	NULL
+4566	2529	M.A.		MORENO-FRÍAS	ES		1	1	NULL	NULL
+4567	2529	J.C.		Rosales	ES		0	2	NULL	NULL
+4568	2530	Ilya		Mednykh	RU		1	2	NULL	NULL
+4569	2530	Alexander		Mednykh	RU		0	1	NULL	NULL
+4570	2531	Jesús		Romero-Valencia			1	1	NULL	NULL
+4571	2531	Maira	Alejandra	Palacios-Arce			0	2	NULL	NULL
+4572	2532	Jafar		Amjadi	IR		1	1	NULL	NULL
+4573	2532	Nesa		Khalili	IR		0	2	NULL	NULL
+4574	2533	Aghasi		Ghazaryan	AM		1	1	NULL	NULL
+4575	2534	Maha		Abd Allah			1	1	NULL	NULL
+4576	2535	Batmend		Horoldagva	MN		1	3	NULL	NULL
+4577	2535	Shiikhar		Dorjsembe	MN		0	1	NULL	NULL
+4578	2535	Lkhagva		Buyantogtokh			0	2	NULL	NULL
+4579	2536	chj		zhao			1	1	NULL	NULL
+4580	2537	Hassan		Mouadi	MA		1	1	NULL	NULL
+4581	2537	Driss		Karim	MA		0	2	NULL	NULL
+4582	2538	Alen		Orbanić	SI		1	1	NULL	NULL
+4583	2539	P		Titus	IN		1	1	NULL	NULL
+4584	2539	Bindu		L.R.	IN		0	2	NULL	NULL
